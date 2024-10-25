@@ -17,7 +17,7 @@ booktitle1: "The New Age of Catastrophe"
 bookyear1: 2024
 author1: "Alex Callinicos"
 sayfa1: 328
-pageread1: 113
+pageread1: 176
 #
 #
 #
