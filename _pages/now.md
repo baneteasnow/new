@@ -5,19 +5,20 @@
 # [^aaa]: This is the footnote.
 # term
 # : definition
-read: 47
+#
+read: 48
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-10-20
+last_modified_at: 2024-10-29
 published: true
 
 # 1
-booktitle1: "The New Age of Catastrophe"
-bookyear1: 2024
-author1: "Alex Callinicos"
-sayfa1: 328
-pageread1: 176
+booktitle1: "Novacene"
+bookyear1: 2021
+author1: "James Lovelock"
+sayfa1: 142
+pageread1: 1
 #
 #
 #
