@@ -6,18 +6,18 @@
 # term
 # : definition
 #
-read: 48
+read: 49
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-10-29
+last_modified_at: 2024-11-01
 published: true
 
 # 1
-booktitle1: "Novacene"
-bookyear1: 2021
-author1: "James Lovelock"
-sayfa1: 142
+booktitle1: "Nexus"
+bookyear1: 2024
+author1: "Yuval Noah Harari"
+sayfa1: 448
 pageread1: 1
 #
 #
