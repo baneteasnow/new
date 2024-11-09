@@ -18,7 +18,7 @@ booktitle1: "Nexus"
 bookyear1: 2024
 author1: "Yuval Noah Harari"
 sayfa1: 448
-pageread1: 1
+pageread1: 54
 #
 #
 #
