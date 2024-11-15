@@ -18,7 +18,7 @@ booktitle1: "Nexus"
 bookyear1: 2024
 author1: "Yuval Noah Harari"
 sayfa1: 448
-pageread1: 572
+pageread1: 57
 #
 # 2
 booktitle2: "Dinner with Darwin - Food, Drink, and Evolution"
@@ -86,7 +86,7 @@ _by_ {{ page.author1 }}
 
 ⁜ {{ page.read | plus: 2 }}
 
-{{ page.booktitle2 }} ({{ page.bookyear2 }})
+{{ page.booktitle2 }} ({{ page.bookyear2 }})  
 _by_ {{ page.author2 }}
 
   <div style="font-size: 50%; font-style: italic;">
@@ -107,7 +107,7 @@ _by_ {{ page.author2 }}
 
 ⁜ {{ page.read | plus: 3 }}
 
-{{ page.booktitle3 }} ({{ page.bookyear3 }})
+{{ page.booktitle3 }} ({{ page.bookyear3 }})  
 _by_ {{ page.author3 }}
 
   <div style="font-size: 50%; font-style: italic;">
