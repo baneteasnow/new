@@ -18,7 +18,7 @@ booktitle1: "Nexus"
 bookyear1: 2024
 author1: "Yuval Noah Harari"
 sayfa1: 448
-pageread1: 57
+pageread1: 72
 #
 # 2
 booktitle2: "Dinner with Darwin - Food, Drink, and Evolution"
@@ -32,7 +32,7 @@ booktitle3: "İlişkilerin Günlük Hayatı"
 bookyear3: 2022
 author3: "Alper Hasanoğlu"
 sayfa3: 240
-pageread3: 16
+pageread3: 125
 #
 #
 #
