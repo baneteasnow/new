@@ -10,14 +10,14 @@ yil: "2022"
 sayfa: "240"
 goodreads: "https://www.goodreads.com/book/show/17875682-i-li-kilerin-g-nl-k-hayat"
 description: ""
-last_modified_at: 2024-11-20
-published: false
-posted: 2024-11-20
+last_modified_at: 2024-11-22
+published: true
+posted: 2024-11-22
 tag: "psikoloji"
 reread: "no"
-rating: "3"
+rating: "4"
 eng: ""
-num: ""
+num: "449"
 image: "/assets/new/iliskilerin-gunluk-hayati.jpg"
 update: "tobeupdated"
 ---

@@ -6,11 +6,11 @@
 # term
 # : definition
 #
-read: 50
+read: 51
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-11-15
+last_modified_at: 2024-11-22
 published: true
 
 # 1
@@ -28,11 +28,11 @@ sayfa2: 296
 pageread2: 75
 #
 # 3
-booktitle3: "İlişkilerin Günlük Hayatı"
+booktitle3: "Aşkın Halleri"
 bookyear3: 2022
 author3: "Alper Hasanoğlu"
-sayfa3: 240
-pageread3: 125
+sayfa3: 216
+pageread3: 20
 #
 #
 #
