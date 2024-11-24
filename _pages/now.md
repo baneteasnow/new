@@ -32,7 +32,7 @@ booktitle3: "Aşkın Halleri"
 bookyear3: 2022
 author3: "Alper Hasanoğlu"
 sayfa3: 216
-pageread3: 53
+pageread3: 147
 #
 #
 #
