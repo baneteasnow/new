@@ -32,7 +32,7 @@ booktitle3: "Merdiven Alti Terapi"
 bookyear3: 2024
 author3: "Deniz Dulgeroglu"
 sayfa3: 220
-pageread3: 0
+pageread3: 220
 #
 # 4
 booktitle4: "Yeni Dunya Yeni Kurallar - Yasam Zevkine Ulasmanin Bugunku Yollari"
