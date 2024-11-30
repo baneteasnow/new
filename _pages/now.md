@@ -6,11 +6,11 @@
 # term
 # : definition
 #
-read: 52
+read: 54
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-11-27
+last_modified_at: 2024-11-30
 published: true
 
 # 1
@@ -28,18 +28,11 @@ sayfa2: 296
 pageread2: 75
 #
 # 3
-booktitle3: "Merdiven Alti Terapi"
+booktitle3: "Yeni Dunya Yeni Kurallar - Yasam Zevkine Ulasmanin Bugunku Yollari"
 bookyear3: 2024
-author3: "Deniz Dulgeroglu"
-sayfa3: 220
-pageread3: 220
-#
-# 4
-booktitle4: "Yeni Dunya Yeni Kurallar - Yasam Zevkine Ulasmanin Bugunku Yollari"
-bookyear4: 2024
-author4: "Vedat Milor"
-sayfa4: 272
-pageread4: 0
+author3: "Vedat Milor"
+sayfa3: 272
+pageread3: 0
 #
 #
 #
@@ -133,30 +126,7 @@ _by_ {{ page.author3 }}
       {{ page.pageread3 }}/{{ page.sayfa3 }}
       </span>
   </div>
-
-  <br />
-  <div style="clear: both"></div>
-
-⁜ {{ page.read | plus: 4 }}
-
-{{ page.booktitle4 }} ({{ page.bookyear4 }})  
-_by_ {{ page.author4 }}
-
-  <div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa4 }} sayfa
-  </div>
-
-  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2024">
-  {{ page.pageread4 | times: 100 | divided_by: page.sayfa4 }}%
-  </div>
-
-  <div>
-    <progress title="{{ page.pageread4 }}/{{ page.sayfa4 }}" value="{{ page.pageread4 }}" max="{{ page.sayfa4 }}" style="width: 80%;"></progress>
-      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2024">
-      {{ page.pageread4 }}/{{ page.sayfa4 }}
-      </span>
-  </div>
-
+  
   <br />
   <div style="clear: both"></div>
   <br />
