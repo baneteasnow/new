@@ -2,7 +2,7 @@
 # to be updated
 layout: post
 category: book
-title: "İlişkilerin Günlük Hayatı | Alper Hasanoğlu (Kitap)"
+title: "Ilişkilerin Günlük Hayatı | Alper Hasanoğlu (Kitap)"
 kitap: "İlişkilerin Günlük Hayatı"
 tr: "-"
 yazar: "Alper Hasanoğlu"
