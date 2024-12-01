@@ -18,7 +18,7 @@ rating: "2"
 eng: "Deniz Dülgeroğlu, formerly a dentist and now a podcaster, shares her story in her latest book, Merdiven Altı Terapi."
 num: "451"
 image: "/assets/new/merdiven-alti-terapi.jpg"
-update: "justupdated"
+update: "done"
 ---
 
 Deniz Dülgeroğlu, bir zamanların çene cerrahı diş hekimi, ödüllü bir reklam yazarı ve bugün ‘Merdiven Altı Terapi’ podcastinin samimi sesi. Paylaşımları zeka dolu ve içtenliğiyle dikkat çekiyor. Maruz kaldığı kötü ebeveynliğe, istemediği bir bölümü okumasına ve yaşadığı onca olumsuzluğa rağmen inadına ayakta duran, güçlü bir kadın. Hayat karşısındaki bu direnci, güçlü kalemine de yansımış.
