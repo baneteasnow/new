@@ -10,7 +10,7 @@ read: 54
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-11-30
+last_modified_at: 2024-12-01
 published: true
 
 # 1
@@ -32,7 +32,7 @@ booktitle3: "Yeni Dunya Yeni Kurallar - Yasam Zevkine Ulasmanin Bugunku Yollari"
 bookyear3: 2024
 author3: "Vedat Milor"
 sayfa3: 272
-pageread3: 0
+pageread3: 75
 #
 #
 #
