@@ -18,7 +18,7 @@ rating: "1"
 eng: "Önce Hayallerim Öldü Sonra Babam is a book where the author, Başak Kablan, shares a collection of short essays reflecting on her life."
 num: "448"
 image: "/assets/new/once-hayallerim-oldu-sonra-babam.jpg"
-update: "justupdated"
+update: "done"
 ---
 
 Başak Kablan'ı çoğu kişi gibi ilk olarak YouTube üzerinde yayınladığı kitap ve belgesel öneri videolarıyla tanıdım. Heyecanlı ve soluksuz konuşması, konuları hikayeleştirerek birbirine bağlaması ve pazarlama alanındaki birikiminden ilgi çekici örnekler vermesi, kısa sürede benim gibi pek çok kişinin dikkatini çekti. ‘Önce Hayallerim Öldü Sonra Babam’ adlı eser, Başak Kablan’ın YouTube’da en üretken olduğu dönemde yazılmış.
