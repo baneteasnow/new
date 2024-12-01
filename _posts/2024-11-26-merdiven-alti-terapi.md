@@ -25,4 +25,4 @@ Deniz Dülgeroğlu, bir zamanların çene cerrahı diş hekimi, ödüllü bir re
 
 Podcastiyle aynı adı taşıyan kitabında, yayınlarında ele aldığı konuları işliyor. Kitap ve podcast bölümleri aynı başlıkları taşıyor ve paralel bir yapıda ilerliyor. Deniz Dülgeroğlu’ndan, kitabında daha önce anlatmadığı hikayelerle karşılaşmayı ve belki de onun dünyasına farklı bir bakış açısıyla dahil olmayı umuyordum. Ancak okuduğum, ufak eklemelerle zenginleşmiş ve podcast tadını koruyan bir kitaptı. Umarım yazmaya devam ederse, sonraki kitaplarında daha önce paylaşmadığı hikayelerine ve hayallerine yer verir. Onu hem dinlemekten hem de okumaktan keyif alıyorum ve daha fazlasını sabırsızlıkla bekliyorum.
 
-"Yaşadığımız dünyada hepimiz, herkes gibi olup 'normal' sayılmak için bizi biz yapan gerçek hikayelerimizden vazgeçip kusursuz ama bir o kadar da yüzeysel insanlar olmaya, neredeyse bir Android'e dönüşmeye çabalıyoruz." (sayfa 27)
+> Yaşadığımız dünyada hepimiz, herkes gibi olup 'normal' sayılmak için bizi biz yapan gerçek hikayelerimizden vazgeçip kusursuz ama bir o kadar da yüzeysel insanlar olmaya, neredeyse bir Android'e dönüşmeye çabalıyoruz. (sayfa 27)

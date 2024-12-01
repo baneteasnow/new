@@ -27,12 +27,12 @@ Kitap, çoğunlukla anı türünde kısa yazılardan oluşuyor. Hatta bu anılar
 
 Yazılarında altını çizdiğim, dikkat çekici cümleler olsa da genel olarak ondan daha farklı bir tarz bekliyordum. Kitap boyunca hissettiğim hayal kırıklığı, sanırım bu beklentimin karşılanmamasından kaynaklanıyor.
 
-"Her şey ne zaman normale dönecekti? Bazen biri ölüyor ver her şey değişiyor, bazen binlerce insan ölüyor ve hiç bir şey değişmiyordu." (sayfa 51)
+> Her şey ne zaman normale dönecekti? Bazen biri ölüyor ver her şey değişiyor, bazen binlerce insan ölüyor ve hiç bir şey değişmiyordu. (sayfa 51)
 
-"Kelimeler bile gece fısıldıyorken, uyumak niye?" (sayfa 123)
+> Kelimeler bile gece fısıldıyorken, uyumak niye? (sayfa 123)
 
-"Bu çağ kendinden uzaklaşma, kendini yok sayma çağı. Sonra bunu fark edip kendini bulma, içine dönme çabası. Kural basit, kendini yok et! Sonrasında bulmak için dünya seyahatine çık, meditasyon yap, içine dön, enerjini evrene yolla." (sayfa 137)
+> Bu çağ kendinden uzaklaşma, kendini yok sayma çağı. Sonra bunu fark edip kendini bulma, içine dönme çabası. Kural basit, kendini yok et! Sonrasında bulmak için dünya seyahatine çık, meditasyon yap, içine dön, enerjini evrene yolla. (sayfa 137)
 
-"Tüketmeyi bile tüketmekten korkuyorum." (sayfa 139)
+> Tüketmeyi bile tüketmekten korkuyorum. (sayfa 139)
 
-"Ama bilmiyorlar ki, insan en çok kendi ölümüne ağlar." (sayfa 216)
+> Ama bilmiyorlar ki, insan en çok kendi ölümüne ağlar. (sayfa 216)
