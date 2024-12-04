@@ -6,7 +6,7 @@ last_modified_at: 2023-01-20
 title: "TED Videoları"
 ---
 
-#### [The Surprising Habits of Original Thinkers | Adam Grant (TED)](#the-suprising-habits-of-original-thinkers)
+#### [The Surprising Habits of Original Thinkers - Adam Grant (TED)](#the-suprising-habits-of-original-thinkers)
 
 {: #the-suprising-habits-of-original-thinkers }
 
@@ -20,9 +20,9 @@ Grant, konuşmasının sonunda hızlı bir başlangıç yapmanın ve ilgili konu
 2016  
 15 dk.  
 [TED](https://www.youtube.com/watch?v=fxbCHn6gE3U){:target="\_blank" rel="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-{%-include up.html-%}</i>
+</i>
 
-#### [The Paradox of Choice | Barry Schwartz (TED)](#the-paradox-of-choice)
+#### [The Paradox of Choice - Barry Schwartz (TED)](#the-paradox-of-choice)
 
 {: #the-paradox-of-choice }
 
@@ -42,9 +42,9 @@ Seçenek sayısının bir ya da iki ile sınırlı olduğu geçmişte, yapılan 
 2005  
 21 dk.  
 [TED](https://www.youtube.com/watch?v=VO6XEQIsCoM){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-{%-include up.html-%}</i>
+</i>
 
-#### [Sleep Is Your Superpower | Matt Walker (TED)](#sleep-is-your-superpower)
+#### [Sleep Is Your Superpower - Matt Walker (TED)](#sleep-is-your-superpower)
 
 {: #sleep-is-your-superpower }
 
