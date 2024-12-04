@@ -64,7 +64,11 @@ size %}
 
 <br />
 
-{% assign done = site.data.samplelist | where: "type", "TEDVideo" | size %}<br />
-{% assign done = site.data.samplelist | where: "type", "Belgesel" | size %}<br />
-{% assign done = site.data.samplelist | where: "type", "Podcast" | size %}<br />
-{% assign done = site.data.samplelist | where: "type", "Makale" | size %}
+{% assign media1 = site.data.samplelist | where: "type", "TEDVideo" | size %} {{
+media1 }}<br />
+{% assign media2 = site.data.samplelist | where: "type", "Belgesel" | size %} {{
+media2 }}<br />
+{% assign media3 = site.data.samplelist | where: "type", "Podcast" | size %} {{
+media3 }}<br />
+{% assign media4 = site.data.samplelist | where: "type", "Makale" | size %} {{
+media4 }}
