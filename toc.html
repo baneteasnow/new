@@ -6,7 +6,41 @@ last_modified_at: 2023-01-25
 title: "TED videoları, belgeseller, podcastler, makaleler"
 ---
 
-{% for item in site.data.samplelist %} {% if item.type != "TED Video" %}
+TED Videolari {% for item in site.data.samplelist %} {% if item.type == "TED
+Video" %}
+<div
+	class="decorated"
+	style="font-size: 85%"
+>
+	<i>
+		<a href="{{ item.url }}">{{ item.title }}</a>
+	</i>
+</div>
+{% endif %} {% endfor %}
+<br />
+Belgesel {% for item in site.data.samplelist %} {% if item.type == "Belgesel" %}
+<div
+	class="decorated"
+	style="font-size: 85%"
+>
+	<i>
+		<a href="{{ item.url }}">{{ item.title }}</a>
+	</i>
+</div>
+{% endif %} {% endfor %}
+<br />
+Podcast {% for item in site.data.samplelist %} {% if item.type == "Podcast" %}
+<div
+	class="decorated"
+	style="font-size: 85%"
+>
+	<i>
+		<a href="{{ item.url }}">{{ item.title }}</a>
+	</i>
+</div>
+{% endif %} {% endfor %}
+<br />
+Makale {% for item in site.data.samplelist %} {% if item.type == "Makale" %}
 <div
 	class="decorated"
 	style="font-size: 85%"
