@@ -20,7 +20,7 @@ Bu belgesel, şu soru ile sona eriyor: 'Bu platformları tamamen kapatmadan, ins
 <i>2020  
 94 dk.  
 [imdb](https://www.imdb.com/title/tt11464826/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-{%-include up.html-%}</i>
+</i>
 
 #### [Terms and Conditions May Apply](#terms-and-conditions-may-apply)
 
@@ -34,7 +34,7 @@ Yayınlandığı tarih itibarıyla, bu platformlarla ilgili olan tartışmaları
 <i>2013  
 80 dk.  
 [imdb](https://www.imdb.com/title/tt2084953/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-{%-include up.html-%}</i>
+</i>
 
 #### [Minimalism: A Documentary About the Important Things](#minimalism-a-documentary-about-the-important-things)
 
@@ -46,7 +46,7 @@ The Minimalists isimli kitapları ile tanınan Joshua Fields Millburn ve Ryan Ni
 <i>2015  
 79 dk.  
 [imdb](https://www.imdb.com/title/tt3810760/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-{%-include up.html-%}</i>
+</i>
 
 #### [Food, Inc.](#food-inc)
 
@@ -60,7 +60,7 @@ Bu belgesel ABD'de ki gıda sektörünü sorgulasa da, birçok ülkede gıda ür
 <i>2008  
 94 dk.  
 [imdb](https://www.imdb.com/title/tt1286537/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-{%-include up.html-%}</i>
+</i>
 
 #### [The True Cost](#the-true-cost)
 
@@ -74,7 +74,7 @@ Sürdürülebilir ve etik moda için en önemli belgesellerden biri.
 <i>2015  
 92 dk.  
 [imdb](https://www.imdb.com/title/tt3162938/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-{%-include up.html-%}</i>
+</i>
 
 #### [Forks Over Knives](#forks-over-knives)
 
@@ -96,7 +96,7 @@ Belgesel şu hatırlatma ile son buluyor: "Yemek için yaşamayın, yaşamak iç
 <i>2011  
 96 dk.  
 [imdb](https://www.imdb.com/title/tt1567233/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-{%-include up.html-%}</i>
+</i>
 
 #### [Food Fighter](#food-fighter)
 
@@ -112,7 +112,7 @@ Avustralya'da marketten satın alınan her beş torba yiyecekten bir tanesi tük
 <i>2018  
 87 dk.  
 [imdb](https://www.imdb.com/title/tt8142370/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-{%-include up.html-%}</i>
+</i>
 
 #### [The Inventor: Out for Blood in Silicon Valley](#the-inventor-out-for-blood-in-silicon-valley)
 
@@ -136,7 +136,7 @@ Theranos, 2018 yılında açılan davalarla birlikte kapatılmıştır. John Car
 <i>2019  
 119 dk.  
 [imdb](https://www.imdb.com/title/tt8488126/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-{%-include up.html-%}</i>
+</i>
 
 #### [Cowspiracy: The Sustainability Secret](#cowspiracy-the-sustainability-secret)
 
@@ -158,7 +158,7 @@ Cowspiracy, Sürdürülebilir gıda ürünlerinin hangilerini olduğunu anlamak 
 <i>2014  
 90 dk.  
 [imdb](https://www.imdb.com/title/tt3302820/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-{%-include up.html-%}</i>
+</i>
 
 #### [The September Issue](#the-september-issue)
 
@@ -174,7 +174,7 @@ Dergilerin pek çoğunun yavaş yavaş sadece dijital ortamda yayınlarına deva
 <i>2009  
 90 dk.  
 [imdb](https://www.imdb.com/title/tt1331025/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-{%-include up.html-%}</i>
+</i>
 
 #### [The Minimalists: Less Is Now](#the-minimalists-less-is-now)
 
@@ -202,7 +202,7 @@ Her ikisi de evlerinin aşırı 'sade' olmadığını, ama sahip oldukları her 
 <i>2021  
 53 dk.  
 [imdb](https://www.imdb.com/title/tt13583144/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-{%-include up.html-%}</i>
+</i>
 
 #### [Take Your Pills](#take-your-pills)
 
@@ -218,7 +218,7 @@ Dünya çapındaki verilere göre, ABD en fazla ADHD teşhisi konulan ülke. Bel
 <i>2018  
 87 dk.  
 [imdb](https://www.imdb.com/title/tt7983844/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-{%-include up.html-%}</i>
+</i>
 
 #### [What The Health](#what-the-health)
 
@@ -236,7 +236,7 @@ Bu belgeselde Michael Klaper, Michael Greger, Neal Barnard ve David Simon gibi k
 <i>2017  
 97 dk.  
 [imdb](https://www.imdb.com/title/tt5541848/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-{%-include up.html-%}</i>
+</i>
 
 #### [Seaspiracy](#seaspiracy)
 
@@ -254,7 +254,7 @@ Seaspiracy, deniz canlılarını tüketimine son vermenin ve bu şekilde talebi 
 <i>2021  
 79 dk.  
 [imdb](https://www.imdb.com/title/tt14152756/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
-{%-include up.html-%}</i>
+</i>
 
 #### [Earthlings](#earthlings)
 

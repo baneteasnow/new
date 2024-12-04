@@ -6,7 +6,7 @@ last_modified_at: 2023-01-25
 title: "TED videoları, belgeseller, podcastler, makaleler"
 ---
 
-{% for item in site.data.samplelist %}
+{% for item in site.data.samplelist %} {% if item.type != "TED Video" %}
 <div
 	class="decorated"
 	style="font-size: 85%"
@@ -15,7 +15,7 @@ title: "TED videoları, belgeseller, podcastler, makaleler"
 		<a href="{{ item.url }}">{{ item.title }}</a>
 	</i>
 </div>
-{% endfor %}
+{% endif %} {% endfor %}
 <br />
 {% assign sample_data = site.data.samplelist %} {% assign media = sample_data |
 size %}
