@@ -11,7 +11,7 @@ assign media2 = site.data.samplelist | where: "type", "Belgesel" | size %} {%
 assign media3 = site.data.samplelist | where: "type", "Podcast" | size %} {%
 assign media4 = site.data.samplelist | where: "type", "Makale" | size %}
 
-<b>TED Videolari</b>
+<a href="https://www.next52books.com/media/videos.html"><b>TED Videolari</b></a>
 {{ media1 }}
 <br />
 {% for item in site.data.samplelist %} {% if item.type == "TEDVideo" %}
@@ -25,7 +25,9 @@ assign media4 = site.data.samplelist | where: "type", "Makale" | size %}
 </div>
 {% endif %} {% endfor %}
 <br />
-<b>Belgesel</b>
+<a href="https://www.next52books.com/media/documentaries.html"
+	><b>Belgesel</b></a
+>
 {{ media2 }}
 <br />
 {% for item in site.data.samplelist %} {% if item.type == "Belgesel" %}
@@ -39,7 +41,7 @@ assign media4 = site.data.samplelist | where: "type", "Makale" | size %}
 </div>
 {% endif %} {% endfor %}
 <br />
-<b>Podcast</b>
+<a href="https://www.next52books.com/media/podcasts.html"><b>Podcast</b></a>
 {{ media4 }}
 <br />
 {% for item in site.data.samplelist %} {% if item.type == "Podcast" %}
@@ -53,7 +55,7 @@ assign media4 = site.data.samplelist | where: "type", "Makale" | size %}
 </div>
 {% endif %} {% endfor %}
 <br />
-<b>Makale</b>
+<a href="https://www.next52books.com/media/articles.html"><b>Makale</b></a>
 {{ media3 }}
 <br />
 {% for item in site.data.samplelist %} {% if item.type == "Makale" %}
@@ -68,7 +70,6 @@ assign media4 = site.data.samplelist | where: "type", "Makale" | size %}
 {% endif %} {% endfor %}
 <br />
 {% assign sample_data = site.data.samplelist %} {% assign media = sample_data |
-size %}
-<i>{{ media }}</i>
+size %} toplam <i>{{ media }}</i>
 
 <br />
