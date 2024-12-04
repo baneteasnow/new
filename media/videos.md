@@ -6,9 +6,9 @@ last_modified_at: 2023-01-20
 title: "TED Videoları"
 ---
 
-#### [Vegan Sucuk](#vegan-sucuk)
+#### [The Suprising Habits of Original Thinkers](#the-suprising-habits-of-original-thinkers)
 
-{: #vegan-sucuk }
+{: #the-suprising-habits-of-original-thinkers }
 
 Adam Grant, 2016 yılında Vancouver, BC'de yaptığı "The surprising habits of original thinkers" başlıklı TED konuşmasında Originals isimli kitabına çeşitli göndermeler yapıyor. Grant, hem bir konu hakkında yaratıcı fikirleri olan hem de bu fikirlerini gerçekleştirmek üzere harekete geçerek, bir değişim yaratmaktan çekinmeyen kişileri 'orijinaller' olarak tanımlıyor.
 
