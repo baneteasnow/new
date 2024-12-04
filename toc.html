@@ -6,6 +6,11 @@ last_modified_at: 2023-01-25
 title: "TED videoları, belgeseller, podcastler, makaleler"
 ---
 
+{% assign media1 = site.data.samplelist | where: "type", "TEDVideo" | size %} {%
+assign media2 = site.data.samplelist | where: "type", "Belgesel" | size %} {%
+assign media3 = site.data.samplelist | where: "type", "Podcast" | size %} {%
+assign media4 = site.data.samplelist | where: "type", "Makale" | size %}
+
 <b>TED Videolari</b>
 <br />
 {% for item in site.data.samplelist %} {% if item.type == "TEDVideo" %}
@@ -17,7 +22,7 @@ title: "TED videoları, belgeseller, podcastler, makaleler"
 		<a href="{{ item.url }}">{{ item.title }}</a>
 	</i>
 </div>
-{% endif %} {% endfor %}
+{% endif %} {% endfor %}{{ media1 }}
 <br />
 <b>Belgesel</b>
 <br />
@@ -30,7 +35,7 @@ title: "TED videoları, belgeseller, podcastler, makaleler"
 		<a href="{{ item.url }}">{{ item.title }}</a>
 	</i>
 </div>
-{% endif %} {% endfor %}
+{% endif %} {% endfor %}{{ media2 }}
 <br />
 <b>Podcast</b>
 <br />
@@ -43,7 +48,7 @@ title: "TED videoları, belgeseller, podcastler, makaleler"
 		<a href="{{ item.url }}">{{ item.title }}</a>
 	</i>
 </div>
-{% endif %} {% endfor %}
+{% endif %} {% endfor %}{{ media4 }}
 <br />
 <b>Makale</b>
 <br />
@@ -56,19 +61,10 @@ title: "TED videoları, belgeseller, podcastler, makaleler"
 		<a href="{{ item.url }}">{{ item.title }}</a>
 	</i>
 </div>
-{% endif %} {% endfor %}
+{% endif %} {% endfor %}{{ media3 }}
 <br />
 {% assign sample_data = site.data.samplelist %} {% assign media = sample_data |
 size %}
 <i>{{ media }}</i>
 
 <br />
-
-{% assign media1 = site.data.samplelist | where: "type", "TEDVideo" | size %} {{
-media1 }}<br />
-{% assign media2 = site.data.samplelist | where: "type", "Belgesel" | size %} {{
-media2 }}<br />
-{% assign media3 = site.data.samplelist | where: "type", "Podcast" | size %} {{
-media3 }}<br />
-{% assign media4 = site.data.samplelist | where: "type", "Makale" | size %} {{
-media4 }}
