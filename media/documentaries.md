@@ -6,8 +6,7 @@ last_modified_at: 2021-07-29
 title: "Belgeseller"
 ---
 
-
-#### [The Social Dilemma (Belgesel)](#the-social-dilemma)
+#### [The Social Dilemma](#the-social-dilemma)
 
 {: #the-social-dilemma }
 
@@ -22,7 +21,7 @@ Bu belgesel, şu soru ile sona eriyor: 'Bu platformları tamamen kapatmadan, ins
 [imdb](https://www.imdb.com/title/tt11464826/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 {%-include up.html-%}</i>
 
-#### [Terms and Conditions May Apply (Belgesel)](#terms-and-conditions-may-apply)
+#### [Terms and Conditions May Apply](#terms-and-conditions-may-apply)
 
 {: #terms-and-conditions-may-apply }
 
@@ -35,9 +34,9 @@ Yayınlandığı tarih itibarıyla, bu platformlarla ilgili olan tartışmaları
 [imdb](https://www.imdb.com/title/tt2084953/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 {%-include up.html-%}</i>
 
-#### [Minimalism: A Documentary About the Important Things (Belgesel)](#minimalism)
+#### [Minimalism: A Documentary About the Important Things](#minimalism-a-documentary-about-the-important-things)
 
-{: #minimalism }
+{: #minimalism-a-documentary-about-the-important-things }
 
 The Minimalists isimli kitapları ile tanınan Joshua Fields Millburn ve Ryan Nicodemus, bu belgeselde daha az eşya ile yaşamaya karar veren insanların öykülerini paylaşıyor. Daha azla yaşamak hiç birşeyle yaşamak değil kesinlikle. Sadece yetecek olan kadarı ile yaşamak. İçinde bulunduğunuz ortamdaki eşyaların ve nesnelerin sayısını azaltmak aynı zamanda o ortamdaki arınmayı ve ferahlığı da beraberinde getiriyor aslında. Daha sürdürülebilir bir hayat tarzına geçenlerin öyküsü aslında ilham veriyor, sadece almak için almak değil gerçekten gerekli olanı almanın hem bireylere hem de dünyaya olumlu etkisi anlatılıyor. Sürdürülebilir bir dünya için, aynı zamanda, ikinci el eşya seçeneğini de unutmamak gerekli.
 
@@ -46,7 +45,7 @@ The Minimalists isimli kitapları ile tanınan Joshua Fields Millburn ve Ryan Ni
 [imdb](https://www.imdb.com/title/tt3810760/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 {%-include up.html-%}</i>
 
-#### [Food, Inc. (Belgesel)](#food-inc)
+#### [Food, Inc.](#food-inc)
 
 {: #food-inc }
 
@@ -59,7 +58,7 @@ Bu belgesel ABD'de ki gıda sektörünü sorgulasa da, birçok ülkede gıda ür
 [imdb](https://www.imdb.com/title/tt1286537/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 {%-include up.html-%}</i>
 
-#### [The True Cost (Belgesel)](#the-true-cost)
+#### [The True Cost](#the-true-cost)
 
 {: #the-true-cost }
 
@@ -72,7 +71,7 @@ Sürdürülebilir ve etik moda için en önemli belgesellerden biri.
 [imdb](https://www.imdb.com/title/tt3162938/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 {%-include up.html-%}</i>
 
-#### [Forks Over Knives (Belgesel)](#forks-over-knives)
+#### [Forks Over Knives](#forks-over-knives)
 
 {: #forks-over-knives }
 
@@ -93,7 +92,7 @@ Belgesel şu hatırlatma ile son buluyor: "Yemek için yaşamayın, yaşamak iç
 [imdb](https://www.imdb.com/title/tt1567233/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 {%-include up.html-%}</i>
 
-#### [Food Fighter (Belgesel)](#food-fighter)
+#### [Food Fighter](#food-fighter)
 
 {: #food-fighter }
 
@@ -108,9 +107,9 @@ Avustralya'da marketten satın alınan her beş torba yiyecekten bir tanesi tük
 [imdb](https://www.imdb.com/title/tt8142370/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 {%-include up.html-%}</i>
 
-#### [The Inventor: Out for Blood in Silicon Valley (Belgesel)](#the-inventor)
+#### [The Inventor: Out for Blood in Silicon Valley](#the-inventor-out-for-blood-in-silicon-valley)
 
-{: #the-inventor }
+{: #the-inventor-out-for-blood-in-silicon-valley }
 
 Elizabeth Holmes ve medikal kan testlerinin yapılış yönteminde devrim yaratma iddiası ile 2003 yılında kurduğu Theranos firmasının hikayesi bu belgeselde anlatılıyor. Elizabeth Holmes, yıllar içinde firmasına aldığı yatırımlar sayesinde Silikon Vadisi'ndeki en genç kadın milyarderlerden biri haline gelmiş, ancak The Wall Street Journal'da John Carreyrou imzasını taşıyan 'Hot Startup Theranos Has Struggled With Its Blood-Test Technology' isimli makalenin 2015 yılında yayınlanması ile firmanın sunduğu testlerin doğruluğu sorgulanmaya başlanmış.
 
@@ -131,9 +130,9 @@ Theranos, 2018 yılında açılan davalarla birlikte kapatılmıştır. John Car
 [imdb](https://www.imdb.com/title/tt8488126/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 {%-include up.html-%}</i>
 
-#### [Cowspiracy: The Sustainability Secret (Belgesel)](#cowspiracy)
+#### [Cowspiracy: The Sustainability Secret](#cowspiracy-the-sustainability-secret)
 
-{: #cowspiracy }
+{: #cowspiracy-the-sustainability-secret }
 
 Belgeselin yazarı ve yönetmeni Kip Anderson, yıllar önce Al Gore'un 'An Inconvenient Truth' isimli belgeselinden etkilenerek günlük alışkanlıklarını değiştirmiş, örneğin, geri dönüşüme daha fazla önem verir almış, duşta su harcama süresini iyice azaltmış. Ancak, kazandığı bu ileri düzeyde biraz da 'takıntılı' çevreci bakışçısının yetmediğini düşünerek konuyu daha fazla araştırınca yıllık sera gazi salınımında sektörler arasında en üst sırada hayvancılığın geldiğini görmüş. Örneğin 1 hamburger için 660 galon su tüketilmesi gerekiyor. Bu miktar yaklaşık olarak iki ay süresince kısa duşlarda tüketilen su miktarına eşit. Oysa, ABD'de yıllık şu tüketimi incelendiğinde hayvancılık sektörü 55%'lik oran ile diğer tüm kalemlerin önüne geçiyor.
 
@@ -152,7 +151,7 @@ Cowspiracy, Sürdürülebilir gıda ürünlerinin hangilerini olduğunu anlamak 
 [imdb](https://www.imdb.com/title/tt3302820/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 {%-include up.html-%}</i>
 
-#### [The September Issue (Belgesel)](#the-september-issue)
+#### [The September Issue](#the-september-issue)
 
 {: #the-september-issue }
 
@@ -167,9 +166,9 @@ Dergilerin pek çoğunun yavaş yavaş sadece dijital ortamda yayınlarına deva
 [imdb](https://www.imdb.com/title/tt1331025/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 {%-include up.html-%}</i>
 
-#### [The Minimalists: Less Is Now (Belgesel)](#the-minimalists)
+#### [The Minimalists: Less Is Now](#the-minimalists-less-is-now)
 
-{: #the-minimalists }
+{: #the-minimalists-less-is-now }
 
 Online alışverişin bu kadar kolay olması, reklamlar, alınanların mutluluk getireceği gibi çeşitli etkenler, insanları aslında ihtiyaçları olmayan ürünler almaya itiyor. Oysa, tüketimin sınırlarını çoktan zorlar duruma geldik. Elimizdeki zaten mevcut ürünleri değerlendirmek yerine yenisini almak daha kolay. Aslında yaşamak için gerekli olan günlük eşyalar o kadar az ki.
 
@@ -194,7 +193,7 @@ Her ikisi de evlerinin aşırı 'sade' olmadığını, ama sahip oldukları her 
 [imdb](https://www.imdb.com/title/tt13583144/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 {%-include up.html-%}</i>
 
-#### [Take Your Pills (Belgesel)](#take-your-pills)
+#### [Take Your Pills](#take-your-pills)
 
 {: #take-your-pills }
 
@@ -209,7 +208,7 @@ Dünya çapındaki verilere göre, ABD en fazla ADHD teşhisi konulan ülke. Bel
 [imdb](https://www.imdb.com/title/tt7983844/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 {%-include up.html-%}</i>
 
-#### [What The Health (Belgesel)](#what-the-health)
+#### [What The Health](#what-the-health)
 
 {: #what-the-health }
 
@@ -226,7 +225,7 @@ Bu belgeselde Michael Klaper, Michael Greger, Neal Barnard ve David Simon gibi k
 [imdb](https://www.imdb.com/title/tt5541848/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 {%-include up.html-%}</i>
 
-#### [Seaspiracy (Belgesel)](#seaspiracy)
+#### [Seaspiracy](#seaspiracy)
 
 {: #seaspiracy }
 
@@ -243,7 +242,7 @@ Seaspiracy, deniz canlılarını tüketimine son vermenin ve bu şekilde talebi 
 [imdb](https://www.imdb.com/title/tt14152756/){:target="\_blank" rel="noreferrer,nofollow" style="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 {%-include up.html-%}</i>
 
-#### [Earthlings (Belgesel)](#earthlings)
+#### [Earthlings](#earthlings)
 
 {: #earthlings }
 

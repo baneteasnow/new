@@ -6,7 +6,7 @@ last_modified_at: 2023-01-20
 title: "Makaleler"
 ---
 
-#### [xxx | xxx (Article)](#xxx)
+#### [xxx](#xxx)
 
 {: #xxx-xxx }
 
