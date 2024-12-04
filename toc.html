@@ -6,8 +6,9 @@ last_modified_at: 2023-01-25
 title: "TED videoları, belgeseller, podcastler, makaleler"
 ---
 
-TED Videolari {% for item in site.data.samplelist %} {% if item.type == "TED
-Video" %}
+<b>TED Videolari</b>
+<br />
+{% for item in site.data.samplelist %} {% if item.type == "TEDVideo" %}
 <div
 	class="decorated"
 	style="font-size: 85%"
@@ -18,7 +19,9 @@ Video" %}
 </div>
 {% endif %} {% endfor %}
 <br />
-Belgesel {% for item in site.data.samplelist %} {% if item.type == "Belgesel" %}
+<b>Belgesel</b>
+<br />
+{% for item in site.data.samplelist %} {% if item.type == "Belgesel" %}
 <div
 	class="decorated"
 	style="font-size: 85%"
@@ -29,7 +32,9 @@ Belgesel {% for item in site.data.samplelist %} {% if item.type == "Belgesel" %}
 </div>
 {% endif %} {% endfor %}
 <br />
-Podcast {% for item in site.data.samplelist %} {% if item.type == "Podcast" %}
+<b>Podcast</b>
+<br />
+{% for item in site.data.samplelist %} {% if item.type == "Podcast" %}
 <div
 	class="decorated"
 	style="font-size: 85%"
@@ -40,7 +45,9 @@ Podcast {% for item in site.data.samplelist %} {% if item.type == "Podcast" %}
 </div>
 {% endif %} {% endfor %}
 <br />
-Makale {% for item in site.data.samplelist %} {% if item.type == "Makale" %}
+<b>Makale</b>
+<br />
+{% for item in site.data.samplelist %} {% if item.type == "Makale" %}
 <div
 	class="decorated"
 	style="font-size: 85%"
