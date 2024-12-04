@@ -2,14 +2,14 @@
 # https://www.next52books.com/toc.html
 layout: page-9
 published: true
-last_modified_at: 2023-01-20
+last_modified_at: 2024-12-04
 title: "TED Videoları"
 ---
 
 #### [The Suprising Habits of Original Thinkers by Adam Grant](#the-suprising-habits-of-original-thinkers-by-adam-grant)
 
 {: #the-suprising-habits-of-original-thinkers-by-adam-grant }
-**(TED Video)**
+**TED Video**
 
 Adam Grant, 2016 yılında Vancouver, BC'de yaptığı "The surprising habits of original thinkers" başlıklı TED konuşmasında Originals isimli kitabına çeşitli göndermeler yapıyor. Grant, hem bir konu hakkında yaratıcı fikirleri olan hem de bu fikirlerini gerçekleştirmek üzere harekete geçerek, bir değişim yaratmaktan çekinmeyen kişileri 'orijinaller' olarak tanımlıyor.
 
@@ -26,7 +26,7 @@ Grant, konuşmasının sonunda hızlı bir başlangıç yapmanın ve ilgili konu
 #### [The Paradox of Choice by Barry Schwartz](#the-paradox-of-choice-by-barry-schwartz)
 
 {: the-paradox-of-choice-by-barry-schwartz }
-**(TED Video)**
+**TED Video**
 
 Barry Schwartz, 2005 yılında Oxford, İngiltere'de yaptığı TED konuşmasında çok fazla seçeneğe sahip olmanın yarattığı paradokslardan bahsediyor, aynı konuyu işlediği 'Bolluk Paradoksu' isimli 2004 tarihli kitabına göndermeler yapıyor.
 
@@ -49,7 +49,7 @@ Seçenek sayısının bir ya da iki ile sınırlı olduğu geçmişte, yapılan 
 #### [Sleep Is Your Superpower by Matt Walker TED Video](#sleep-is-your-superpower-by-matt-walker-ted-video)
 
 {: #sleep-is-your-superpower-by-matt-walker-ted-video }
-**(TED Video)**
+**TED Video**
 
 Matthew Walker 2019 yılında Vancouver, BC'de yaptığı konuşmasında kendi uzmanlık alanı olan uykuya değiniyor ve Why We Sleep isimli kitabında da yer verdiği çeşitli araştırmalardan notlar aktarıyor.
 

@@ -2,13 +2,14 @@
 # https://www.next52books.com/toc.html
 layout: page-9
 published: true
-last_modified_at: 2021-07-29
+last_modified_at: 2024-12-04
 title: "Belgeseller"
 ---
 
-#### [The Social Dilemma](#the-social-dilemma-belgesel)
+#### [The Social Dilemma](#the-social-dilemma)
 
 {: #the-social-dilemma }
+**Belgesel**
 
 Facebook, Instagram, Twitter, Pinterest, Google ve benzer diğer platformlarda gerçek ürün aslında kullanıcılar ve onların bu platformları kullanmaya ayırdıkları dikkatleri. The Social Dilemma, bu konuda yapılmış olan ilk belgesel olmasa da, görüşlerine yer verilen isimler oldukça dikkat çekici, pek çoğu bu platformları geliştiren ve onlara yeni özellikler ekleyen isimler.
 
@@ -24,6 +25,7 @@ Bu belgesel, şu soru ile sona eriyor: 'Bu platformları tamamen kapatmadan, ins
 #### [Terms and Conditions May Apply](#terms-and-conditions-may-apply)
 
 {: #terms-and-conditions-may-apply }
+**Belgesel**
 
 Terms and Conditions May Apply, Google, Facebook, Instagram, Twitter ve diğer pek çok ücretsiz platformda kullanıcı olabilmek için çoğu zaman hiç düşünmeden kabul ettiğimiz hüküm ve koşulların bize aslında neye malolduğunu anlatıyor. Beğendiklerimiz, arama geçmişimiz, bulunduğumuz lokasyonlar, iletişimde olduğumuz kişiler, hangi resimlere kaç saniye baktığımız gibi aslında çok değerli bilgileri bu platformlarla paylaşıyoruz, üstelik kendi isteğimizle, hiçbir itiraz hakkımız olmadığını baştan kabul ederek. Kullanıcıların dikkati, bu platformların ürünü haline geliyor.
 
@@ -37,6 +39,7 @@ Yayınlandığı tarih itibarıyla, bu platformlarla ilgili olan tartışmaları
 #### [Minimalism: A Documentary About the Important Things](#minimalism-a-documentary-about-the-important-things)
 
 {: #minimalism-a-documentary-about-the-important-things }
+**Belgesel**
 
 The Minimalists isimli kitapları ile tanınan Joshua Fields Millburn ve Ryan Nicodemus, bu belgeselde daha az eşya ile yaşamaya karar veren insanların öykülerini paylaşıyor. Daha azla yaşamak hiç birşeyle yaşamak değil kesinlikle. Sadece yetecek olan kadarı ile yaşamak. İçinde bulunduğunuz ortamdaki eşyaların ve nesnelerin sayısını azaltmak aynı zamanda o ortamdaki arınmayı ve ferahlığı da beraberinde getiriyor aslında. Daha sürdürülebilir bir hayat tarzına geçenlerin öyküsü aslında ilham veriyor, sadece almak için almak değil gerçekten gerekli olanı almanın hem bireylere hem de dünyaya olumlu etkisi anlatılıyor. Sürdürülebilir bir dünya için, aynı zamanda, ikinci el eşya seçeneğini de unutmamak gerekli.
 
@@ -48,6 +51,7 @@ The Minimalists isimli kitapları ile tanınan Joshua Fields Millburn ve Ryan Ni
 #### [Food, Inc.](#food-inc)
 
 {: #food-inc }
+**Belgesel**
 
 Her gün markete gidip satın aldığımız yiyecekler, hangi süreçlerden geçerek tabağımıza kadar ulaşıyor? İçeriklerinde hangi katkı maddeleri yer alıyor? Ve daha da önemli bir soru: Ne yediğimizi gerçekten bilseydik eğer, gene de yemeğe devam eder miydik?
 
@@ -61,6 +65,7 @@ Bu belgesel ABD'de ki gıda sektörünü sorgulasa da, birçok ülkede gıda ür
 #### [The True Cost](#the-true-cost)
 
 {: #the-true-cost }
+**Belgesel**
 
 Giydiğimiz kıyafetlerin gerçek bedelini aslında kim ödüyor? $5 etiketi ile satılan tişörtlerin dünyaya gerçek maliyeti ne? Hızlı moda (fast fashion) akımının perde arkasını anlatan bu belgesel, moda sektöründe daha adil bir üretimin yollarını arıyor, sektörün yol açtığı etkileri tartışıyor. Bir tarafta düşük bütçeli hızlı tüketime yönelik moda akımına kapılmış tüketiciler ve diğer tarafta olumsuz şartlar altında üretime devam eden, farklı ülkelerdeki ucuz işgücünden yararlanan firmalar. En acı olaylardan biri 2013 yılında Bangladeş'te büyük bir felaketle sonuçlanan Rana Plza'nın çöküşüydü. Üstelik bu ne ilk ne de son örnek.
 
@@ -74,6 +79,7 @@ Sürdürülebilir ve etik moda için en önemli belgesellerden biri.
 #### [Forks Over Knives](#forks-over-knives)
 
 {: #forks-over-knives }
+**Belgesel**
 
 Forks Over Knives, batı tarzı diyetin yol açtığı hastalıklara ve kilo artışına dikkat çekerek başlıyor. Batı tarzı diyet, yüksek kalorili, protein açısından zengin, bol yağlı ancak lifli beşinden yoksun kızartılmış gıdanın yoğun olarak kullanıldığı beslenme tarzını temsil ediyor. Bu beslenme tarzı, özellikle zincir restoranlar ve paketli işlenmiş hazır gıdaların yaygın hale gelmesi ile tüm dünyaya yayılmış durumda. Belgeselde paylaşılan verilerine göre ABD'de nüfusun 40%'i obezite ile karşı karşıya. Bu veriler, 2011 yılı öncesine ait. Ayrıca, ABD nüfusunun yarısı düzenli olarak reçeteli ilaç kullanıyor. Şeker, kafein, tuz, yağ en çok tüketilen besin içerikleri arasında yer alıyor. Beslenme tarzının hazır ve işlenmiş yiyeceklere dayanması kitlesel bir sağlık krizine işaret ediyor, kal hastalıkları, kanser, yüksek tansiyon, diyabet gibi kronik pek çok hastalığı beraberinde getiriyor.
 
@@ -95,6 +101,7 @@ Belgesel şu hatırlatma ile son buluyor: "Yemek için yaşamayın, yaşamak iç
 #### [Food Fighter](#food-fighter)
 
 {: #food-fighter }
+**Belgesel**
 
 Ronni Kahn, Avustralya'da resmi otoriteleri harekete geçiren bir değişimi başlatan bir aktivist. Odaklandığı nokta, yiyecek israfı.
 
@@ -110,6 +117,7 @@ Avustralya'da marketten satın alınan her beş torba yiyecekten bir tanesi tük
 #### [The Inventor: Out for Blood in Silicon Valley](#the-inventor-out-for-blood-in-silicon-valley)
 
 {: #the-inventor-out-for-blood-in-silicon-valley }
+**Belgesel**
 
 Elizabeth Holmes ve medikal kan testlerinin yapılış yönteminde devrim yaratma iddiası ile 2003 yılında kurduğu Theranos firmasının hikayesi bu belgeselde anlatılıyor. Elizabeth Holmes, yıllar içinde firmasına aldığı yatırımlar sayesinde Silikon Vadisi'ndeki en genç kadın milyarderlerden biri haline gelmiş, ancak The Wall Street Journal'da John Carreyrou imzasını taşıyan 'Hot Startup Theranos Has Struggled With Its Blood-Test Technology' isimli makalenin 2015 yılında yayınlanması ile firmanın sunduğu testlerin doğruluğu sorgulanmaya başlanmış.
 
@@ -133,6 +141,7 @@ Theranos, 2018 yılında açılan davalarla birlikte kapatılmıştır. John Car
 #### [Cowspiracy: The Sustainability Secret](#cowspiracy-the-sustainability-secret)
 
 {: #cowspiracy-the-sustainability-secret }
+**Belgesel**
 
 Belgeselin yazarı ve yönetmeni Kip Anderson, yıllar önce Al Gore'un 'An Inconvenient Truth' isimli belgeselinden etkilenerek günlük alışkanlıklarını değiştirmiş, örneğin, geri dönüşüme daha fazla önem verir almış, duşta su harcama süresini iyice azaltmış. Ancak, kazandığı bu ileri düzeyde biraz da 'takıntılı' çevreci bakışçısının yetmediğini düşünerek konuyu daha fazla araştırınca yıllık sera gazi salınımında sektörler arasında en üst sırada hayvancılığın geldiğini görmüş. Örneğin 1 hamburger için 660 galon su tüketilmesi gerekiyor. Bu miktar yaklaşık olarak iki ay süresince kısa duşlarda tüketilen su miktarına eşit. Oysa, ABD'de yıllık şu tüketimi incelendiğinde hayvancılık sektörü 55%'lik oran ile diğer tüm kalemlerin önüne geçiyor.
 
@@ -154,6 +163,7 @@ Cowspiracy, Sürdürülebilir gıda ürünlerinin hangilerini olduğunu anlamak 
 #### [The September Issue](#the-september-issue)
 
 {: #the-september-issue }
+**Belgesel**
 
 Eylül ayı sonbaharın kendini yavaş yavaş göstermeye başladığı, yeni ürün lansmanlarının yapıldığı, yeni sezon koleksiyonlarının vitrinlere çıktığı aydır. Vogue dergisi için de yılın en önemli sayısı eylül ayınınkidir, çünkü moda dünyasının 'ocak' ayı 'eylül'dur. The September Issue, Vogue US'in Eylül 2007 sayısının hazırlanması sırasında derginin ünlü editörü Anna Wintour ve ekibini adım adım takip ediyor. Anna Wintor'ün beğenmediği ve bu nedenle İptal edilen çekimler, bu çekimlerin zaman baskısı altında yenilenmesi, kapak fotoğrafının seçilmesi, renk uyumuna gösterilen titizlik, sayının ana konseptinin belirlenmesi, gibi pek çok ayrıntı belgeselde yer alıyor.
 
@@ -169,6 +179,7 @@ Dergilerin pek çoğunun yavaş yavaş sadece dijital ortamda yayınlarına deva
 #### [The Minimalists: Less Is Now](#the-minimalists-less-is-now)
 
 {: #the-minimalists-less-is-now }
+**Belgesel**
 
 Online alışverişin bu kadar kolay olması, reklamlar, alınanların mutluluk getireceği gibi çeşitli etkenler, insanları aslında ihtiyaçları olmayan ürünler almaya itiyor. Oysa, tüketimin sınırlarını çoktan zorlar duruma geldik. Elimizdeki zaten mevcut ürünleri değerlendirmek yerine yenisini almak daha kolay. Aslında yaşamak için gerekli olan günlük eşyalar o kadar az ki.
 
@@ -196,6 +207,7 @@ Her ikisi de evlerinin aşırı 'sade' olmadığını, ama sahip oldukları her 
 #### [Take Your Pills](#take-your-pills)
 
 {: #take-your-pills }
+**Belgesel**
 
 2018 yapımı bir Netflix belgeseli olan Take Your Pills, hem öğrencilerin hem de yetişkinlerin konsantrasyonlarını arttırmak üzere başvurdukları en başlıca yöntem olan reçeteli ilaç kullanımının olumsuz sonuçlarını inceliyor. Verilen örnekler çarpıcı da olsa, belgeselde konunun işlenişi yer yer yüzeysel kalmış.
 
@@ -211,6 +223,7 @@ Dünya çapındaki verilere göre, ABD en fazla ADHD teşhisi konulan ülke. Bel
 #### [What The Health](#what-the-health)
 
 {: #what-the-health }
+**Belgesel**
 
 Kip Anderson, What The Health isimli belgeselin hem yönetmeni hem de yazarı. Belgesel, genel olarak diyet ve hastalıklar arasındaki bağlantıyı araştırıyor. Ailesinde kalp rahatsızlığı, diyabet, kanser gibi pek çok hastalık bulunan Anderson, beslenme düzenini değiştirerek bu hastalıklara yakalanma riskini azaltıp azaltamayacağını sorguluyor.
 
@@ -228,6 +241,7 @@ Bu belgeselde Michael Klaper, Michael Greger, Neal Barnard ve David Simon gibi k
 #### [Seaspiracy](#seaspiracy)
 
 {: #seaspiracy }
+**Belgesel**
 
 Seaspiracy, balık tüketiminin etik ve çevre bakımından sonuçlarını küresel çapta ele alan bir belgesel. Belgeselin yapımcısı Cowspiracy (2014) ve What The Health (2017) belgeselleri ile tanınan Kip Anderson. Seaspiracy, filmin aynı zamanda yönetmeni de olan Ali Tabrizi’nin dünyanın ticari balıkçılık merkezlerinde iz sürmesini anlatıyor.
 
@@ -245,6 +259,7 @@ Seaspiracy, deniz canlılarını tüketimine son vermenin ve bu şekilde talebi 
 #### [Earthlings](#earthlings)
 
 {: #earthlings }
+**Belgesel**
 
 Yönetmenliğini Shaun Monson’ın yaptığı ve Joaquin Phoenix seslendirdiği belgesel Earthlings, ticari hayvancılık hakkında her bakımdan çok çarpıcı gerçeklere yer veriyor. Bu belgeseli izlemesi hiç kolay değil, zira pek çok kişi bu belgeseli izledikten sonra hayvansal ürünleri tüketemediklerini ve veganlığı benimsediklerini belirtiyor.
 
