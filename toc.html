@@ -63,3 +63,8 @@ size %}
 <i>{{ media }}</i>
 
 <br />
+
+{% assign done = site.data.samplelist | where: "type", "TEDVideo" | size %}<br />
+{% assign done = site.data.samplelist | where: "type", "Belgesel" | size %}<br />
+{% assign done = site.data.samplelist | where: "type", "Podcast" | size %}<br />
+{% assign done = site.data.samplelist | where: "type", "Makale" | size %}
