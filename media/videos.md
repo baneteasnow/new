@@ -6,7 +6,7 @@ last_modified_at: 2023-01-20
 title: "TED Videoları"
 ---
 
-#### [The Surprising Habits of Original Thinkers - Adam Grant](#123)
+#### [123](#123)
 
 {: #123 }
 
