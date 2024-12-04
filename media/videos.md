@@ -6,11 +6,6 @@ last_modified_at: 2023-01-20
 title: "TED Videoları"
 ---
 
-{: #toc }
-
-- TOC
-  {:toc class="toc1"}
-
 #### [The Surprising Habits of Original Thinkers | Adam Grant (TED)](#the-suprising-habits-of-original-thinkers)
 
 {: #the-suprising-habits-of-original-thinkers }

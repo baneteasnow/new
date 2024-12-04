@@ -6,10 +6,6 @@ last_modified_at: 2021-07-29
 title: "Belgeseller"
 ---
 
-{: #toc }
-
-- TOC
-  {:toc class="toc1"}
 
 #### [The Social Dilemma (Belgesel)](#the-social-dilemma)
 
