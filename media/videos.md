@@ -6,9 +6,9 @@ last_modified_at: 2023-01-20
 title: "TED Videoları"
 ---
 
-#### [The Suprising Habits of Original Thinkers by Adam Grant](#the-suprising-habits-of-original-thinkers-by-adam-grant)
+#### [The Suprising Habits of Original Thinkers by Adam Grant (TED)](<#the-suprising-habits-of-original-thinkers-by-adam-grant-(ted)>)
 
-{: #the-suprising-habits-of-original-thinkers-by-adam-grant }
+{: #the-suprising-habits-of-original-thinkers-by-adam-grant-(ted) }
 
 Adam Grant, 2016 yılında Vancouver, BC'de yaptığı "The surprising habits of original thinkers" başlıklı TED konuşmasında Originals isimli kitabına çeşitli göndermeler yapıyor. Grant, hem bir konu hakkında yaratıcı fikirleri olan hem de bu fikirlerini gerçekleştirmek üzere harekete geçerek, bir değişim yaratmaktan çekinmeyen kişileri 'orijinaller' olarak tanımlıyor.
 
@@ -22,9 +22,9 @@ Grant, konuşmasının sonunda hızlı bir başlangıç yapmanın ve ilgili konu
 [TED](https://www.youtube.com/watch?v=fxbCHn6gE3U){:target="\_blank" rel="noreferrer,nofollow" style="text-decoration: underline !important; -webkit-text-decoration-color: rgba(255, 255, 102, 0.5); text-decoration-color: rgba(255, 255, 102, 0.5) !important; text-decoration-thickness: 6px !important;"}  
 </i>
 
-#### [The Paradox of Choice - Barry Schwartz (TED)](#the-paradox-of-choice)
+#### [The Paradox of Choice by Barry Schwartz](#the-paradox-of-choice)
 
-{: #the-paradox-of-choice }
+{: the-paradox-of-choice }
 
 Barry Schwartz, 2005 yılında Oxford, İngiltere'de yaptığı TED konuşmasında çok fazla seçeneğe sahip olmanın yarattığı paradokslardan bahsediyor, aynı konuyu işlediği 'Bolluk Paradoksu' isimli 2004 tarihli kitabına göndermeler yapıyor.
 
