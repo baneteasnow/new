@@ -6,7 +6,7 @@ last_modified_at: 2021-07-29
 title: "Belgeseller"
 ---
 
-#### [The Social Dilemma](#the-social-dilemma)
+#### [The Social Dilemma](#the-social-dilemma-belgesel)
 
 {: #the-social-dilemma }
 
