@@ -6,7 +6,7 @@ last_modified_at: 2023-01-20
 title: "TED Videoları"
 ---
 
-#### [The Suprising Habits of Original Thinkers by Adam Grant (TED)](<#the-suprising-habits-of-original-thinkers-by-adam-grant-(ted)>)
+#### [The Suprising Habits of Original Thinkers by Adam Grant](<#the-suprising-habits-of-original-thinkers-by-adam-grant-(ted)>)
 
 {: #the-suprising-habits-of-original-thinkers-by-adam-grant-(ted) }
 
