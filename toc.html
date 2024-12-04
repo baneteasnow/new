@@ -12,6 +12,7 @@ assign media3 = site.data.samplelist | where: "type", "Podcast" | size %} {%
 assign media4 = site.data.samplelist | where: "type", "Makale" | size %}
 
 <b>TED Videolari</b>
+{{ media1 }}
 <br />
 {% for item in site.data.samplelist %} {% if item.type == "TEDVideo" %}
 <div
@@ -22,9 +23,10 @@ assign media4 = site.data.samplelist | where: "type", "Makale" | size %}
 		<a href="{{ item.url }}">{{ item.title }}</a>
 	</i>
 </div>
-{% endif %} {% endfor %}{{ media1 }}
+{% endif %} {% endfor %}
 <br />
 <b>Belgesel</b>
+{{ media2 }}
 <br />
 {% for item in site.data.samplelist %} {% if item.type == "Belgesel" %}
 <div
@@ -35,9 +37,10 @@ assign media4 = site.data.samplelist | where: "type", "Makale" | size %}
 		<a href="{{ item.url }}">{{ item.title }}</a>
 	</i>
 </div>
-{% endif %} {% endfor %}{{ media2 }}
+{% endif %} {% endfor %}
 <br />
 <b>Podcast</b>
+{{ media4 }}
 <br />
 {% for item in site.data.samplelist %} {% if item.type == "Podcast" %}
 <div
@@ -48,9 +51,10 @@ assign media4 = site.data.samplelist | where: "type", "Makale" | size %}
 		<a href="{{ item.url }}">{{ item.title }}</a>
 	</i>
 </div>
-{% endif %} {% endfor %}{{ media4 }}
+{% endif %} {% endfor %}
 <br />
 <b>Makale</b>
+{{ media3 }}
 <br />
 {% for item in site.data.samplelist %} {% if item.type == "Makale" %}
 <div
@@ -61,7 +65,7 @@ assign media4 = site.data.samplelist | where: "type", "Makale" | size %}
 		<a href="{{ item.url }}">{{ item.title }}</a>
 	</i>
 </div>
-{% endif %} {% endfor %}{{ media3 }}
+{% endif %} {% endfor %}
 <br />
 {% assign sample_data = site.data.samplelist %} {% assign media = sample_data |
 size %}
