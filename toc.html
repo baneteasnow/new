@@ -6,14 +6,19 @@ last_modified_at: 2023-01-25
 title: "TED videoları, belgeseller, podcastler, makaleler"
 ---
 
-{% for item in site.data.samplelist.toc %}
-<h3>{{ item.title }}</h3>
-<div>
-{% for entry in item.subfolderitems %}
-  <div class="decorated" style="font-size: 85%;"><i>{{ entry.page }}</i></div>
-{% endfor %}
+{% for item in site.data.samplelist %}
+<div
+	class="decorated"
+	style="font-size: 85%"
+>
+	<i>
+		<a href="{{ item.url }}">{{ item.title }}</a>
+	</i>
 </div>
 {% endfor %}
-
 <br />
+{% assign sample_data = site.data.samplelist %} {% assign media = sample_data |
+size %}
+<i>{{ media }}</i>
+
 <br />
