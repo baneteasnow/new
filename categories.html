@@ -5,70 +5,87 @@ last_modified_at: 2024-12-05
 title: "Kategoriler (new)"
 ---
 
-{% assign media1 = site.data.medialist | where: "type", "TEDVideo" | size %} {%
-assign media2 = site.data.medialist | where: "type", "Belgesel" | size %} {%
-assign media3 = site.data.medialist | where: "type", "Podcast" | size %} {%
-assign media4 = site.data.medialist | where: "type", "Makale" | size %}
+<div class="link1">
+	<a href="/categories/architecture"
+		>mimarlık + mühendislik + endüstriyel tasarım + şehir planlama</a
+	>
+</div>
 
-<a href="https://www.next52books.com/media/videos.html"><b>TED Videolari</b></a>
-{{ media1 }}
-<br />
-{% for item in site.data.medialist %} {% if item.type == "TEDVideo" %}
-<div
-	class="decorated"
-	style="font-size: 85%"
->
-	<i>
-		<a href="{{ item.url }}">{{ item.title }}</a>
-	</i>
+<div class="link1">
+	<a href="/categories/behavioural">davranışsal iktisat</a>
 </div>
-{% endif %} {% endfor %}
-<br />
-<a href="https://www.next52books.com/media/documentaries.html"
-	><b>Belgesel</b></a
->
-{{ media2 }}
-<br />
-{% for item in site.data.medialist %} {% if item.type == "Belgesel" %}
-<div
-	class="decorated"
-	style="font-size: 85%"
->
-	<i>
-		<a href="{{ item.url }}">{{ item.title }}</a>
-	</i>
-</div>
-{% endif %} {% endfor %}
-<br />
-<a href="https://www.next52books.com/media/podcasts.html"><b>Podcast</b></a>
-{{ media4 }}
-<br />
-{% for item in site.data.medialist %} {% if item.type == "Podcast" %}
-<div
-	class="decorated"
-	style="font-size: 85%"
->
-	<i>
-		<a href="{{ item.url }}">{{ item.title }}</a>
-	</i>
-</div>
-{% endif %} {% endfor %}
-<br />
-<a href="https://www.next52books.com/media/articles.html"><b>Makale</b></a>
-{{ media3 }}
-<br />
-{% for item in site.data.medialist %} {% if item.type == "Makale" %}
-<div
-	class="decorated"
-	style="font-size: 85%"
->
-	<i>
-		<a href="{{ item.url }}">{{ item.title }}</a>
-	</i>
-</div>
-{% endif %} {% endfor %}
-<br />
-{% assign sample_data = site.data.medialist %} {% assign media = sample_data |
-size %} toplam <i>{{ media }}</i>
 
-<br />
+<div class="link1">
+	<a href="/categories/economics">ekonomi + küreselleşme</a>
+</div>
+
+<div class="link1">
+	<a href="/categories/fashion">moda markaları + moda tasarım</a>
+</div>
+
+<div class="link1">
+	<a href="/categories/health">sağlık + beslenme + tıp</a>
+</div>
+
+<div class="link1">
+	<a href="/categories/marketing">pazarlama + reklam + tüketici davranışları</a>
+</div>
+
+<div class="link1">
+	<a href="/categories/media"
+		>dijital kültür + sosyal medya + medya + iletişim + sanat</a
+	>
+</div>
+
+<div class="link1">
+	<a href="/categories/minimalism">minimalizm + sıfır atık yaşam</a>
+</div>
+
+<div class="link1">
+	<a href="/categories/motivation"
+		>lifestyle + motivasyon + seyahat + yaratıcılık + mindfulness</a
+	>
+</div>
+
+<div class="link1">
+	<a href="/categories/planning"
+		>öğrenmeyi öğrenmek + üretkenlik ve teknoloji + yazmak ve yaratıcılık +
+		zaman planlaması + kitap okumak ve kitaplar</a
+	>
+</div>
+
+<div class="link1">
+	<a href="/categories/profile">biyografi + marka profili</a>
+</div>
+
+<div class="link1">
+	<a href="/categories/science"
+		>fen bilimleri + küresel ısınma + sürdürülebilirlik + permakültür + bahçe
+		tarımı + çevre</a
+	>
+</div>
+
+<div class="link1">
+	<a href="/categories/social"
+		>sosyal bilimler + psikoloji + sosyoloji + felsefe + tarih + sosyal
+		psikoloji + siyaset bilimi + eğitim</a
+	>
+</div>
+
+<div class="link1">
+	<a href="/categories/technology"
+		>teknoloji + gelecek ve trendler + yapay zeka + siber güvenlik + internet +
+		yazılım + bilgi sistemleri + internet of things</a
+	>
+</div>
+
+<div class="link1">
+	<a href="/categories/vegan.html">veganlık + hayvan hakları + etik</a>
+</div>
+
+<div class="link1">
+	<a href="/categories/work"
+		>çalışma yaşamı + kariyer + girişimcilik + hukuk + yönetim + insan
+		kaynakları</a
+	>
+</div>
