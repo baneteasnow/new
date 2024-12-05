@@ -21,7 +21,13 @@ image: "/assets/new/pazartesi-mektuplari.jpg"
 update: "done"
 ---
 
-Ege Soley’i Instagram’da bir süredir keyifle takip ediyorum. Paylaşımlarındaki samimiyet ve zarif bakış açısı beni etkiliyor. Bu yüzden, ilgi çekici adlar taşıyan kitaplarından birine şans vermek istedim. ‘Pazartesi Mektupları’, hayli içten yazılmış satırlarıyla dikkat çekiyor. Arka kapağındaki şu cümle beni kitaba çekmeyi başardı: ‘Bu satırları belki taze bir Pazartesi, belki yorgun bir Çarşamba, belki tembel bir Pazar günü okursun.’ Daha kitabı açmadan, bu cümle bile her anın kendine özgü bir ruhu olduğunu hatırlattı bana. Yine de, deneme türündeki bu kitabın benimle tam olarak bağ kuramadığını hissettim. Yanlış anlaşılmasın, yazar kitabında hayatından çeşitli kesitlere yer veriyor. Farklı bakış açıları sunuyor ve yer yer anılarını, yer yer de hayallerini bizimle paylaşıyor. Ancak, kitap bana fazlasıyla kişisel geldi. Yazar, okuyucuyu kendi içsel yolculuğuna davet etse de, bu derinliğe yalnız başına seyahat etmiş gibi hissettirdi. Konular arasında annelik, çocukluk, kadınlık ve kırk yaş gibi temalar var. Kitabın içinde kendime pek yer bulamasam da, birkaç cümlenin altını çizdim; bu satırlar yazarın dünyasından kısa anlık bağlar kurmamı sağladı.
+Ege Soley’i Instagram’da bir süredir takip ediyorum. Paylaşımlarındaki samimi bakış açısı beni etkiliyor. Bu yüzden, ilgi çekici adlar taşıyan kitaplarından birine şans vermek istedim.
+
+‘Pazartesi Mektupları’, hayli içten yazılmış satırlarıyla dikkat çekiyor. Arka kapağındaki şu cümle beni kitaba çekmeyi başardı:
+
+> ‘Bu satırları belki taze bir Pazartesi, belki yorgun bir Çarşamba, belki tembel bir Pazar günü okursun.’
+
+Daha kitabı açmadan, bu cümle bile her anın kendine özgü bir ruhu olduğunu hatırlattı bana. Yine de, deneme türündeki bu kitabın benimle tam olarak bağ kuramadığını hissettim. Yanlış anlaşılmasın, yazar kitabında hayatından çeşitli kesitlere yer veriyor. Farklı bakış açıları sunuyor ve yer yer anılarını, yer yer de hayallerini bizimle paylaşıyor. Ancak, kitap bana fazlasıyla kişisel geldi. Yazar, okuyucuyu kendi içsel yolculuğuna davet etse de, bu derinliğe yalnız başına seyahat etmiş gibi hissettirdi. Konular arasında annelik, çocukluk, kadınlık ve kırk yaş gibi temalar var. Kitabın içinde kendime pek yer bulamasam da, birkaç cümlenin altını çizdim; bu satırlar yazarın dünyasından kısa anlık bağlar kurmamı sağladı.
 
 > Çeşit çeşit sabahın var. (sayfa 18)
 
