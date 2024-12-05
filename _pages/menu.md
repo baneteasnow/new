@@ -7,7 +7,7 @@ published: true
 _[kitaplık](/bookshelf.html)_  
 _[english](/books.html)_  
 _[tl;dr](/summary.html)_  
-_[kategoriler](/category.html)_  
+_[kategoriler](/categories.html)_  
 _[tekrar okumaya değer kitaplar](/reread.html)_  
 _[okuma listesi](/readinglist.html)_  
 _[2025](/2025.html)_  

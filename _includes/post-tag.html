@@ -1,102 +1,71 @@
-  <span style="font-size: 100%; cursor: default; color: #777;" class="link1"> #
-   {% if page.tag == 'veganlık' or
-         page.tag == 'hayvan hakları' or
-         page.tag == 'etik' %}
-      <a href="/category.html#vegan">{{ page.tag | join: ' #' }}</a>
-  
-    {% elsif page.tag == 'sağlık' or
-             page.tag == 'beslenme' or
-             page.tag == 'tıp' %}
-      <a href="/category.html#health">{{ page.tag | join: ' #' }}</a>
+<span
+	style="font-size: 100%; cursor: default; color: #777"
+	class="link1"
+>
+	# {% if page.tag == 'veganlık' or page.tag == 'hayvan hakları' or page.tag ==
+	'etik' %}
+	<a href="/categories.html/vegan">{{ page.tag | join: ' #' }}</a>
 
-    {% elsif page.tag == 'lifestyle' or
-             page.tag == 'motivasyon' or 
-             page.tag == 'mindfulness' or
-             page.tag == 'seyahat' or
-             page.tag == 'yaratıcılık' %}     
-      <a href="/category.html#motivation">{{ page.tag | join: ' #' }}</a>
-  
-    {% elsif page.tag == 'öğrenmeyi öğrenmek' or 
-             page.tag == 'üretkenlik ve teknoloji' or
-             page.tag == 'yazmak ve yaratıcılık' or
-             page.tag == 'zaman planlaması' 
-             page.tag == 'kitap okumak ve kitaplar' %}   
-       <a href="/category.html#planning">{{ page.tag | join: ' #' }}</a>
+	{% elsif page.tag == 'sağlık' or page.tag == 'beslenme' or page.tag == 'tıp'
+	%}
+	<a href="/categories.html/health">{{ page.tag | join: ' #' }}</a>
 
-    {% elsif page.tag == 'moda markaları' or 
-             page.tag == 'moda tasarım' %} 
-        <a href="/category.html#fashion">{{ page.tag | join: ' #' }}</a>
+	{% elsif page.tag == 'lifestyle' or page.tag == 'motivasyon' or page.tag ==
+	'mindfulness' or page.tag == 'seyahat' or page.tag == 'yaratıcılık' %}
+	<a href="/categories.html/motivation">{{ page.tag | join: ' #' }}</a>
 
-     {% elsif page.tag == 'mimarlık' or
-              page.tag == 'mühendislik' or 
-              page.tag == 'endüstriyel tasarım' or
-              page.tag == 'şehir planlama' %} 
-         <a href="/category.html#architecture">{{ page.tag | join: ' #' }}</a>
+	{% elsif page.tag == 'öğrenmeyi öğrenmek' or page.tag == 'üretkenlik ve
+	teknoloji' or page.tag == 'yazmak ve yaratıcılık' or page.tag == 'zaman
+	planlaması' page.tag == 'kitap okumak ve kitaplar' %}
+	<a href="/categories.html/planning">{{ page.tag | join: ' #' }}</a>
 
-     {% elsif page.tag == 'sıfır atık yaşam' or
-              page.tag == 'minimalizm' %}
-         <a href="/category.html#minimalism">{{ page.tag | join: ' #' }}</a>
+	{% elsif page.tag == 'moda markaları' or page.tag == 'moda tasarım' %}
+	<a href="/categories.html/fashion">{{ page.tag | join: ' #' }}</a>
 
-      {% elsif page.tag == 'pazarlama' or
-               page.tag == 'reklam' or
-               page.tag == 'tüketici davranışları' %}
-         <a href="/category.html#marketing">{{ page.tag | join: ' #' }}</a>
+	{% elsif page.tag == 'mimarlık' or page.tag == 'mühendislik' or page.tag ==
+	'endüstriyel tasarım' or page.tag == 'şehir planlama' %}
+	<a href="/categories.html/architecture">{{ page.tag | join: ' #' }}</a>
 
-       {% elsif page.tag == 'teknoloji' or
-                page.tag == 'yapay zeka' or
-                page.tag == 'gelecek ve trendler' or
-                page.tag == 'internet' or
-                page.tag == 'internet of things' or
-                page.tag == 'yazılım' or
-                page.tag == 'bilgi sistemleri' or
-                page.tag == 'siber güvenlik' %}
-          <a href="/category.html#technology">{{ page.tag | join: ' #' }}</a>
+	{% elsif page.tag == 'sıfır atık yaşam' or page.tag == 'minimalizm' %}
+	<a href="/categories.html/minimalism">{{ page.tag | join: ' #' }}</a>
 
-       {% elsif page.tag == 'fen bilimleri' or
-                page.tag == 'küresel ısınma' or
-                page.tag == 'sürdürülebilirlik' or
-                page.tag == 'permakültür' or
-                page.tag == 'bahçe tarımı' or
-                page.tag == 'biyoloji' or
-                page.tag == 'çevre' %}
-          <a href="/category.html#science">{{ page.tag | join: ' #' }}</a>
+	{% elsif page.tag == 'pazarlama' or page.tag == 'reklam' or page.tag ==
+	'tüketici davranışları' %}
+	<a href="/categories.html/marketing">{{ page.tag | join: ' #' }}</a>
 
-        {% elsif page.tag == 'dijital kültür' or
-                 page.tag == 'sosyal medya' or
-                 page.tag == 'medya' or
-                 page.tag == 'sanat' or
-                 page.tag == 'iletişim' %}
-          <a href="/category.html#media">{{ page.tag | join: ' #' }}</a>
+	{% elsif page.tag == 'teknoloji' or page.tag == 'yapay zeka' or page.tag ==
+	'gelecek ve trendler' or page.tag == 'internet' or page.tag == 'internet of
+	things' or page.tag == 'yazılım' or page.tag == 'bilgi sistemleri' or page.tag
+	== 'siber güvenlik' %}
+	<a href="/categories.html/technology">{{ page.tag | join: ' #' }}</a>
 
-        {% elsif page.tag == 'biyografi' or
-                 page.tag == 'marka profili' %}
-          <a href="/category.html#profile">{{ page.tag | join: ' #' }}</a>
-         
-         {% elsif page.tag == 'çalışma yaşamı' or
-                  page.tag == 'kariyer' or
-                  page.tag == 'girişimcilik' or
-                  page.tag == 'hukuk' or
-                  page.tag == 'yönetim' %}   
-            <a href="/category.html#work">{{ page.tag | join: ' #' }}</a>
+	{% elsif page.tag == 'fen bilimleri' or page.tag == 'küresel ısınma' or
+	page.tag == 'sürdürülebilirlik' or page.tag == 'permakültür' or page.tag ==
+	'bahçe tarımı' or page.tag == 'biyoloji' or page.tag == 'çevre' %}
+	<a href="/categories.html/science">{{ page.tag | join: ' #' }}</a>
 
-          {% elsif page.tag contains 'davranışsal iktisat' %}
-            <a href="/category.html#behavioural">{{ page.tag | join: ' #' }}</a>
-  
-          {% elsif page.tag == 'psikoloji' or 
-                   page.tag == 'felsefe' or 
-                   page.tag == 'siyaset bilim' or
-                   page.tag == 'sosyoloji' or 
-                   page.tag == 'sosyal bilimler' or 
-                   page.tag == 'eğitim' or
-                   page.tag == 'tarih' or
-                   page.tag == 'insan kaynakları' or
-                   page.tag == 'kişisel gelişim' or
-                   page.tag == 'sosyal psikoloji' %}  
-             <a href="/category.html#social">{{ page.tag | join: ' #' }}</a>
-  
-          {% else %}
-             <a href="/category.html#economics">{{ page.tag | join: ' #' }}</a>
-          {% endif %}
-  </span>
-   <br />
+	{% elsif page.tag == 'dijital kültür' or page.tag == 'sosyal medya' or
+	page.tag == 'medya' or page.tag == 'sanat' or page.tag == 'iletişim' %}
+	<a href="/categories.html/media">{{ page.tag | join: ' #' }}</a>
 
+	{% elsif page.tag == 'biyografi' or page.tag == 'marka profili' %}
+	<a href="/categories.html/profile">{{ page.tag | join: ' #' }}</a>
+
+	{% elsif page.tag == 'çalışma yaşamı' or page.tag == 'kariyer' or page.tag ==
+	'girişimcilik' or page.tag == 'hukuk' or page.tag == 'yönetim' %}
+	<a href="/categories.html/work">{{ page.tag | join: ' #' }}</a>
+
+	{% elsif page.tag contains 'davranışsal iktisat' %}
+	<a href="/categories.html/behavioural">{{ page.tag | join: ' #' }}</a>
+
+	{% elsif page.tag == 'psikoloji' or page.tag == 'felsefe' or page.tag ==
+	'siyaset bilim' or page.tag == 'sosyoloji' or page.tag == 'sosyal bilimler' or
+	page.tag == 'eğitim' or page.tag == 'tarih' or page.tag == 'insan kaynakları'
+	or page.tag == 'kişisel gelişim' or page.tag == 'sosyal psikoloji' %}
+	<a href="/categories.html/social">{{ page.tag | join: ' #' }}</a>
+
+	{% else %}
+	<a href="/categories.html/economics">{{ page.tag | join: ' #' }}</a>
+	{% endif %}
+</span>
+<br />
