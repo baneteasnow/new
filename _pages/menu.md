@@ -16,5 +16,5 @@ _[2023](/2023.html)_
 _[2022](/2022.html)_  
 _[2021](/2021.html)_  
 _[antilibrary](/antilibrary.html)_  
-_[ted videoları, belgeseller, podcastler, makaleler](/toc.html)_  
+_[ted videoları, belgeseller, podcastler, makaleler](/media-content.html)_  
 **_[{%-include numberofposts.html-%}](/menu)_**

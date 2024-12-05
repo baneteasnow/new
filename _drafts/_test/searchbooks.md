@@ -1,7 +1,7 @@
 ---
 layout: page-11
 title: kitap ara
-published: true
+published: false
 ---
 
 <style>

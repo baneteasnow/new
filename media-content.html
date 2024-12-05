@@ -6,15 +6,15 @@ last_modified_at: 2023-01-25
 title: "TED videoları, belgeseller, podcastler, makaleler"
 ---
 
-{% assign media1 = site.data.samplelist | where: "type", "TEDVideo" | size %} {%
-assign media2 = site.data.samplelist | where: "type", "Belgesel" | size %} {%
-assign media3 = site.data.samplelist | where: "type", "Podcast" | size %} {%
-assign media4 = site.data.samplelist | where: "type", "Makale" | size %}
+{% assign media1 = site.data.medialist | where: "type", "TEDVideo" | size %} {%
+assign media2 = site.data.medialist | where: "type", "Belgesel" | size %} {%
+assign media3 = site.data.medialist | where: "type", "Podcast" | size %} {%
+assign media4 = site.data.medialist | where: "type", "Makale" | size %}
 
 <a href="https://www.next52books.com/media/videos.html"><b>TED Videolari</b></a>
 {{ media1 }}
 <br />
-{% for item in site.data.samplelist %} {% if item.type == "TEDVideo" %}
+{% for item in site.data.medialist %} {% if item.type == "TEDVideo" %}
 <div
 	class="decorated"
 	style="font-size: 85%"
@@ -30,7 +30,7 @@ assign media4 = site.data.samplelist | where: "type", "Makale" | size %}
 >
 {{ media2 }}
 <br />
-{% for item in site.data.samplelist %} {% if item.type == "Belgesel" %}
+{% for item in site.data.medialist %} {% if item.type == "Belgesel" %}
 <div
 	class="decorated"
 	style="font-size: 85%"
@@ -44,7 +44,7 @@ assign media4 = site.data.samplelist | where: "type", "Makale" | size %}
 <a href="https://www.next52books.com/media/podcasts.html"><b>Podcast</b></a>
 {{ media4 }}
 <br />
-{% for item in site.data.samplelist %} {% if item.type == "Podcast" %}
+{% for item in site.data.medialist %} {% if item.type == "Podcast" %}
 <div
 	class="decorated"
 	style="font-size: 85%"
@@ -58,7 +58,7 @@ assign media4 = site.data.samplelist | where: "type", "Makale" | size %}
 <a href="https://www.next52books.com/media/articles.html"><b>Makale</b></a>
 {{ media3 }}
 <br />
-{% for item in site.data.samplelist %} {% if item.type == "Makale" %}
+{% for item in site.data.medialist %} {% if item.type == "Makale" %}
 <div
 	class="decorated"
 	style="font-size: 85%"
@@ -69,7 +69,7 @@ assign media4 = site.data.samplelist | where: "type", "Makale" | size %}
 </div>
 {% endif %} {% endfor %}
 <br />
-{% assign sample_data = site.data.samplelist %} {% assign media = sample_data |
+{% assign sample_data = site.data.medialist %} {% assign media = sample_data |
 size %} toplam <i>{{ media }}</i>
 
 <br />
