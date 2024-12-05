@@ -14,5 +14,10 @@ tasarım' %}
 {% endif %} {% endfor %}
 <br />
 
-{% assign architecture = site.posts %}
-{% assign architectureposts = architecture | size %} {% assign architecturetags = architecture | where: "tag", "endüstriyel tasarım" or "psikoloji" | size %} {{ architecturetags }}
+{% assign architecturetags1 = site.posts | where: "tag", "mimarlık" | size %}
+{% assign architecturetags2 = site.posts | where: "tag", "mühendislik" | size %}
+{% assign architecturetags3 = site.posts | where: "tag", "şehir planlama" | size %}
+{% assign architecturetags4 = site.posts | where: "tag", "endüstriyel
+tasarım" | size %}
+
+{{ architecturetags1 | plus: architecturetags2 | plus: architecturetags3 | plus: architecturetags4 }}
