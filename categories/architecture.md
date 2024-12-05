@@ -15,4 +15,4 @@ tasarım' %}
 <br />
 
 {% assign architecture = site.posts %}
-{% assign architectureposts = architecture | size %} {% assign architecturetags = architecture | where: "tag", "mimarlik" or "mühendislik" | size %} {{ architectureposts }}
+{% assign architectureposts = architecture | size %} {% assign architecturetags = architecture | where: "tag", "endüstriyel tasarım" | size %} {{ architectureposts }}
