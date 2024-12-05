@@ -6,7 +6,7 @@ title: "Social"
 ---
 
 {% for post in site.posts %} {% if post.tag == 'psikoloji' or post.tag ==
-'felsefe' or post.tag == 'sosyoloji' or post.tag == 'siyaset bilim' or post.tag
+'felsefe' or post.tag == 'sosyoloji' or post.tag == 'siyaset bilimi' or post.tag
 == 'sosyal bilimler' or post.tag == 'eğitim' or post.tag == 'tarih' or post.tag
 == 'kişisel gelişim' or post.tag == 'sosyal psikoloji' %}
 
@@ -17,7 +17,7 @@ title: "Social"
 {% assign socialtags1 = site.posts | where: "tag", "psikoloji" | size %}
 {% assign socialtags2 = site.posts | where: "tag", "felsefe" | size %}
 {% assign socialtags3 = site.posts | where: "tag", "sosyoloji" | size %}
-{% assign socialtags4 = site.posts | where: "tag", "siyaset bilim" | size %}
+{% assign socialtags4 = site.posts | where: "tag", "siyaset bilimi" | size %}
 {% assign socialtags5 = site.posts | where: "tag", "sosyal bilimler" | size %}
 {% assign socialtags6 = site.posts | where: "tag", "eğitim" | size %}
 {% assign socialtags7 = site.posts | where: "tag", "tarih" | size %}

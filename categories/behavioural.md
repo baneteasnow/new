@@ -11,6 +11,6 @@ title: "Behavioural"
 {% endif %} {% endfor %}
 <br />
 
-{% assign behaviouraltags1 = site.posts | where: "tag", "mimarlık" | size %}
+{% assign behaviouraltags1 = site.posts | where: "tag", "davranışsal iktisat" | size %}
 
 {{ behaviouraltags1 }}

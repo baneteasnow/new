@@ -16,4 +16,4 @@ title: "Health"
 {% assign healthtags2 = site.posts | where: "tag", "beslenme" | size %}
 {% assign healthtags3 = site.posts | where: "tag", "tıp" | size %}
 
-{{ healthtags1 | plus: healthetags2 | plus: healthtags3 }}
+{{ healthtags1 | plus: healthtags2 | plus: healthtags3 }}

@@ -17,7 +17,7 @@ title: "Work"
 {% assign worktags2 = site.posts | where: "tag", "kariyer" | size %}
 {% assign worktags3 = site.posts | where: "tag", "girişimcilik" | size %}
 {% assign worktags4 = site.posts | where: "tag", "hukuk" | size %}
-{% assign worktags1 = site.posts | where: "tag", "insan kaynakları" | size %}
-{% assign worktags2 = site.posts | where: "tag", "yönetim" | size %}
+{% assign worktags5 = site.posts | where: "tag", "insan kaynakları" | size %}
+{% assign worktags6 = site.posts | where: "tag", "yönetim" | size %}
 
 {{ worktags1 | plus: worktags2 | plus: worktags3 | plus: worktags4 | plus: worktags5 | plus: worktags6 }}
