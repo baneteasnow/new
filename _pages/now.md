@@ -18,7 +18,7 @@ booktitle1: "Nexus"
 bookyear1: 2024
 author1: "Yuval Noah Harari"
 sayfa1: 448
-pageread1: 72
+pageread1: 109
 #
 # 2
 booktitle2: "Dinner with Darwin - Food, Drink, and Evolution"
@@ -32,7 +32,7 @@ booktitle3: "Yeni Dunya Yeni Kurallar - Yasam Zevkine Ulasmanin Bugunku Yollari"
 bookyear3: 2024
 author3: "Vedat Milor"
 sayfa3: 272
-pageread3: 75
+pageread3: 235
 #
 #
 #
