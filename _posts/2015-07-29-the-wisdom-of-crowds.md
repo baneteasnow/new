@@ -8,36 +8,46 @@ yazar: "James Surowiecki"
 yil: "2009"
 sayfa: "304"
 goodreads: "https://www.goodreads.com/book/show/68143.The_Wisdom_of_Crowds"
-description: "Kitapta kitlelerin bir araya geldiklerinde neden bireylerden daha iyi karar verici durumunda olduklarından ve kollektif zekanın iş dünyasında, toplumlarda ve günlük yaşamda nasıl kullanıldığı anlatılıyor.  "
+description: "Kitlelerin Bilgeliği, grupların bireylerden daha iyi kararlar verebilmesini sağlayan kolektif zekânın dinamiklerini ve bu gücün iş dünyasından topluma kadar geniş bir alandaki etkilerini inceliyor."
 published: true
 last_modified_at: 2023-01-14
 posted: 2015-07-29
-tag: "dijital kültür"
+tag: "sosyal psikoloji"
 reread: "yes"
 rating: "4"
 num: "12"
-eng: ""
-update: "n/a"
+eng: "The Wisdom of Crowds explores the dynamics of collective intelligence, demonstrating how groups can make better decisions than individuals across various domains, from business to society."
+update: "done"
 image: "/assets/old/the-wisdom-of-crowds.jpg"
 ---
 
-Kitapta kitlelerin bir araya geldiklerinde neden bireylerden daha iyi karar verici durumunda olduklarından ve kollektif zekanın iş dünyasında, toplumlarda ve günlük yaşamda nasıl kullanıldığı anlatılıyor.
+The Wisdom of Crowds (Kitlelerin Bilgeliği), James Surowiecki’nin kolektif zekânın gücünü ve bu gücün iş dünyasından toplumsal sorunlara kadar geniş bir yelpazede nasıl kullanıldığını ele aldığı çarpıcı bir eser. Kitap, grupların, bireylerden daha iyi kararlar verebilmesinin nedenlerini ve bu süreçte hangi koşulların önemli olduğunu ayrıntılı bir şekilde inceliyor.
 
-Yazar, kitapta kollektif zekanın uygulanabilir olduğu 3 farklı başlığa işaret etmektedir.
+Yazar, kolektif zekânın üç ana problem türünde uygulanabileceğini belirtiyor:
 
-- Biliş Problemleri: Kesin çözümleri olan sorunlardır.
-- Eşgüdüm Sorunu: Grup üyelerinin, kendilerinden başka herkesin, aynı şeyleri yapmaya çalıştığını bilerek, birbirlerine karşı olan davranışlarını ayarlamalarını gerektirir.
-- İşbirliği Sorunu: Bencil ve güvenilmez kişilerin işbirliğini sağlama çabasıdır.
+1. Biliş Problemleri:  
+   Kesin bir çözümü olan sorunlar. Örneğin, bir matematik problemini çözmek ya da doğru bir tahmin yapmak.
 
-Yazara göre, çeşitlilik ve bağımsızlık önemlidir çünkü en iyi kolektif kararlar uyuşmazlık ve çekişmelerden doğmaktadır.
+2. Eşgüdüm Sorunları:  
+   Grup üyelerinin davranışlarını uyumlu hale getirmek için birbirlerinin niyetlerini dikkate alması gereken durumlar.
 
-Kitapta bir çok örnek paylaşılmış, ama en akılda kalıcı örneklerin başında hiç kuşkusuz "Kim Milyoner Olmak İster" yarışmasındaki "izleyiciye sormak istiyorum" kısmı ile ilgili olanıdır. Yarışmacılar, stüdyodaki izleyiciye sorunun cevabını sorarak rastgele oluşturulmuş bir grubun zekasını sınamaktadırlar. Üstünde anlaşılan yanıt ise çoğu kez doğru olmaktadır. Peki, sıradan insanlar bazen uzmanların bile tereddütte kaldıkları bu soruların doğru cevabı üzerinde nasıl uzlaşmaktadır?
+3. İşbirliği Sorunları:  
+   Kendi çıkarlarını düşünen bireylerin birlikte çalışmasını sağlama çabası.
 
-Yazar, bilge kitlelerin 4 özelliği olduğunu belirtmektedir
+Surowiecki, en iyi kolektif kararların çeşitlilik ve bağımsızlık ortamında doğduğunu vurguluyor. Fikirlerin uyuşmazlık ve çatışmalardan beslenmesi, daha iyi sonuçlara ulaşılmasını sağlıyor. Kitlelerin bilgeliklerinin temelinde ise dört ana özellik yer alıyor:
 
-- Fikir Çeşitliliği: Her kişinin sahip olduğu kendine has bilgileri vardır.
-- Bağımsızlık: İnsanların fikirleri etrafındaki kişilerin fikirleri ile belirlenmez.
-- Ademi Merkeziyet: İnsanlar yerel bilgiler üzerine uzmanlaşır ve bunları kullanabilirler.
-- Kümeleme: Bireysel yargıların ortak kararlara dönüştürmek için bazı mekanizmalar bulunur.
+1. Fikir Çeşitliliği:  
+   Her bireyin sahip olduğu kendine özgü bilgileri vardır ve bu çeşitlilik grubun kararlarını güçlendirir.
 
-Kitlelerin bilgeliği için ana fikir, bir grubun her zaman için doğru yanıtı bulması değil, ortalamada herhangi bir kişinin verebileceğinden istikrarlı olarak daha iyi bir yanıt üretmesidir.
+2. Bağımsızlık:  
+   İnsanların fikirlerinin çevrelerindeki diğer kişilerin görüşlerinden etkilenmemesi önemlidir.
+
+3. Ademi Merkeziyet:  
+   Yerel bilgiye dayalı uzmanlaşma, grupların daha iyi kararlar almasını sağlar.
+
+4. Kümeleme:  
+   Bireysel yargıların kolektif bir karara dönüştürülmesi için kullanılan mekanizmalar.
+
+Kitapta, bu özelliklerin nasıl işlediğini göstermek için birçok çarpıcı örnek paylaşılmıştır. En dikkat çekici örneklerden biri, Kim Milyoner Olmak İster? yarışmasındaki “izleyiciye sorma” joker hakkıyla ilgilidir. Stüdyodaki izleyicilere yöneltilen sorularda, izleyicilerin çoğunlukla doğru cevabı seçtikleri görülür. Surowiecki, bu örnekle sıradan bir grubun, uzmanların bile tereddüt edebileceği konularda doğru cevabı nasıl üretebildiğini açıklıyor.
+
+Kitabın temel fikri, grupların her zaman doğru cevapları bulacağı değil, genelde herhangi bir bireyin verebileceği yanıttan daha doğru ve istikrarlı sonuçlar üretebileceğidir. Surowiecki, bu düşüncenin uygulanabilirliğini iş dünyası, siyaset, ekonomi ve sosyal dinamikler gibi alanlarda ele alarak, kolektif zekânın etkileyici bir rehberini sunuyor.
