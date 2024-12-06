@@ -35,37 +35,37 @@ Kitapta şu temel sorular da ele alınıyor:
 
 Kitap, bu ve benzeri deneylerden yola çıkarak insan zihninin maruz kaldığı altı temel yanılsamayı detaylı bir şekilde ele alıyor:
 
-##### [Dikkat Yanılsaması](#dikkat-yanilsamasi)
+##### [Dikkat Yanilsamasi](#dikkat-yanilsamasi)
 
 {: #dikkat-yanilsamasi }
 
 Dikkatimizi belirli bir şeye odakladığımızda, diğer dikkat çekici unsurları mutlaka fark edeceğimizi düşünürüz. Ancak bu tamamen yanlıştır; odaklandığımız şey dışındaki nesneler genellikle algımızdan kaçar.
 
-##### [Hafıza Yanılsaması](#hafiza-yanilsamasi)
+##### [Hafiza Yanilsamasi](#hafiza-yanilsamasi)
 
 {: #hafiza-yanilsamasi }
 
 Hafızamızda canlı bir şekilde hatırladığımız anıların doğru ve değişmez olduğuna inanırız. Ancak hafıza, zamanla yeniden şekillenir ve hatıralarımızın doğruluğu sandığımız kadar güvenilir olmayabilir.
 
-##### [Güven Yanılsaması](#guven-yanilsamasi)
+##### [Guven Yanilsamasi](#guven-yanilsamasi)
 
 {: #guven-yanilsamasi }
 
 Bir kişinin kendine olan güveninin, bilgi ve beceri düzeyini yansıttığını düşünürüz. Oysa, aşırı özgüven çoğu zaman yanıltıcıdır ve doğru kararlar alma kapasitemizi sorgulamadan kabullenmemize neden olabilir.
 
-##### [Bilgi Yanılsaması](#bilgi-yanilsamasi)
+##### [Bilgi Yanilsamasi](#bilgi-yanilsamasi)
 
 {: #bilgi-yanilsamasi }
 
 Dünyayı anlamak konusunda yeterince bilgi sahibi olduğumuza inanırız. Ancak çoğu zaman bu inanç, olayların karmaşıklığını göz ardı etmemize ve hatalı kararlar almamıza yol açar.
 
-##### [Neden Yanılsaması](#neden-yanilsamasi)
+##### [Neden Yanilsamasi](#neden-yanilsamasi)
 
 {: #neden-yanilsamasi }
 
 Olaylar arasında bir bağlantı ya da sıralama gördüğümüzde, bunların neden-sonuç ilişkisine dayandığını varsayarız. Bu eğilim, bilimsel verilerle çelişse bile, yanlış inançlarımızdan vazgeçmemizi zorlaştırabilir.
 
-##### [Potansiyel Yanılsaması](#potansiyel-yanilsamasi)
+##### [Potansiyel Yanilsamasi](#potansiyel-yanilsamasi)
 
 {: #potansiyel-yanilsamasi }
 
