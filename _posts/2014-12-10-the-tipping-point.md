@@ -39,7 +39,7 @@ Gladwell, bir mesajın yalnızca içeriğinin değil, aynı zamanda akılda kal�
 
 Çevrenin bireylerin davranışları üzerindeki etkisi genellikle hafife alınır. Gladwell, Kırık Cam Teorisini örnek göstererek, küçük değişikliklerin büyük sosyal dönüşümler yaratabileceğini savunur. Bu teori, New York’ta suç oranlarını düşürmek için uygulanan politikalardan yola çıkar. Kırık Cam Teorisi’ne göre, bir bölgede fiziksel düzensizlikler (kırık camlar, grafitiler, terk edilmiş binalar) küçük suçlara zemin hazırlar ve bu küçük suçlar daha büyük suçların artmasına yol açar. Çevre düzenlenip bu küçük sorunlar ortadan kaldırıldığında ise suç oranlarında büyük düşüşler gözlemlenmiştir.
 
-##### One Cikan Ornekler ve Kavramlar (#one-cikan-ornekler-ve-kavramlar)
+##### [One Cikan Ornekler ve Kavramlar](#one-cikan-ornekler-ve-kavramlar)
 
 {: #one-cikan-ornekler-ve-kavramlar }
 
