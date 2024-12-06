@@ -10,7 +10,7 @@ sayfa: "280"
 goodreads: "https://www.goodreads.com/book/show/7783191-the-invisible-gorilla"
 description: "Görünmez Goril, ‘olsaydı mutlaka fark ederdim’ dediğimiz ancak dikkatimizden kaçan şeyleri ve bu algı hatalarının hayatımızdaki etkilerini sosyal deneylerle gözler önüne seriyor."
 published: true
-last_modified_at: 2024-12-05
+last_modified_at: 2024-12-06
 posted: 2014-09-06
 tag: "psikoloji"
 reread: "yes"

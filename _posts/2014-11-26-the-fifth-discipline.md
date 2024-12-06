@@ -10,7 +10,7 @@ sayfa: "436"
 goodreads: "https://www.goodreads.com/book/show/255127.The_Fifth_Discipline"
 description: "Beşinci Disiplin, organizasyonların öğrenme, uyum sağlama ve yenilikçi düşünceyle sürdürülebilir başarıya ulaşmalarını sağlayan beş temel disiplini ve sistem düşüncesinin dönüştürücü etkisini ele alıyor."
 published: true
-last_modified_at: 2024-12-05
+last_modified_at: 2024-12-06
 posted: 2014-11-26
 tag: "yönetim"
 reread: "yes"
@@ -31,20 +31,26 @@ Bu dönüşümün merkezinde yer alan _öğrenen organizasyon_ kavramı, kitabı
 
 Kitapta, çalışanların düşünce ve iletişim tarzlarının organizasyonlarda nasıl öğrenme eksikliklerine yol açtığına dikkat çekilir. Senge, bu eksikliklerin genellikle bireylerin iş birliği ve eleştirel düşünme konusundaki sınırlamalarından kaynaklandığını savunur. Öne çıkan öğrenme yetersizliklerinden bazıları şunlardır (sayfa 27):
 
-- _“Pozisyonum neyse ben oyum”:_
-  > Kişinin, organizasyondaki sorumluluğunu yalnızca kendi pozisyonuyla sınırlı görmesi.
-- _“Düşman dışarıda”:_
-  > Sorunların kaynağı olarak hep dış faktörlerin görülmesi ve öz eleştiriden kaçınılması.
-- _“Sorumluluk üstlenme kuruntusu”:_
-  > Takım çalışmasına yanaşmama ve bireysel başarıya odaklanma.
-- _“Olaylara takılıp kalma”:_
-  > Sürekli yakın geçmişteki olaylara odaklanarak büyük resmi görememe.
-- _“Haşlanmış kurbağa meselesi”:_
-  > Değişime duyarsız kalma ve küçük sinyalleri fark edememe.
-- _“Tecrübeyle öğrenme hayali”:_
-  > Alınan kararların etkilerini doğrudan gözlemleyememekten kaynaklanan öğrenme eksikliği.
-- _“Yönetici takım miti”:_
-  > Ekip içinde tutarlı bir görüntü sergilemek için çatışmaları ve farklı görüşleri bastırma eğilimi.
+- _“Pozisyonum neyse ben oyum”:_  
+  Kişinin, organizasyondaki sorumluluğunu yalnızca kendi pozisyonuyla sınırlı görmesi.
+
+- _“Düşman dışarıda”:_  
+  Sorunların kaynağı olarak hep dış faktörlerin görülmesi ve öz eleştiriden kaçınılması.
+
+- _“Sorumluluk üstlenme kuruntusu”:_  
+  Takım çalışmasına yanaşmama ve bireysel başarıya odaklanma.
+
+- _“Olaylara takılıp kalma”:_  
+  Sürekli yakın geçmişteki olaylara odaklanarak büyük resmi görememe.
+
+- _“Haşlanmış kurbağa meselesi”:_  
+  Değişime duyarsız kalma ve küçük sinyalleri fark edememe.
+
+- _“Tecrübeyle öğrenme hayali”:_  
+  Alınan kararların etkilerini doğrudan gözlemleyememekten kaynaklanan öğrenme eksikliği.
+
+- _“Yönetici takım miti”:_  
+  Ekip içinde tutarlı bir görüntü sergilemek için çatışmaları ve farklı görüşleri bastırma eğilimi.
 
 ##### ["Bira Oyunu" ve Sistem Dusuncecesi](#bira-oyunu-ve-sistem-dusuncesi)
 
@@ -74,22 +80,22 @@ Senge, öğrenen organizasyonların temelini oluşturan beş disiplini detaylı 
 
 1. Sistem Düşüncesi:
 
-   > Organizasyonları bir bütün olarak gören ve iç ilişkileri analiz eden bir yaklaşım.
+Organizasyonları bir bütün olarak gören ve iç ilişkileri analiz eden bir yaklaşım.
 
 2. Kişisel Ustalık:
 
-   > Bireylerin vizyonlarını netleştirerek öğrenme kapasitelerini artırmaları.
+Bireylerin vizyonlarını netleştirerek öğrenme kapasitelerini artırmaları.
 
 3. Zihinsel Modeller:
 
-   > Bireylerin varsayımlarını sorgulamalarını ve daha esnek düşünmelerini sağlayan bir disiplin.
+Bireylerin varsayımlarını sorgulamalarını ve daha esnek düşünmelerini sağlayan bir disiplin.
 
 4. Paylaşılan Vizyon:
 
-   > Organizasyonda ortak bir amaç oluşturarak bireyleri motive eden bir yapı.
+Organizasyonda ortak bir amaç oluşturarak bireyleri motive eden bir yapı.
 
 5. Takım Hâlinde Öğrenme:
-   > Diyalog ve tartışma yoluyla ekiplerin kolektif zekâlarını geliştirme.
+   Diyalog ve tartışma yoluyla ekiplerin kolektif zekâlarını geliştirme.
 
 Bu beş disiplinin birlikte çalışması, organizasyonları yalnızca bireylerin toplamından daha etkili bir yapıya dönüştürür. Ancak bu, sadece bir zihniyet değişikliği ile mümkün olabilir. Sistemi bir bütün olarak görmeye başlamak, sorunlara yol açan gerçek nedenleri anlamanın ilk adımıdır.
 
