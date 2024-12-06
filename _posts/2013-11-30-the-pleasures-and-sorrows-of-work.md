@@ -10,7 +10,7 @@ sayfa: "330"
 goodreads: "https://www.goodreads.com/book/show/5293573-the-pleasures-and-sorrows-of-work"
 description: "Alain de Botton, farklı mesleklerden kişilerin sıradan bir günlerini takip ederek çalışmanın doğası üzerine gözlemlerini aktarıyor. İnsanların yaptığı işi neden sevdikleri ya da ondan neden nefret ettikleri sorularına yanıt ararken, mesleklerin zevkli ve zorlayıcı yönlerini keşfediyor."
 published: true
-last_modified_at: 2024-07-29
+last_modified_at: 2024-12-05
 posted: 2013-11-30
 tag: "felsefe"
 reread: "yes"

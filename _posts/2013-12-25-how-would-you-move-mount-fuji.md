@@ -10,7 +10,7 @@ sayfa: "259"
 goodreads: "https://www.goodreads.com/book/show/205266.How_Would_You_Move_Mount_Fuji_Microsoft_s_Cult_of_the_Puzzle_How_the_World_s_Smartest_Companies_Select_the_Most_Creative_Thinkers"
 description: "Fuji Dağı’nı Nasıl Taşırsınız, yaratıcı düşünmeyi ve problem çözme yeteneklerini test etmek için kullanılan sıra dışı mülakat sorularını ele alıyor. Bu soruların ardındaki felsefe, işe alım süreçlerine farklı bir bakış açısı kazandırıyor."
 published: true
-last_modified_at: 2024-07-29
+last_modified_at: 2024-12-05
 posted: 2013-12-25
 tag: "çalışma yaşamı"
 reread: "no"

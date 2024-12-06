@@ -17,18 +17,16 @@ reread: "yes"
 rating: "5"
 num: "6"
 eng: "Why some of the ideas or brands become suddenly popular, while others don’t? How do trends spread, how do they stick? A classic book of Malcolm Gladwell answers all these questions and many more on trends."
-update: "n/a"
+update: "done"
 image: "/assets/old/the-tipping-point.jpg"
 ---
 
-Kıvılcım Ani (The Tipping Point) Malcolm Gladwell'in en ünlü kitaplarından biri. Bu kitap, neden bazı fikirlerin, markaların, davranış tarzlarının aniden yükselişe geçerek trend olduklarını çeşitli örneklerle anlatıyor. Malcolm Gladwell, artık bir klasik niteliğinde olan bu kitabında, trendleri salgın olarak adlandırıyor ve bu salgınların üç kuralından bahsediyor.
+Kıvılcım Ani (The Tipping Point), Malcolm Gladwell’in yalnızca bir trend analizi değil, insan davranışlarının ve sosyal dinamiklerin nasıl işlediğini çözümleyen çarpıcı bir eseridir. Gladwell, neden bazı fikirlerin, markaların veya davranışların bir anda popüler hale gelerek bir salgın gibi yayıldığını açıklarken, bu süreçleri “salgınların üç kuralı” çerçevesinde ele alır.
 
-Bu kurallardan ilki, sosyal salgınların yayılmasında etkili olan insanlarla ilgili. Malcolm Gladwell bu kişileri üç ana grupta topluyor; birleştiriciler, erbablar ve satıcılar. Birleştiriciler, önemli bağlantıları ile kısa sürede network oluşturarak istedikleri kişilere kolayca ulaşabilen kişiler, erbablar bir konu hakkında yararlı bilgilere sahip kişiler ve satıcılar ise ikna yeteneği ortalamanın çok üstünde olan kişileri temsil ediyor. Hepsinin ortak özelliği ise sosyal, enerjik ve bilgili olmaları.
+Salgınların Üç Kuralı
 
-İkinci kural, takıntı faktörü. Sosyal salgında kullanılacak mesajın akılda kalıcı olması için gerekli ve ancak bu nitelikler sayesinde mesajın doğru planlanması ve sunumu ile başarı elde edilir.
+    1.	Bağlantı Kurucular:
 
-Üçüncü kural ise, bağlamın gücü. Bu kural da, insanların çevrelerinde olup bitenlerden aslında görünenden çok daha fazla etkileniyor oldukları ile ilgili. Başarı yavaş ancak etkili adımlarla mümkün oluyor.
-
-Trendler, çoğu kez yenilikçilerin önderliğinde oluşuyor. Bu konuda, Malcolm Gladwell'in incelediği örnek Hush Puppies markasının bir anda yükselişi. Kitapta ele alınan diğer örnekler arasında bir kişinin bağlantıda kalabileceği kişi sayısının en fazla 150 olması (sihirli sayı), 1990'lı yıllarda New York'ta suç oranının belediye başkanı tarafından nasıl düşürüldüğü ve Kırık Cam Teorisi, bulaşıcı hastalıkların yayılması, Airwalks markasının ilginç reklam kampanyası, telefon numaralarında alan kodundan sonra niçin 7 hane olduğu, normal profildeki kişilerin neden deneylerde kendi kişiliklerinin dışına çıkarak farklı davrandıkları, çocukların neden bir çizgifilmin aynı bölümünü defalarca izledikleri, 80/20 ilkesi ve Küçük Dünya Deneyi (Small World Experiment) ile Altı Adım Teorisi (Six Degrees of Separation) var.
-
-Özellikle pazarlama ile ilgili pek çok farklı kitapta bu kitaba zaman içinde göndermeler yapılmıştır. Bu kitabın içinde markalarla ilgili olarak örnek verilen bazı olaylar (kitabın yazıldığı tarih nedeniyle) yıllar öncesine dayansa da, Kıvılcım Ani, konuya yaklaşımı ve indirgemesi açısından halen güncelliğini koruyan bir kitaptır.
+Gladwell, sosyal ağlarda belirli kişilerin fikirlerin yayılmasında nasıl etkili olduğunu açıklar. Birleştiriciler (connectors), erbablar (mavens) ve satıcılar (salesmen) olarak üçe ayrılan bu kişiler, sosyal salgınların en kritik aktörleridir. Birleştiriciler, geniş ağlarıyla insanları bir araya getirir. Erbablar, bilgi birikimleriyle çevrelerine rehberlik eder. Satıcılar ise, ikna becerileri sayesinde başkalarını harekete geçirme gücüne sahiptir. 2. Takıntı Faktörü:
+Gladwell, bir mesajın yalnızca içeriğinin değil, aynı zamanda akılda kalıcılığının da başarının anahtarı olduğunu savunur. Mesajın insan zihninde yer etmesini sağlayan basit ama etkili detaylar, trendlerin yayılmasını hızlandırır. 3. Bağlamın Gücü:
+Çevrenin bireylerin davranışları üzerindeki etkisi genellikle hafife alınır. Gladwell, Kırık Cam Teorisini örnek göstererek, küçük değişikliklerin büyük sosyal dönüşümler yaratabileceğini savunur. Bu teori, New York’ta suç oranlarını düşürmek için uygulanan politikalardan yola çıkar. Kırık Cam Teorisi’ne göre, bir bölgede fiziksel düzensizlikler (kırık camlar, grafitiler, terk edilmiş binalar) küçük suçlara zemin hazırlar ve bu küçük suçlar daha büyük suçların artmasına yol açar. Çevre düzenlenip bu küçük sorunlar ortadan kaldırıldığında ise suç oranlarında büyük düşüşler gözlemlenmiştir.

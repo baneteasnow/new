@@ -8,79 +8,89 @@ yazar: "Peter Senge"
 yil: "2007"
 sayfa: "436"
 goodreads: "https://www.goodreads.com/book/show/255127.The_Fifth_Discipline"
-description: "Beşinci Disiplin, öğrenen örgütleri inceliyor"
+description: "Beşinci Disiplin, organizasyonların öğrenme, uyum sağlama ve yenilikçi düşünceyle sürdürülebilir başarıya ulaşmalarını sağlayan beş temel disiplini ve sistem düşüncesinin dönüştürücü etkisini ele alıyor."
 published: true
-last_modified_at: 2023-01-14
+last_modified_at: 2024-12-05
 posted: 2014-11-26
 tag: "yönetim"
 reread: "yes"
 rating: "5"
 num: "5"
-eng: ""
-update: "n/a"
+eng: "The Fifth Discipline examines the transformative power of systems thinking and outlines five core disciplines that enable organizations to learn, adapt, and thrive in an ever-changing world."
+update: "done"
 image: "/assets/old/the-fifth-discipline.jpg"
 ---
 
-Peter M. Senge'in 1990 yılında çıkan ve tüm dünyada en çok okunan kitaplar arasına girmiş, binlerce makale ve teze konu olmuş kitabı 'Beşinci Disiplin', öğrenen örgütleri inceliyor. Öğrenen organizasyon kavramı ilk ortaya atıldığı günden bu yana çok kez tanımlanmış ve tartışılmıştır. Dünyada organizasyonların gelmek istediği nokta olmuştur, eğitim programları, danışmanlar sürekli olarak bu konuyu işlemektedir. Türkiye'de ise, maalesef bu kitapta yer alanların çoğu şu anda uygulama alanı bulamamaktadır. Kitap, 1980'li yıllardan itibaren yapılan konu ile ilgili çalışmaların incelendiği bir kaynaktır.
+Peter M. Senge’in Beşinci Disiplin kitabı, iş dünyasında öğrenme ve gelişim kavramlarına yepyeni bir boyut kazandırdı. 1990 yılında yayımlandığında, organizasyonların nasıl daha esnek, uyumlu ve sürekli öğrenen yapılar hâline gelebileceğini anlatan bu eser, yalnızca bir yönetim kitabı değil, aynı zamanda bir dönüşüm rehberi olarak kabul edildi. Binlerce makale ve teze ilham veren kitap, bireysel ve kolektif öğrenmenin, sürdürülebilir başarıya ulaşmada nasıl bir anahtar rol oynadığını ortaya koyuyor.
 
-Çalışanların sadece kendi pozisyonlarına odaklandıkları, başka departmandan olan kişilerin aktardıkları sorunlara gerçek birer "sorun" gözüyle bile bakmadıkları ortadadır. Sonuç ortadadır. Başarısızlıklar karşısında herkes birbirini suçlamakta, ders çıkarmak yerine yaşanan hayal kırıklıkları moralleri bozmaktadır. Dinlemek yerine savunmaya geçmek, karşısındakinin haklı olduğunu içten içe bilse bile kendi düşüncesini diretmek, ortak bir noktada buluşmak yerine dediğini yaptırmak "başarı" sayılır hale gelmiştir. Küçük harflerle konuşmak ise artık pek bir aranır olmuştur.
+Bu dönüşümün merkezinde yer alan _öğrenen organizasyon_ kavramı, kitabın temel taşıdır. Dünya genelinde organizasyonların ulaşmak istediği ideal yapı olarak tanımlanan bu kavram, eğitim programları ve danışmanlık süreçlerinin vazgeçilmez bir parçası olmuştur. Ancak, Türkiye’de bu kavramın uygulama alanı hâlâ sınırlıdır. Kitap, 1980’lerden itibaren bu alanda yapılan çalışmaların kapsamlı bir incelemesini sunarak, konunun tarihsel gelişimini ve uygulanabilirliğini detaylandırmaktadır.
 
-Kitapta 27. sayfadan itibaren öğrenme yetersizlikleri sıralanmış. Kişilere öğretilen düşünme ve karşılıklı etkileşime girme şekilleri bu öğrenme yetersizliklerine neden olmaktadır. Aslında maddelerin isimleri bile çok şey ifade etmektedir.
+##### [Organizasyonlarda Gorulen Ogrenme Eksiklikleri](#organizasyonlarda-gorulen-ogrenme-eksiklikleri)
 
-'Pozisyonum neyse ben oyum' Organizasyonda, kişinin sorumluluğunun sadece kendi pozisyonundan ibaret olduğunu düşünmesidir.  
-'Düşman dışarıda' İşler ters gittiğinde bundan bir başkasını sorumlu tutma eğilimidir.  
-'Sorumluluk üstlenme kuruntusu' Zorluklar için takım çalışması yapmaktan kaçınma eğilimidir.  
-'Olaylara takılıp kalma' Düşünürken yakın geçmişte yaşanan olaylara sürekli takılıp kalmaktır.  
-'Haşlanmış kurbağa meselesi' Değişime uyum gösterme tarzını ifade eder.  
-'Tecrübeyle öğrenme hayali' En iyi tecrübe öğrenme ile olandır ancak çoğu kez alınan kararların sonucu doğrudan gözlenmez.  
-'Yönetici takım miti' Tutarlı bir takım görüntüsünü korumak için, anlaşmazlıkları bastırmak, itiraz ve çekincelerin ifade edilmesinden kaçınmak ve kutuplaştırıcı tarzda hareket etmektir.
+{: #organizasyonlarda-gorulen-ogrenme-ekslikleri }
 
-Kitapta 3.bölümde ilk kez 1960'li yıllarda Massachusetts Teknoloji Enstitüsünde Sloan Yönetim Okulu'nda geliştirilmiş bir simülasyona yer verilmiştir (sayfa 36). "Bira oyunu" olarak adlandırılan bu örnek, Tek bir marka üreten ve dağıtan bir sistemin perakendeci, toptancı ve fabrika açısından incelenmesine dayanır.
+Kitapta, çalışanların düşünce ve iletişim tarzlarının organizasyonlarda nasıl öğrenme eksikliklerine yol açtığına dikkat çekilir. Senge, bu eksikliklerin genellikle bireylerin iş birliği ve eleştirel düşünme konusundaki sınırlamalarından kaynaklandığını savunur. Öne çıkan öğrenme yetersizliklerinden bazıları şunlardır (sayfa 27):
 
-- Sistematik yapı (üreten) Davranış düzenine ne yol açtı?
-- Davranış düzenleri (cevap veren) Uzun süreli trendleri görme ve değerlendirme
-- Olaylar (tepkici) Kim kime ne yaptı?
+- _“Pozisyonum neyse ben oyum”:_
+  > Kişinin, organizasyondaki sorumluluğunu yalnızca kendi pozisyonuyla sınırlı görmesi.
+- _“Düşman dışarıda”:_
+  > Sorunların kaynağı olarak hep dış faktörlerin görülmesi ve öz eleştiriden kaçınılması.
+- _“Sorumluluk üstlenme kuruntusu”:_
+  > Takım çalışmasına yanaşmama ve bireysel başarıya odaklanma.
+- _“Olaylara takılıp kalma”:_
+  > Sürekli yakın geçmişteki olaylara odaklanarak büyük resmi görememe.
+- _“Haşlanmış kurbağa meselesi”:_
+  > Değişime duyarsız kalma ve küçük sinyalleri fark edememe.
+- _“Tecrübeyle öğrenme hayali”:_
+  > Alınan kararların etkilerini doğrudan gözlemleyememekten kaynaklanan öğrenme eksikliği.
+- _“Yönetici takım miti”:_
+  > Ekip içinde tutarlı bir görüntü sergilemek için çatışmaları ve farklı görüşleri bastırma eğilimi.
 
-Olayların düz bir bakış açısı ile değil (2+2 her zaman 4 yapmaz; 4 adımlık bir işleme bazen 5-6-7-8 adımda ulaşılabilir), birbirini güçlendiren, zayıflatan ya da dengeleyen sistemler olarak incelenmesi gerektiğini vurgulayan kitapta, 4. bölümde Beşinci Disiplinin Yasaları ele alınmaktadır:
+##### ["Bira Oyunu" ve Sistem Dusuncecesi](#bira-oyunu-ve-sistem-dusuncesi)
 
-- Bugünün problemleri dünün çözümlerinden kaynaklanır.
-- Ne kadar sıkı yüklenirseniz, sistem de o sıkılıkta geriye itecektir.
-- Davranış, kötü sonuçlardan önce iyi sonuçlar doğurur.
-- Bir sorundan kolay çıkış, normal olarak o soruna tekrar geri götürür.
-- Tedavi hastalıktan kötü olabilir.
-- Daha hızlı, daha yavaştır.
-- Neden ve sonuç, zaman ve uzamda birbiriyle yakından ilintili değildir.
-- Küçük değişiklikler büyük sonuçlar üretebilir - ancak en yüksek kaldıraç gücüne sahip olanlar çoğu kez en az göze görünür olanlardır.
+{: #bira-oyunu-ve-sistem-dusuncesi }
+
+Kitapta, Massachusetts Teknoloji Enstitüsü’nde geliştirilmiş “Bira Oyunu” simülasyonuna geniş yer veriliyor. Bu simülasyon, bira üretim ve dağıtım sistemindeki perakendeciler, toptancılar ve üreticilerin kararlarını incelemek için tasarlanmıştır. Simülasyon, bireylerin kısa vadeli çıkarları göz önünde bulundurarak verdikleri kararların uzun vadeli sistematik sorunlara nasıl yol açabileceğini çarpıcı bir şekilde ortaya koyuyor. (sayfa 36)
+
+Bu bağlamda Senge, olayların yüzeydeki görünen şekliyle değil, sistemdeki ilişkiler ve dinamiklerle analiz edilmesi gerektiğini vurgular. Sistem düşüncesi, tüm disiplinleri birleştiren çerçeve olarak tanımlanır ve kitabın temelini oluşturur.
+
+##### [Besinci Disiplinin Yasalari](#besinci-disiplinin-yasalari)
+
+{: #besinci-disiplinin-yasalari }
+
+Kitap, organizasyonların karşılaştığı zorlukları anlamalarına yardımcı olan “Beşinci Disiplin Yasaları”nı sıralıyor. Bu yasalar, bireylerin ve organizasyonların sürdürülebilir başarıya ulaşması için rehber niteliği taşır. Bu yasalardan bazıları şunlardır (4.bölüm):
+
+- Bugünün problemleri, dünün çözümlerinden kaynaklanır.
+- Ne kadar sıkı yüklenirseniz, sistem de o kadar sıkı karşılık verir.
+- Hızlı çözümler genellikle uzun vadede daha karmaşık sorunlar yaratır.
+- Küçük değişiklikler büyük farklar yaratabilir, ancak bunlar genellikle en az dikkat çeken noktalardır.
 - Hem pastanız olur, hem de onu yiyebilirsiniz, ama aynı anda değil.
-- Bir fili ikiye bölmekle iki küçük fil elde edilmez.
-- Kabahat yükleme diye bir şey yoktur.
-- Dünyayı Yeni Bir Gözle Görmek
 
-##### Öğrenen Organizasyonların beş disiplini:
+##### [Ogrenen Organizasyonlarin Bes Disiplini](#ogrenen-organizasyonlarin-bes-disiplini)
 
-##### [Sistem düşüncesi](#sistem-dusuncesi)
+{: #ogrenen-organizasyonlarin-bes-disiplini }
 
-{: #sistem-dusuncesi }
-Bir sistemi parçalarına ayırarak değil, bir bütün olarak görme disiplinidir. Sistem düşüncesinin yapı taşları arasında pekiştirici ve dengeleyici geribildirimler vardır. Gecikmeler de birçok sürecin bir parçasını oluşturur.
+Senge, öğrenen organizasyonların temelini oluşturan beş disiplini detaylı bir şekilde inceliyor:
 
-##### [Kişisel hakimiyet (ustalık)](#ustalik)
+1. Sistem Düşüncesi:
 
-{: #ustalik }
-Bireysel öğrenme örgütsel öğrenmenin temelidir. Vizyon ile mevcut gerçeğin farkı yaratıcı gerilimi doğurur. Kişilerin ufuklarına sürekli olarak açıklık kazandırma ve enerjilerini bu yönde odaklama ile ilgili bir disiplindir.
+   > Organizasyonları bir bütün olarak gören ve iç ilişkileri analiz eden bir yaklaşım.
 
-##### [Zihinsel modeller](#zihinsel-modeller)
+2. Kişisel Ustalık:
 
-{: #zihinsel-modeller }
-Kişinin zihninde yer etmiş genellemeler, varsayımlardır ve bunlar anlayış ve eylemleri etkiler. Bu modeller, genellikle bilinçaltında bulunurlar. Açık görüşlü olmakla ve bu zihinsel modellerin sorgulanması ve geçerliliklerinin araştırılması yoluyla değişime uyum sağlanabilir.
+   > Bireylerin vizyonlarını netleştirerek öğrenme kapasitelerini artırmaları.
 
-##### [Paylaşılan vizyonun (görme gücünün) oluşturulması](#vizyon)
+3. Zihinsel Modeller:
 
-{: #vizyon }
-Organizasyonda herkes tarafından paylaşılan ortak amaç ve değerleri ifade eden bir disiplindir. İnsanlar kendilerine söylendiği için değil, öyle istedikleri için bu vizyonun peşinden koşarlar. Vizyona ulaşmak için gereken odaklanma, enerji ve alınması gereken riskler ancak bu şekilde karşılanır.
+   > Bireylerin varsayımlarını sorgulamalarını ve daha esnek düşünmelerini sağlayan bir disiplin.
 
-##### [Takım (ekip) halinde öğrenme](#takim)
+4. Paylaşılan Vizyon:
 
-{: #takim }
-Tartışma ve diyalogla takım olarak öğrenme disiplinidir. Takım üyeleri bireysel değil, takım olarak düşünmeyi öğrenir.
+   > Organizasyonda ortak bir amaç oluşturarak bireyleri motive eden bir yapı.
 
-Bu beş disiplinin bütünsel olarak çalışmasını sağlamak oldukça zor ve zahmetlidir. Bu da ancak sistem düşüncesi ile gerçekleştirilebilir. Ancak bu sayede, bütün parçalarının toplamından daha fazlası haline gelir. Sistem düşüncesi ancak bir zihniyet değişikliği ile mümkün hale gelir. Olayların bağlantılarını görmeye başlamak, sorunlara yol açan gerçek eylemleri belirlemek bu anlamda ilk adımlardır.
+5. Takım Hâlinde Öğrenme:
+   > Diyalog ve tartışma yoluyla ekiplerin kolektif zekâlarını geliştirme.
+
+Bu beş disiplinin birlikte çalışması, organizasyonları yalnızca bireylerin toplamından daha etkili bir yapıya dönüştürür. Ancak bu, sadece bir zihniyet değişikliği ile mümkün olabilir. Sistemi bir bütün olarak görmeye başlamak, sorunlara yol açan gerçek nedenleri anlamanın ilk adımıdır.
+
+Beşinci Disiplin, öğrenen organizasyonların nasıl kurulabileceğini detaylandıran bir rehber niteliğindedir. Hem teorik hem de pratik içerikleriyle, bireylerin ve organizasyonların sürdürülebilir başarıya ulaşmaları için güçlü bir yol haritası sunar. Peter Senge, sistem düşüncesini yalnızca iş dünyası için değil, bireysel yaşamlarımız için de bir araç olarak sunar.
