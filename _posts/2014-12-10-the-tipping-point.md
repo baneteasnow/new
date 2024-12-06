@@ -10,7 +10,7 @@ sayfa: "298"
 goodreads: "https://www.goodreads.com/book/show/2612.The_Tipping_Point"
 description: "Kıvılcım Ani, fikirlerin ve davranışların nasıl bir salgın gibi yayılıp bir anda toplumsal değişimlere yol açtığını açıklayan, sosyal salgınların dinamiklerini ve bu süreçlerin üç temel kuralını etkileyici örneklerle ele alan bir kitaptır."
 published: true
-last_modified_at: 2024-06-12
+last_modified_at: 2024-12-06
 posted: 2014-12-10
 tag: "psikoloji"
 reread: "yes"
