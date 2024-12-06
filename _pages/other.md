@@ -5,7 +5,7 @@ published: true
 last_modified_at: 2024-12-05
 ---
 
-published: true
+_published: true_
 
 [now](/now.html)  
 [menu](/menu.html)
@@ -17,6 +17,6 @@ published: true
 [bookshelf](/bookshelf.html)  
 [archive](/posts.html)
 
-published: false
+_published: false_
 
 [antilibrary](/antilibrary.html)
