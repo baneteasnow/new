@@ -52,7 +52,7 @@ Kitapta, çalışanların düşünce ve iletişim tarzlarının organizasyonlard
 - _“Yönetici takım miti”:_  
   Ekip içinde tutarlı bir görüntü sergilemek için çatışmaları ve farklı görüşleri bastırma eğilimi.
 
-##### ["Bira Oyunu" ve Sistem Dusuncecesi](#bira-oyunu-ve-sistem-dusuncesi)
+##### [Bira Oyunu ve Sistem Dusuncecesi](#bira-oyunu-ve-sistem-dusuncesi)
 
 {: #bira-oyunu-ve-sistem-dusuncesi }
 
