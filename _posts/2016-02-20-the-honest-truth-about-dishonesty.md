@@ -8,37 +8,43 @@ yazar: "Dan Ariely"
 yil: "2013"
 sayfa: "253"
 goodreads: "https://www.goodreads.com/book/show/13426114-the-honest-truth-about-dishonesty"
-description: "Dan Ariely tarafından kaleme alınan Dürüst Olmamanın Ardındaki (Dürüst) Gerçek isimli kitap, dürüstlük ve yalan söylemek konularını inceliyor."
+description: "Dan Ariely’nin Dürüst Olmamanın Ardındaki (Dürüst) Gerçek kitabı, dürüstlük ve yalan söyleme üzerine insan davranışlarını derinlemesine inceliyor. Kitap, küçük hilelerin bile ahlaki sınırları nasıl zorladığını ve insanların dürüstlük anlayışını şekillendiren psikolojik faktörleri keşfediyor."
 published: true
-last_modified_at: 2023-01-14
+last_modified_at: 2024-12-07
 posted: 2016-02-20
 tag: "davranışsal iktisat"
 reread: "yes"
 rating: "5"
 num: "25"
+eng: "Dan Ariely’s The Honest Truth About Dishonesty explores human behaviors related to honesty and lying. The book delves into how even small acts of dishonesty challenge moral boundaries and examines the psychological factors shaping our understanding of honesty."
+update: "done"
 image: "/assets/old/the-honest-truth-about-dishonesty.jpg"
 ---
 
-Dan Ariely tarafından kaleme alınan Dürüst Olmamanın Ardındaki (Dürüst) Gerçek isimli kitap, dürüstlük ve yalan söylemek konularını inceliyor.
+Dürüst Olmamanın Ardındaki (Dürüst) Gerçek, Dan Ariely’nin dürüstlük ve yalan söyleme üzerine kaleme aldığı etkileyici bir kitap. Ariely, dürüst olmayan davranışların ardındaki psikolojik ve toplumsal sebepleri araştırıyor ve bu davranışların hepimiz için ne anlama geldiğini sorguluyor.
 
-Kitap, 2001 yılında yaşanan Enron skandalına gönderme yaparak başlıyor. O dönemde Enron ile ilgisi olan pek çok kişi yaşananları görememiş ve skandal ortaya çıktıktan sonra da olanları nasıl algılayamadıklarına hayret etmişlerdi, yani adeta bir körlük içinde kalmışlardı. Nobel ödüllü iktisatçı Gary Becker hilekarlığa dair en çok bilinen görüşü ortaya atmıştır ve insanların her durumda akılcı analize dayanarak suç işlediğini öne sürmüştür. Kişilerin maliyet fayda analizi (hileden elde edilecek fayda, yakalanma olasılığı ve karşılaşılması muhtemel ceza) yaptıkları bu süreci Basit Akılcı Suç Modeli (BASM) olarak adlandırmıştır. Yapılan temel deneylerde, katılımcılara çeşitli şekillerde hile yapabilecekleri ve yakalanmayacakları koşullar sunulmuştur. Bu durumda katılımcılar ortalama olarak "az" miktarda hile yapmayı tercih etmişlerdir, bu da kişinin kendi içinde rahat edebileceği ve ahlakını bozmayacağı bir düzeydir. Yazar birinci bölümün ilk cümlesinde bu durumu çok çarpıcı şekilde ortaya koyuyor (sayfa 19):
+Kitap, 2001 yılındaki Enron skandalı ile başlıyor. Enron’la ilişkili birçok kişi, o dönemde yaşananları fark edememiş ve skandal ortaya çıktıktan sonra, bu körlük hali karşısında hayrete düşmüşlerdi. Nobel ödüllü iktisatçı Gary Becker’in _“Basit Akılcı Suç Modeli”_ üzerinden, insanların suç işlemeye yönelik maliyet-fayda analizleri yaptığını anlatıyor. Bu modelde, insanlar hile yaparken elde edecekleri fayda ile yakalanma olasılığı ve karşılaşacakları cezayı karşılaştırarak, kararlarını verirler. Ancak Ariely, bu modelin genelde doğru olmadığını öne sürüyor. Yapılan deneylerle, insanların çoğunlukla çok küçük miktarda hile yapmayı tercih ettiğini ve bu şekilde, kendi iç ahlaki denetimlerini aşmadan, az bir hileyi kabul edebildiklerini gösteriyor. Yazar, bu durumu çarpıcı bir şekilde şöyle ifade ediyor (sayfa 19):
 
-'Pat diye söyleyeyim. Hile yapıyorlar. Hile yapıyorsunuz. Ve evet, ben de ara sıra hile yapıyorum.'
+> Pat diye söyleyeyim. Hile yapıyorlar. Hile yapıyorsunuz. Ve evet, ben de ara sıra hile yapıyorum.
 
-Kişilerin kendilerince zararsız olarak gördükleri birtakım dürüst olmayan davranışlar vardır. Bu davranışlar, bazı zamanlarda ahlaki standartların daha kolay gevşetilebileceğini göstermektedir. Kitapta yer alan örneklere göre üniversite yurtlarında kalan öğrencilerin buzdolabından kime ait olduğunu bilmedikleri kutu içecekleri almaları, bir çalışanın evdeki yazıcısı için işyerinden 10 adet kağıt alması veya evdeki çocuğu kırmızı kalem isteyince bunu işyerinden temin etmesi gibi. Ama bu kişiler, çok küçük miktarda bozuk para söz konusu olduğunda bile kesinlikle bu paraya dokunmamaktadır. Ancak genel anlamda parasal olmayan nesneler söz konusu olduğunda sahtekarlık eğilimi artmaktadır. Sanal ortamda sadece rakamların temsil ettiği sanal para ile yapılan dolandırıcılık ve sahtekarlığın artmasının nedenlerinden biri belki de budur.
+Ariely, dürüst olmayan davranışların çoğu zaman “zararsız” olarak görüldüğünü belirtiyor. İnsanlar, küçük, günlük hayatta karşılaştıkları “günahlar” için ahlaki bir sınır koymazlar. Örneğin, üniversite yurtlarında kalan öğrencilerin buzdolabından kime ait olduğunu bilmedikleri içecekleri alması, ya da çalışanların işyerinden kağıt alması gibi durumlar, birçok kişi tarafından zararsız kabul edilir. Ancak, parasal bir durum söz konusu olduğunda, örneğin bozuk para gibi, insanlar daha dürüst olma eğilimindedir. Bu da şunu gösteriyor: Parasal olmayan nesneler söz konusu olduğunda, insanların sahtekarlık eğilimleri daha fazla artabiliyor. Sanal ortamda yapılan dolandırıcılıklar ve hileler de belki bu yüzden çok yaygın hale geliyor.
 
-Mesleki uzmanlıklarından yararlanmak için kendilerine başvurulan kişiler de kendi içlerinde zaman zaman çıkar çatışması yaşayabilirler. Hizmet verdikleri kişiye gerçekten gerekli olmayan bir şeyi yaptırmaları konusunda ısrar etmek ve bu sayede daha büyük tutarda fatura kesmek mi (neden gerekli olduğu konusunda gayet ikna edici olabilirler) yoksa karşı tarafı düşünmek ve sadece gerçekten ihtiyaçları olan hizmeti almalarını sağlamak mı?
+Kitapta ayrıca, mesleki çıkar çatışmaları ve bunların etkileri de ele alınıyor. Örneğin, profesyoneller hizmet verdikleri kişiye gereksiz işlemler önererek daha fazla kazanç sağlama dürtüsüyle, dürüstlük arasında sık sık ikilem yaşayabiliyorlar. Bu gibi durumlar, Ariely’nin özellikle vurguladığı “profesyonel dürüstlük” sorununu gözler önüne seriyor.
 
-Kitapta yer alan bazı başlıklar ve sorular şöyle:
+Kitapta ele alınan diğer ilginç konular arasında şunlar yer alıyor:
 
-- Ufak hile faktörü nedir? Neden bazı şeyleri çalmak daha kolaydır?
-- Golf gibi saygın olarak değerlendirilen bir oyun nasıl sahtekarlık tuzağına dönüşür?
-- Çıkar çatışması kişinin çevresini nasıl etkiler? Paylaşılan bilginin düzeyi ne kadar ise yarar?
-- İnsanlar yorgunken neden işleri berbat etmeye eğilimli olurlar?
-- Taklit ürünler kullanmakla hilekarlık arasındaki ilişki hangi yöndedir?
+- Neden bazı şeyleri çalmak daha kolaydır?
+- Golf gibi saygın bir oyun nasıl sahtekarlık tuzağına dönüşebilir?
+- Çıkar çatışması kişiyi nasıl etkiler?
+- Yorgunluk, dürüstlüğü nasıl etkiler?
+- Taklit ürün kullanmak ile hilekarlık arasındaki ilişki nedir?
 - Kişi kendini aldatabilir mi?
-- Daha iyi bir yalancı olan kişiler hangi kişilik özelliklerine sahiptir?İş birliğii dürüstlük düzeyini hangi yönde etkiler?
-- Hilekarlığa karşı çözüm yöntemleri nelerdir? Hangi önlemler alınabilir?
-- Hile yapma motivasyonunun perde arkasında ne vardır?
+- İyi bir yalancı olmak için hangi kişilik özelliklerine sahip olmak gerekir?
+- İşbirliği ve dürüstlük düzeyi arasındaki ilişki nedir?
+- Hilekarlığa karşı çözüm önerileri nelerdir?
 
-Dili oldukça akıcı ve özellikle davranışsal iktisat kapsamında değerlendirilebilecek olan güncel pek çok örneği de içeren kitapta, hemen her bölümde çözüm önerileri de paylaşılmış.
+Ariely, kitap boyunca dürüstlük ve hilekarlık üzerine derinlemesine düşünmemizi sağlarken, çözüm önerileri de sunuyor. Olaylara sadece bir eleştirmen olarak bakmakla kalmayıp, dürüstlük ve hileyi nasıl daha iyi anlayabileceğimizi ve önleyebileceğimizi de tartışıyor. Kitap, okuyuculara pratik çözüm yolları sunarak, dürüstlük anlayışımızı yeniden şekillendirmemizi sağlıyor.
+
+Kitap, davranışsal iktisat üzerine yazılmış bir eser olarak, hem güncel örneklerle hem de bilimsel bakış açısıyla son derece düşündürücü ve akıcı. Ariely, kitapta kullandığı dilin açıklayıcı ve samimi olmasının yanı sıra, okurlarını sürekli olarak kendi dürüstlük anlayışlarını sorgulamaya davet ediyor.
+
+Sonuç olarak, Dürüst Olmamanın Ardındaki (Dürüst) Gerçek, hem bireylerin dürüstlük anlayışını hem de toplumsal düzeydeki yalan söyleme eğilimlerini anlamak için harika bir okuma sunuyor. Kitap, dürüstlüğün sınırlarını keşfederken, hepimizin zaman zaman “zararsız” olarak gördüğü küçük hileleri sorgulamamıza yol açıyor ve bunun, toplumsal düzeyde nasıl daha büyük etkilere yol açabileceğini gözler önüne seriyor.
