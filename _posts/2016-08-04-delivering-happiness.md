@@ -8,42 +8,29 @@ yazar: "Tony Hsieh"
 yil: "2011"
 sayfa: "256"
 goodreads: "https://www.goodreads.com/book/show/6828896-delivering-happiness"
-description: "İnternet üzerinden ayakkabı satışı yapmak üzere kurulan ve şu anda Amazon.com bünyesinde bulunan Zappos.com'un hikayesini anlatan 'Mutluluk Dağıtmak' isimli kitap, firmanın CEO'su Tony Hsieh tarafından kaleme alınmış."
+description: "Mutluluk Dağıtmak, Tony Hsieh’in liderliğinde Zappos’un müşteri mutluluğunu ve güçlü bir örgüt kültürünü merkeze alarak yaşadığı dönüşüm sürecini anlatıyor. Kitap, girişimcilik, liderlik ve müşteri odaklı hizmet anlayışına dair ilham verici bir hikaye sunuyor."
 published: true
-last_modified_at: 2023-01-14
+last_modified_at: 2024-12-07
 posted: 2016-08-04
 tag: "marka profili"
 reread: "no"
 rating: "4"
 num: "33"
+eng: "Delivering Happiness shares Tony Hsieh’s journey of transforming Zappos by focusing on customer happiness and a strong organizational culture. The book offers an inspiring story of entrepreneurship, leadership, and customer-centric values."
+update: "done"
 image: "/assets/old/delivering-happiness.jpg"
 ---
 
-İnternet üzerinden ayakkabı satışı yapmak üzere kurulan ve şu anda Amazon.com bünyesinde bulunan Zappos.com'un hikayesini anlatan 'Mutluluk Dağıtmak' isimli kitap, firmanın CEO'su Tony Hsieh tarafından kaleme alınmış.
+Mutluluk Dağıtmak, Zappos.com’un hikayesini, firmanın CEO’su Tony Hsieh’in gözünden anlatıyor. İnternet üzerinden ayakkabı satışı yapmak üzere kurulan Zappos, müşteri hizmetlerine verdiği önem ve güçlü örgüt kültürüyle dünya çapında tanınır hale gelmiş bir marka. Kitap, şirketin kuruluş aşamasından, krizlerle dolu büyüme sürecine ve nihayetinde elde edilen başarıya kadar Zappos’un serüvenini ele alıyor.
 
-Zappos firmasının en büyük özelliği müşteri hizmetlerinin kalitesine verdiği önem ve bu kaliteyi sürdürmede kilit noktada yer alan ekibin doğru kişilerden seçilmiş olması. Kitap boyunca, özellikle kitabın ikinci yarısında örgüt kültürünün temelinin bir firmanın kuruluş aşamasında doğru atılmasının ve sonraki dönemlerde de beslenerek geliştirilmesinin ne kadar önemli olduğu sürekli vurgulanıyor.
+Tony Hsieh, kitabın ilk bölümünde girişimcilik yolculuğunu ve ticarete olan tutkusunu anlatıyor. Çocukluk hayallerinden, bir solucan çiftliği kurma fikrinden, üniversite yıllarında çıkardığı dergiye kadar uzanan bu serüven, 1996 yılında internet üzerinden banner reklam hizmeti sunan LinkExchange firmasının kurulmasıyla ivme kazanıyor. 1998’de 100 çalışanı varken Microsoft’a satılan LinkExchange’den elde ettiği gelirle Hsieh, yatırımcılık kariyerine başlıyor ve Venture Frogs adlı bir fon kuruyor. Zappos’a yaptığı yatırım ise onun hayatında dönüm noktası oluyor.
 
-Tony Hsieh, kitabın ilk kısmında çocukluğundan bu yana ticarete olan ilgisini anlatmıştır. Dergi çıkarmak, solucan çiftliği kurma hayali gibi farklı girişimlerden sonra 1996 yılında internet üzerinden banner reklam hizmeti sunan LinkExchange firmasını kurucularından biri olur ve bu firma, 1998 yılında 100 çalışanı varken Microsoft tarafından satınalınır. Tony Hsieh, bu satıştan kazandığı para ile çeşitli yatırım fırsatlarına yönelir ve Venture Frogs ile farklı yatırımlar yapar. Yatırım yaptığı henüz yeni kurulan firmalardan bir tanesi olan Zappos.com'un gelecek vadettiği halde büyümek için yeterli kaynak bulamaması üzerine tüm enerjisini bu firmaya yöneltmeye karar verir ve ayakta kalma savaşı veren Zappos'un yönetimine geçer.
+Zappos, kuruluşunda yaşadığı maddi sıkıntılar nedeniyle zor bir dönemden geçerken, Tony Hsieh tüm enerjisini bu firmaya yöneltmeye karar veriyor. Kitapta, Zappos’un kar eden bir şirkete dönüşme hikayesi, alınan doğru ve yanlış kararlarla birlikte samimi bir şekilde işleniyor. Firmanın öğrendiği en önemli derslerden biri, müşteri deneyimini ve örgüt kültürünü korumak için ana işlerini outsource etmemek olmuş. Bu ilke, Zappos’un müşteri hizmetlerinde “WOW” etkisi yaratan bir deneyim sunma hedefinin temel taşlarından biri haline gelmiş.
 
-Zappos'u kar eden bir firma olma yolunda yaşanan serüvenleri anlatan kitap, bu süreçte alınan yanlış kararları da samimi şekilde işliyor. Zappos'u bu süreçte başarıya götüren en önemli şeylerden bir tanesi yaşadığı olumsuz durumlardan gereken dersin alınması ve önlemler ile müdahale edilmesi olmuş. Firmanın yaptığı ana işlerden herhangi birisinin maliyetleri düşürmek gibi bir nedenle asla outsource edilmemesi gerektiği ve bir firma için örgüt kültürünü korumanın aslında müşteriye verilen hizmetin sürekliliği için bir gereklilik olması sonradan Zappos'un temel ilkeleri haline gelmiştir.
+Zappos’un kültürünün en dikkat çekici yönlerinden biri şeffaflık. Başarılar ve krizler, CEO tarafından doğrudan e-posta ile çalışanlara iletiliyor. Her yıl düzenli olarak güncellenen ve çalışanların Zappos hakkındaki görüşlerini içeren “Şirket Kültürü Kitabı”, bu şeffaflığı daha da pekiştiriyor. Ayrıca, Zappos ofislerine düzenlenen turlar ve çeşitli kurslar sayesinde kültürlerini hem çalışanlara hem de dış dünyaya açmayı başarmışlar.
 
-Zappos'un örgüt kültürünün en dikkat çekici noktalarından bir tanesi şeffaflık. Yaşanan başarıları ve krizleri Zappos çalışanları doğrudan CEO'dan gelen bir e-posta ile öğreniyorlar ve çalışanların Zappos hakkındaki görüşlerinden oluşan "Şirket Kültürü Kitabı" her yıl düzenli olarak güncellenerek yayınlanıyor.
+Tony Hsieh, bir firmanın kültürünün kopyalanamayacağını ve zaman içinde organik olarak gelişmesi gerektiğini vurguluyor. Zappos’un kültürü, çalışanlarının yaratıcılığı, tutkusu ve takım ruhuyla şekillenmiş. Kitap, Zappos’un temel değerlerini detaylı bir şekilde açıklıyor ve bunların nasıl günlük işleyişin bir parçası haline geldiğini gösteriyor. Örneğin, “WOW dedirten sıra dışı hizmet sunmak”, “Eğlenceli ve biraz da sıra dışı şeyler yapmak” ve “Mütevazı olmak” gibi değerler, Zappos’un başarısının merkezinde yer alıyor.
 
-Kitapta vurgulanan bir diğer nokta da, her firmanın örgüt kültürünün kendine has olması, zaman içinde gelişmesi. Kitapta Zappos'un kültürünü ve bugünkü hale gelene kadar geçilen aşamaları açıklasa da Tony Hsieh, başka herhangi bir firmanın kültürünü kopyalayarak yola çıkan firmaların başarısız olmaya mahkum olduğunu vurguluyor. Zappos içinde çalışanların ortamları zaman içinde öyle bir noktaya gelmiş ki, şu anda Las Vegas'taki ofislere kısa turlar yapılabiliyor, ayrıca düzenlenen çeşitli kurslar da mevcut.
+Kitap boyunca, Zappos’un müşteri odaklı yaklaşımını, inovasyona olan bağlılığını ve güçlü örgüt kültürünü nasıl koruduğunu öğreniyorsunuz. Tony Hsieh’in liderliği, sadece bir şirketi büyütmekle kalmıyor, aynı zamanda çalışanlarına ve müşterilerine ilham veren bir ortam yaratıyor.
 
-Kitapta 164.sayfadan itibaren Zappos'un temel değerleri başlıklar halinde açıklanıyor:
-
-Zappos'un Misyonu: WOW dedirten deneyimler yaşamak ve yaşatmak
-
-Zappos içinde her çalışanın performans değerlendirmesi büyük ölçüde Zappos'un temel değerlerini temsil etme ve buna uygun karar verme başarısına bağlı olarak yürütülecektir (sayfa 165).
-
-- "WOW!" dedirten sıra dışı, muhteşem bir hizmet sunmak
-- Değişimi kucaklamak ve değişimin öncüsü olmak
-- Eğlenceli, keyifli ve biraz da sıra dışı seyler yapmak
-- Maceraperest, yaratıcı ve açık fikirli olmak
-- Sürekli gelişim ve öğrenmenin takipçisi olmak
-- İletişim yoluyla açık ve dürüst ilişkiler kurmak
-- Olumlu bir ekip ve aile ruhu hissi yaratmak
-- Daha az ile daha fazlasını gerçekleştirmek
-- Tutkulu ve azimli olmak
-- Mütevazı olmak
+Mutluluk Dağıtmak, yalnızca bir şirket hikayesi değil; aynı zamanda insanlara ilham vermeyi, güçlü bir kültür yaratmayı ve müşteri mutluluğunu merkeze koymayı amaçlayan bir yaklaşımı anlatıyor.
