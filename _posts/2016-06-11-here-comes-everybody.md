@@ -8,37 +8,35 @@ yazar: "Clay Shirky"
 yil: "2010"
 sayfa: "282"
 goodreads: "https://www.goodreads.com/book/show/1998185.Here_Comes_Everybody"
-description: "Kitap, internet üzerinde aynı platformu kullanarak bir araya gelen grupların yaptırım gücünü ve yapabildiklerini anlatıyor."
+description: "Clay Shirky’nin Herkes Örgütlüyor kitabı, internetin bireyleri nasıl kolayca bir araya getirdiğini ve bu toplulukların sosyal araçlar sayesinde nasıl büyük bir güç haline gelebildiğini çarpıcı örneklerle anlatıyor."
 published: true
-last_modified_at: 2023-01-14
+last_modified_at: 2024-12-07
 posted: 2016-06-11
 tag: "dijital kültür"
 reread: "yes"
 rating: "4"
 num: "30"
+eng: "Clay Shirky’s Here Comes Everybody explores how the internet enables individuals to come together effortlessly and how these groups, empowered by social tools, can achieve remarkable influence."
+updated: "done"
 image: "/assets/old/here-comes-everybody.jpg"
 ---
 
-Kitap, internet üzerinde aynı platformu kullanarak bir araya gelen grupların yaptırım gücünü ve yapabildiklerini yakın zamanda yaşanmış olaylar üzerinden örnekler vererek anlatıyor.
+Clay Shirky’nin Herkes Örgütlüyor: Toplu Hareketlerin Gücü ve Sosyal Medya adlı kitabı, internet ve sosyal medya araçlarının bireyleri nasıl bir araya getirdiğini ve bu kolektif gücün neler başarabileceğini çarpıcı örneklerle anlatıyor. Yazar, grupların birlikte hareket etme potansiyelini etkileyici bir şekilde inceleyerek, teknolojinin toplumsal değişim üzerindeki dönüştürücü etkisini gözler önüne seriyor.
 
-Kitap, Mayıs 2006'da Ivanna isimli bir kadının bir New York taksisinde cep telefonunu unutmasını, unuttuğu bu telefonun Sasha isimli bir başka kadının eline geçmesini ve ardından yaşananları anlatarak başlıyor. Ivanna, telefonun kendisine ait olduğunu belirttiği halde Sasha telefonu kendisine teslim etmeyince basına gelenleri arkadaşı Evan'ın EvanWasHere.com isimli web sitesinde StolenSidekick isimli kısımda yayınlar; internette İvanna'nın başına gelenleri kınayan ve Sasha'nın telefonu teslim etmesini isteyen kalabalık bir kitlenin yardımları sonucunda Ivanna telefonuna kavuşur. Yaşanan bu olaylar yazara göre, doğru araçları kullanan grup eylemlerinin gücünün tartışılmaz olduğudur. İnternetin yaygın hale gelmesi, klasik medya araçlarından farklı olarak beraberinde "hız"ı getirmiştir, aynı zamanda yaşanan olaylar yerelden küresele doğru kolaylıkla yayılır hale gelmiştir.
+Kitap, Mayıs 2006’da New York’ta yaşanan gerçek bir hikaye ile başlıyor. Ivanna adlı bir kadın, bir takside cep telefonunu unutur. Telefonu bulan Sasha, Ivanna’nın tüm taleplerine rağmen cihazı geri vermeyi reddeder. Bunun üzerine Ivanna’nın arkadaşı Evan, bu olayı EvanWasHere.com sitesindeki StolenSidekick adlı bölümde paylaşır. Bu paylaşım, kısa sürede internette geniş bir yankı uyandırır. Topluluk, Sasha’yı telefonu iade etmeye zorlar ve Ivanna sonunda telefonuna kavuşur. Shirky, bu olayla doğru araçlarla organize olan grupların ne kadar güçlü olabileceğini gözler önüne seriyor. İnternet, yalnızca iletişim hızını artırmakla kalmayıp, yerelden küresele bilgi ve eylem yayılımını da kolaylaştırdı.
 
-İletişim şekli değiştiğinde, toplum değişir. (sayfa 20)
+> İletişim şekli değiştiğinde, toplum değişir. (sayfa 20)
 
-Microsoft gibi kurumlar ödedikleri maaş karşılığında çalışanların emeklerini alır ve onları belli bir amaç doğrultusunda bir arada tutar. Faaliyetlerin yönetimi ve denetimi ile ilgili birtakım maliyetlere katlanır. Her kurum kendi içinde bir çelişki barındırır. Kurumun kendisi, grup çalışmasından yararlanmak için vardır ancak bu çalışmanın ortaya çıkarılması için de oluşan maliyetlere katlanmak zorundadır. Bu duruma kurumsal ikilem adı verilir.
+Kitap, teknolojinin yalnızca bireyleri değil, kurumları da nasıl değiştirdiğini detaylı bir şekilde ele alıyor. Geleneksel kurumlar, çalışanlarının emeklerini yönetmek için maliyetlere katlanmak zorundadır. Shirky bu durumu “kurumsal ikilem” olarak tanımlıyor: Grup çalışmasından yararlanmak için var olan kurumlar, bu çalışmayı sürdürebilmek adına yüksek maliyetlere katlanır. Ancak internet ve sosyal araçlar bu denklemi kökünden değiştirdi. Artık bireyler, bir kuruma bağlı kalmadan, formel bir yönetim yapısı olmaksızın bir araya gelip etkili bir şekilde hareket edebiliyor. Bu durum, kurumsal ikilemi büyük ölçüde ortadan kaldırdı.
 
-İnternetin yaygınlaşması ile birlikte grupların kendiliğinden biraraya gelmeleri oldukça kolay hale geldi, bireylerin grup çalışmasına bireysel katkı yapabilecekleri birtakım araçlar ortaya çıktı, formel bir yönetim olmadan da bu gruplar belli hedeflere ulaşılabileceğini ve yaptırım güçleri olduğunu kanıtladılar. Bu anlamda kurumsal ikilem de ortadan kalkmış oldu.
+> Bir şirket, ancak yönetim maliyetleri, elde edilen kazançtan düşük olduğunda başarılıdır. (sayfa 32)
 
-Bir firma, ancak çalışanlarının çabalarını yönetmenin maliyetleri, yönetimden sağlanacak olası kazançtan daha düşükse başarılıdır. (sayfa 32)
+Shirky, sosyal araçların toplulukların dinamiklerini nasıl değiştirdiğini gerçek olaylarla açıklıyor. Örneğin, 2005 yılında Londra metrosunda gerçekleşen bombalı saldırılar sırasında, olayın görselleri cep telefonlarıyla çekilip anında Flickr üzerinden paylaşıldı. Bu, sosyal araçların “toplan, sonra paylaş” anlayışını “paylaş, sonra toplan” şeklinde tersine çevirdiğini gösteriyor.
 
-Fotoğraf paylaşım sitesi Flickr üzerinde üye olan kişilerin aynı etiketi kullanılarak yüklemiş oldukları fotoğraflar sayesinde 2005 yılında Londra Metrosuna yapılan bombalı saldırıların resimleri olaydan hemen sonra internette paylaşıldı, üstelik bu kişiler bu resimleri cep telefonlarının kameraları ile çekmişlerdi.
+Ronald Coase’un The Nature of the Firm (1937) adlı eserinde öne sürdüğü “Coase tavanı” kavramına da atıfta bulunan Shirky, şirketlerin büyüyemeyeceği bir noktaya ulaşacağını, çünkü yönetim maliyetlerinin kar marjını yok edeceğini ifade ediyor. Bugün sosyal araçlar, bu tavanı aşmanın bir yolunu sunuyor. Artık gruplar, kimseye bağlı olmadan ve kâr amacı gütmeden esnek yapılar oluşturabiliyor.
 
-Flickr gibi araçların temel kabiliyetleri, grup faaliyetinin eski düzenini tersine çevirerek, 'toplan, sonra paylaş'ı 'paylaş, sonra toplan'a dönüştürdü. (sayfa 36)
+> Yeni sosyal araçların esas avantajı, grup oluşturmayı çok kolay hale getirmesidir. (sayfa 51)
 
-Öyle bir nokta gelir ki, bir kurum artık daha fazla büyüyemez, ancak yine de faaliyetine devam eder, çünkü işi yönetme maliyeti elde edilen kar marjini yok eder, bu nokta Coase tavanıdır, yani standart kurumsal kalıpların doğru çalışmadığı noktadır. (Ronald Coase 1937, 'The Nature Of The Firm')
+Kitapta ayrıca Wikipedia’nın doğuşundan bireysel blogların gazeteciliği nasıl dönüştürdüğüne, flash mob’ların ortaya çıkışından sosyal medyanın vaat, araç ve pazarlık mekanizmalarına kadar birçok konu ele alınıyor. Aynı zamanda, 6 adımda herkesin birbirine bağlanabileceği teorisi (6 Degrees of Separation) ve Meetup gruplarının dinamikleri gibi sosyal ağların yapısını anlamamızı sağlayan ilginç detaylar da okuyucuyu bekliyor.
 
-Sosyal araçlar sayesinde gruplar yönetimin kimde olduğu belirgin hale gelmeksizin ve kar elde etme amacı gütmeyen esnek yapılı bir hale gelmişlerdir.
-
-Yeni sosyal araçların imkan tanıdığı esas avantaj, çok kolay şekilde grup oluşturmadır. (sayfa 51)
-
-Kitapta, Wikipedia'nın hikayesi, herkesin bir blog kurarak aslında gazeteci olabileceği, bu anlamda gazeteci olmanın anlamının değiştiği, suç unsuru taşımadığı için önlenemeyen flash mob eylemlerinin ortaya çıkma hikayesi, 6 adımda herkesin birbirine ulaşabilmesi (6 degrees of seperation), neden kaç kişiyi değil de kaç çeşit kişiyi tanımanın daha önemli olduğu, Meetup grupları ve nasıl biraraya geldikleri, sosyal medyanın etkili kullanımın vaat, araç ve pazarlığa bağlı olması ilgi çekici diğer başlıklar olarak yer almaktadır.
+Clay Shirky, Herkes Örgütlüyor ile internetin ve sosyal araçların toplumsal yapıları nasıl dönüştürdüğünü somut örneklerle ortaya koyuyor. Teknolojinin yalnızca bir iletişim aracı olmadığını, aynı zamanda grupları birleştiren ve hareketi mümkün kılan bir güç haline geldiğini görmek için kitabın sunduğu hikayeler oldukça etkileyici. Shirky’nin anlattıkları, günümüzün hızlı değişen dünyasında bu dönüşümü anlamak için önemli bir perspektif sunuyor.
