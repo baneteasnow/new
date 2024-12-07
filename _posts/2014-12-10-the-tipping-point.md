@@ -23,9 +23,7 @@ image: "/assets/old/the-tipping-point.jpg"
 
 The Tipping Point, Malcolm Gladwell’in yalnızca bir trend analizi değil, insan davranışlarının ve sosyal dinamiklerin nasıl işlediğini çözümleyen çarpıcı bir eseridir. Gladwell, neden bazı fikirlerin, markaların veya davranışların bir anda popüler hale gelerek bir salgın gibi yayıldığını açıklarken, bu süreçleri _“salgınların üç kuralı”_ çerçevesinde ele alır.
 
-##### [Salginlarin Uc Kurali](#salginlarin-uc-kurali)
-
-{: #salginlarin-uc-kurali }
+##### Salgınların Üç Kuralı
 
 1. Bağlantı Kurucular:
 
@@ -39,9 +37,7 @@ Gladwell, bir mesajın yalnızca içeriğinin değil, aynı zamanda akılda kal�
 
 Çevrenin bireylerin davranışları üzerindeki etkisi genellikle hafife alınır. Gladwell, Kırık Cam Teorisini örnek göstererek, küçük değişikliklerin büyük sosyal dönüşümler yaratabileceğini savunur. Bu teori, New York’ta suç oranlarını düşürmek için uygulanan politikalardan yola çıkar. Kırık Cam Teorisi’ne göre, bir bölgede fiziksel düzensizlikler (kırık camlar, grafitiler, terk edilmiş binalar) küçük suçlara zemin hazırlar ve bu küçük suçlar daha büyük suçların artmasına yol açar. Çevre düzenlenip bu küçük sorunlar ortadan kaldırıldığında ise suç oranlarında büyük düşüşler gözlemlenmiştir.
 
-##### [One Cikan Ornekler ve Kavramlar](#one-cikan-ornekler-ve-kavramlar)
-
-{: #one-cikan-ornekler-ve-kavramlar }
+##### Öne Çıkan Örnekler ve Kavramlar
 
 - _Hush Puppies Fenomeni:_  
   Birkaç yenilikçinin tercihleri sayesinde bir ayakkabı markasının beklenmedik bir şekilde moda ikonuna dönüşmesi.

@@ -8,46 +8,43 @@ yazar: "B. Joseph Pine II, James H. Gilmore"
 yil: "2012"
 sayfa: "371"
 goodreads: "https://www.goodreads.com/book/show/619718.The_Experience_Economy"
-description: "Deneyim Ekonomisi, çalışanlar, müşteriler ve tüketiciler ile daha güçlü ve yakın ilişkiler kurmada deneyimlerden faydalanmayı anlatıyor."
+description: "Deneyim Ekonomisi, Joseph Pine ve James Gilmore’un, tüketicilere yalnızca ürün veya hizmet sunmanın ötesine geçerek unutulmaz deneyimler yaşatmanın işletmeler için nasıl bir değer yarattığını ele aldığı bir kitap. Yazarlar, deneyimlerin ekonomik bir meta haline geldiği yeni bir çağın kapılarını aralayarak, iş dünyasının geleceğine dair vizyoner bir bakış açısı sunuyor."
 published: true
-last_modified_at: 2023-01-14
+last_modified_at: 2024-12-07
 posted: 2015-11-28
 tag: "tüketici davranışları"
 reread: "no"
 rating: "4"
 num: "18"
+eng: "The Experience Economy by Joseph Pine and James Gilmore explores how businesses can create lasting value by offering consumers memorable experiences beyond mere products or services. The authors present a visionary perspective on the evolving role of experiences as a new economic offering in the modern marketplace."
+update: "done"
 image: "/assets/old/the-experience-economy.jpg"
 ---
 
-Deneyim Ekonomisi, çalışanlar, müşteriler ve tüketiciler ile daha güçlü ve yakın ilişkiler kurmada deneyimlerden faydalanmayı anlatan bir kitap, iş dünyasının en önemli kaynakları arasında gösteriliyor.
+Deneyim Ekonomisi, Joseph Pine ve James Gilmore’un, ekonomik büyümenin sürdürülebilirliği için geleneksel mal ve hizmet anlayışının ötesine geçilmesi gerektiğini savunduğu bir kitap. Yazarlar, tüketicilere sunulan ürün ve hizmetlerin ötesine geçerek, onlara unutulmaz deneyimler yaşatmanın iş dünyası için kaçınılmaz bir gereklilik haline geldiğini vurguluyor. Build-A-Bear Workshop ve Apple Store gibi örneklerle, şirketlerin müşterilere etkileyici deneyimler sunarak değer yaratma stratejilerini paylaşıyorlar (sayfa 9).
 
-Ekonomik büyümeyi arttırarak devam ettirmek, istihdam yaratmak ve ekonomik refah sağlamak için mal ve hizmetler artık yeterli değildir.
+Kitapta, ekonomik değerin gelişimi için deneyim odaklı dört stratejik fırsattan bahsediliyor (sayfa 13-16):
 
-Joseph Pine ve James Gilmore, kitaba bu cümle ile başlıyorlar. Ardından da, Build-A-Bear Workshop, Apple Store gibi mağazaların müşterilerine yaşattıkları deneyim örneklerini paylaşıyorlar. (sayfa 9)
+- Malların kişiselleştirilmesi,
+- Çalışanların rolleriyle deneyimi zenginleştirmesi,
+- Deneyim sürelerinin ücretlendirilmesi,
+- Deneyimlerin dönüşüm sağlayacak şekilde tasarlanması.
 
-Ekonomik değerin gelişimi için operasyonları birer deneyim haline getirecek, deneyimi de pazarlayacak sunular geliştirilmesi gerekir. Bununla ilgili olarak dört değer yaratım fırsatı söz konusudur. (sayfa 13-16)
+Yazarlar, deneyim yaşatma sürecini tiyatro sahnelemeye benzetiyor ancak bunun bir metafor olmadığını, birçok şirketin bu yaklaşımı iş modeline dönüştürdüğünü belirtiyor. Örneğin, Pike Place Fish Market gibi işletmelerin müşterilere benzersiz bir deneyim sunarak nasıl fark yarattığına dikkat çekiyorlar. Kitabın bölümlerine verilen isimler de bu sahneleme anlayışını yansıtıyor: “Ön Gösterim,” “Antrakt,” “Alkış” gibi.
 
-- Giderek daha fazla mal müşteriye uyarlanarak imal edilmelidir.
-- Daha çok şirket, çalışanlarının rol yapmasını sağlamalıdır.
-- Daha çok deneyim sunuşunda, geçirilen süreyi ücretlendirmenin yolları bulunmalıdır.
-- Daha çok deneyimde dönüşüm sağlanmalıdır.
+Deneyim ekonomisinin temelinde, bireylerin yalnızca hizmet almadığı, aynı zamanda kendilerine özel olarak sahnelenmiş ve akılda kalıcı olaylarla değerli anılar biriktirdiği bir süreç bulunuyor. Yazarlar, deneyim sahnelemek için beş temel adımı şu şekilde sıralıyor (sayfa 117):
 
-Yazarlar, müşterilere deneyim yaşatma ile tiyatro sahneleme arasında bir bağ kurmuşlar ama bunun bir metafor olmadığını da özellikle vurgulamışlardır. Sahneye koyma sanatını bir iş modeli olarak benimseyen firmaların sayısı her geçen gün artmaktadır. Kitabın bölümlerinin adları da bu modele gönderme yapmaktadır: "Ön Gösterim: Hemen Adım Atın", "Antrakt: Canlandırıcı Bir Deneyim", "Alkış: Haydi, Perde Önüne".
+- Deneyimi temalaştırmak,
+- Olumlu izlenimler yaratmak,
+- Olumsuz unsurları ortadan kaldırmak,
+- Hatıralık nesneler eklemek,
+- Beş duyuya hitap etmek.
 
-Deneyim, en az hizmetlerin mallardan farklı olduğu kadar hizmetlerden farklı olan dördüncü ekonomik şunu türüdür. Bir kişi hizmet aldığında, kendisi için yürütülen, ama maddi olmayan bir dizi faaliyet satın almış olur. Oysa, bir deneyim aldığında, şirketin kişisel olarak onun ilgisini çekecek şekilde (aynen tiyatrodaki gibi) sahnelediği ve akılda kalacak bir dizi olayla keyifli zaman geçirmek için para öder. (sayfa 31)
+Kitabın ilerleyen bölümlerinde, deneyim ekonomisinin, dönüşüm ekonomisine doğru evrildiği ve şirketlerin artık yalnızca deneyim değil, bireylerin kişisel değişimlerine rehberlik eden dönüşümler sunduğu ifade ediliyor (sayfa 325-327). Yazarlar, her ekonomik sununun farklı bir temel niteliği olduğunu belirtiyor:
 
-Deneyimleri sahnelemek için beş adım söz konusudur: (Sayfa 117)
+- Metalar hammaddedir,
+- Mallar maddi görünümdür,
+- Hizmetler soyut operasyonlardır,
+- Deneyimler rehberlik edilen dönüşümler açısından anlam kazanır.
 
-- Deneyimi temalaştırmak
-- Olumlu işaretlerle izlenimleri uyumlu hale getirmek
-- Olumsuz işaretleri bertaraf etmek
-- İşin içine hatıralık nesneleri katmak
-- Beş duyuya hitap etmek
-
-Yazarlar, "İş Hayatı Tiyatrodur" isimli 6.bölümde, Pike Place Fish Market'in müşterilerine yaşattıkları deneyimi özetlemişler: Rol yap: gün, müşterinin günüdür; orada ol; tavrını seç.  
-Deneyim ekonomisi, doğal bir gelişim içinde dönüşüm ekonomisine doğru ilerledikçe, gittikçe daha çok sayıda şirketin rehberlik ettiği sonuçlar için para almasına bağlı olarak, deneyim sahneleyicileri bile sunularının metalaştığını göreceklerdir. (Sayfa 325) Yeni doğmakta olan dönüşüm ekonomisinde ürün müşteridir ve dönüşüm, onu satın alan bireyin kişisel özelliklerini değiştirmede bir yardımcı araçtır. (Sayfa 327) Her sununun farklı temel niteliği vardır:
-
-- Metalar, sadece imaline katıldıkları malların hammaddesidir.
-- Mallar, sadece sundukları hizmetin maddi görünümüdür.
-- Hizmetler, sadece sahneledikleri deneyimler açısından soyut operasyonlardır.
-- Deneyimler, sadece rehberlik ettikleri dönüşümler açısından akılda kalıcı olaylardır.
+Deneyim Ekonomisi, işletmelerin yalnızca mal ve hizmet sunan yapılar olmaktan çıkıp, tüketicilerin hayatlarında kalıcı izler bırakan dönüşüm sağlayıcılar haline gelmesi gerektiğini savunuyor. Pine ve Gilmore’un bu eseri, hem bireyler hem de şirketler için yeni bir vizyon ve sürdürülebilir başarı anlayışı sunuyor.

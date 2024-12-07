@@ -10,12 +10,14 @@ sayfa: "296"
 goodreads: "https://www.goodreads.com/book/show/4306637-what-they-teach-you-at-harvard-business-school"
 description: "Gazeteci Philip Delves Broughton, Harvard Business School'da geçirdiği iki yılı anlatıyor."
 published: true
-last_modified_at: 2023-01-14
+last_modified_at: 2024-12-07
 posted: 2015-12-26
 tag: "biyografi"
 reread: "no"
 rating: "4"
 num: "21"
+eng: ""
+update: "done"
 image: "/assets/old/what-they-teach-you-at-harvard-business-school.jpg"
 ---
 

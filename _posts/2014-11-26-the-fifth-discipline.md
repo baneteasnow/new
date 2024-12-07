@@ -25,9 +25,7 @@ Peter M. Senge’in Beşinci Disiplin kitabı, iş dünyasında öğrenme ve gel
 
 Bu dönüşümün merkezinde yer alan _öğrenen organizasyon_ kavramı, kitabın temel taşıdır. Dünya genelinde organizasyonların ulaşmak istediği ideal yapı olarak tanımlanan bu kavram, eğitim programları ve danışmanlık süreçlerinin vazgeçilmez bir parçası olmuştur. Ancak, Türkiye’de bu kavramın uygulama alanı hâlâ sınırlıdır. Kitap, 1980’lerden itibaren bu alanda yapılan çalışmaların kapsamlı bir incelemesini sunarak, konunun tarihsel gelişimini ve uygulanabilirliğini detaylandırmaktadır.
 
-##### [Organizasyonlarda Gorulen Ogrenme Eksiklikleri](#organizasyonlarda-gorulen-ogrenme-eksiklikleri)
-
-{: #organizasyonlarda-gorulen-ogrenme-ekslikleri }
+##### Organizasyonlarda Görülen Öğrenme Eksiklikleri
 
 Kitapta, çalışanların düşünce ve iletişim tarzlarının organizasyonlarda nasıl öğrenme eksikliklerine yol açtığına dikkat çekilir. Senge, bu eksikliklerin genellikle bireylerin iş birliği ve eleştirel düşünme konusundaki sınırlamalarından kaynaklandığını savunur. Öne çıkan öğrenme yetersizliklerinden bazıları şunlardır (sayfa 27):
 
@@ -52,17 +50,13 @@ Kitapta, çalışanların düşünce ve iletişim tarzlarının organizasyonlard
 - _“Yönetici takım miti”:_  
   Ekip içinde tutarlı bir görüntü sergilemek için çatışmaları ve farklı görüşleri bastırma eğilimi.
 
-##### [Bira Oyunu ve Sistem Dusuncecesi](#bira-oyunu-ve-sistem-dusuncesi)
-
-{: #bira-oyunu-ve-sistem-dusuncesi }
+##### Bira Oyunu ve Sistem Düşüncesi
 
 Kitapta, Massachusetts Teknoloji Enstitüsü’nde geliştirilmiş “Bira Oyunu” simülasyonuna geniş yer veriliyor. Bu simülasyon, bira üretim ve dağıtım sistemindeki perakendeciler, toptancılar ve üreticilerin kararlarını incelemek için tasarlanmıştır. Simülasyon, bireylerin kısa vadeli çıkarları göz önünde bulundurarak verdikleri kararların uzun vadeli sistematik sorunlara nasıl yol açabileceğini çarpıcı bir şekilde ortaya koyuyor. (sayfa 36)
 
 Bu bağlamda Senge, olayların yüzeydeki görünen şekliyle değil, sistemdeki ilişkiler ve dinamiklerle analiz edilmesi gerektiğini vurgular. Sistem düşüncesi, tüm disiplinleri birleştiren çerçeve olarak tanımlanır ve kitabın temelini oluşturur.
 
-##### [Besinci Disiplinin Yasalari](#besinci-disiplinin-yasalari)
-
-{: #besinci-disiplinin-yasalari }
+##### Beşinci Disiplinin Yasaları
 
 Kitap, organizasyonların karşılaştığı zorlukları anlamalarına yardımcı olan “Beşinci Disiplin Yasaları”nı sıralıyor. Bu yasalar, bireylerin ve organizasyonların sürdürülebilir başarıya ulaşması için rehber niteliği taşır. Bu yasalardan bazıları şunlardır (4.bölüm):
 
@@ -72,9 +66,7 @@ Kitap, organizasyonların karşılaştığı zorlukları anlamalarına yardımc�
 - Küçük değişiklikler büyük farklar yaratabilir, ancak bunlar genellikle en az dikkat çeken noktalardır.
 - Hem pastanız olur, hem de onu yiyebilirsiniz, ama aynı anda değil.
 
-##### [Ogrenen Organizasyonlarin Bes Disiplini](#ogrenen-organizasyonlarin-bes-disiplini)
-
-{: #ogrenen-organizasyonlarin-bes-disiplini }
+##### Öğrenen Organizasyonların Beş Disiplini
 
 Senge, öğrenen organizasyonların temelini oluşturan beş disiplini detaylı bir şekilde inceliyor:
 

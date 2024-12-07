@@ -8,7 +8,7 @@ yazar: "Jeff Howe"
 yil: "2008"
 sayfa: "246"
 goodreads: "https://www.goodreads.com/book/show/2601510-crowdsourcing"
-description: “Jeff Howe, Crowdsourcing kitabında, internetin gücüyle bir araya gelen bireylerin gönüllü olarak çalışarak yenilikçi çözümler ürettikleri projeleri ve bu kavramın iş dünyasında nasıl bir devrim yarattığını etkileyici örneklerle açıklıyor.”
+description: "Jeff Howe, Crowdsourcing kitabında, internetin gücüyle bir araya gelen bireylerin gönüllü olarak çalışarak yenilikçi çözümler ürettikleri projeleri ve bu kavramın iş dünyasında nasıl bir devrim yarattığını etkileyici örneklerle açıklıyor."
 last_modified_at: 2024-12-06
 published: true
 posted: 2015-05-02
