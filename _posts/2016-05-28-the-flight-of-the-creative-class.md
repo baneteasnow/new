@@ -16,6 +16,8 @@ tag: "sosyoloji"
 reread: "yes"
 rating: "5"
 num: "28"
+eng: ""
+update: ""
 image: "/assets/old/the-flight-of-the-creative-class.jpg"
 ---
 
