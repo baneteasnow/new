@@ -15,7 +15,7 @@ published: true
 posted: 2024-09-15
 tag: "sosyoloji"
 reread: "no"
-rating: "4"
+rating: "3"
 eng: ""
 num: "434"
 image: "/assets/new/hesap-lutfen.jpg"

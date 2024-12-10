@@ -8,29 +8,35 @@ yazar: "John Kuprenas, Matthew Frederick"
 yil: "2015"
 sayfa: "216"
 goodreads: "https://www.goodreads.com/book/show/15791129-101-things-i-learned-in-engineering-school"
-description: "Mühendislik Okulunda Öğrendiğim 101 Şey, farklı mühendislik dallarından çeşitli temel prensipleri okuyucuya kısa notlar şeklinde aktarıyor."
+description: "Mühendislik Okulunda Öğrendiğim 101 Şey, mühendislik dünyasına dair temel fikirleri kısa, anlaşılır notlar ve etkileyici çizimlerle anlatıyor."
 published: true
-last_modified_at: 2023-01-14
+last_modified_at: 2024-12-07
 posted: 2016-10-29
 tag: "mühendislik"
 reread: "no"
 rating: "4"
 num: "37"
+update: "done"
+eng: "101 Things I Learned in Engineering School explores fundamental engineering concepts through concise notes and engaging illustrations."
 image: "/assets/old/101-things-i-learned-in-engineering-school.jpg"
 ---
 
-Mühendislik Okulunda Öğrendiğim 101 Şey, farklı mühendislik dallarından çeşitli temel prensipleri okuyucuya kısa notlar şeklinde aktarıyor. Kitabın isminde de yer aldığı gibi tam 101 not paylaşılmış. Sağ sayfalarda çoğu zaman birkaç cümleyi aşmayan notlar ve sol sayfada da konuyla ilgili açıklayıcı bir çizim bulunuyor. Kitabın ilk sayfalarında İnşaat Mühendisliğinin en eski mühendislik dalı olduğu aktarılıyor. ABD'nin ilk mühendislik fakültesi 1802 yılında New York eyaletinde West Point kentinde ABD Kara Harp Okulu'nda kurulmuştur.
+Mühendislik Okulunda Öğrendiğim 101 Şey, mühendislik disiplinlerini anlamak isteyenler için tasarlanmış, kısa ve etkili bir rehber niteliğinde. Kitap, farklı mühendislik dallarından seçilmiş 101 temel prensibi kısa notlar ve açıklayıcı çizimlerle okuyucuyla buluşturuyor. Sağ sayfalarda yer alan özlü notlar, sol sayfalardaki basit ama etkili çizimlerle desteklenerek hem teknik bilgi hem de görsel hafıza açısından zengin bir okuma deneyimi sunuyor.
 
-Arka kapakta yer verildiği gibi
+Kitabın başında, inşaat mühendisliğinin en eski mühendislik dalı olduğu ve ABD’nin ilk mühendislik fakültesinin 1802 yılında West Point’te kurulduğu bilgisi paylaşılıyor. Bu tarihsel perspektif, mühendisliğin zaman içindeki gelişimini anlamak için değerli bir başlangıç noktası oluşturuyor.
 
-> "Mühendisliğin özü hesap yapmak değil problem çözmektir."
+Arka kapağındaki şu cümle, kitabın ana temasını güzel bir şekilde özetliyor:
 
-Kitapta geçmişte yaşanan bazı talihsiz olaylar mühendislik bakış açısı ile ele alınıyor; örneğin, Washington eyaletinde Tacoma Narrows aşma köprüsünün 1940 yılında çökmesi, Kansas City Hyatt Oteli yaya köprüsünün 1981 yılında çökmesi gibi. Bunun yanı sıra, Tunkhannock viyadükü ile Brooklyn Köprüsünün hikayesi de kitapta paylaşılıyor.
+> Mühendisliğin özü hesap yapmak değil, problem çözmektir.
 
-Kitap noktalanırken, son sayfada yapılan şu vurgulamaları alıntılamak isterim (101 - Büyük Süreklilik Ortamı):
+Kitapta, geçmişte yaşanan önemli mühendislik başarısızlıklarına ve başarılarına da yer veriliyor. Örneğin, Tacoma Narrows Köprüsü’nün 1940’taki çöküşü ve Kansas City Hyatt Oteli’nin yaya köprüsünün 1981’deki felaketi, mühendislik prensiplerinin uygulanmadığında ne tür sonuçlar doğurabileceğini gösteriyor. Bunun yanı sıra, Brooklyn Köprüsü ve Tunkhannock Viyadüğü gibi mühendislik harikalarının arka plan hikayeleri okuyucuyla paylaşılıyor.
 
-- Filozof: İnsan girişimlerinin paradigmaları, anlam ve değeri hakkında düşünür.
-- Bilim İnsanı: Kuram ve deneylerle doğayla ilgili ilkeleri belirler.
-- Mühendis: Kanıtlanmış bilimsel ilkelere dayanarak faydalı şeyler tasarlar.
-- Teknisyen: Bilinen yöntemleri kullanarak kontrol eder, arıza bulur ve uygular.
-- Kullanıcı: Pürüzsüz uygulama arzular, genellikle teknik bilgisi azdır.
+Kitap, mühendislik disiplininin yalnızca bir hesaplama süreci değil, insan ihtiyaçlarına yönelik yaratıcı bir problem çözme yöntemi olduğunu vurgulayarak sonlanıyor. Son bölümde yapılan şu ayrımlar, mühendislik süreçlerine dair kapsamlı bir bakış açısı sunuyor _(101 - Büyük Süreklilik Ortamı)_:
+
+- Filozof, anlam ve değer arar.
+- Bilim İnsanı, doğa yasalarını kuram ve deneylerle açıklar.
+- Mühendis, bilimsel ilkelere dayanarak faydalı şeyler tasarlar.
+- Teknisyen, bilinen yöntemlerle bu tasarımları kontrol eder ve uygular.
+- Kullanıcı, pürüzsüz bir uygulama ister, ancak genellikle teknik bilgiye sahip değildir.
+
+Mühendislik Okulunda Öğrendiğim 101 Şey, mühendislik ilkelerini kısa ve anlaşılır bir şekilde ele alarak, farklı bir perspektif arayanlara yeni fikirler sunuyor.

@@ -10,7 +10,7 @@ sayfa: "605"
 goodreads: "https://www.goodreads.com/book/show/113576.The_Smartest_Guys_in_the_Room"
 description: "The Smartest Guys in the Room, Enron’un hızlı yükselişi ve skandallarla dolu çöküşünü detaylı bir şekilde ele alıyor. Kitap, muhasebe usulsüzlükleri ve yönetim hırsının bir şirketi nasıl tarihin en büyük finansal skandallarından birine sürüklediğini gözler önüne seriyor."
 published: true
-last_modified_at: 2023-01-14
+last_modified_at: 2024-12-07
 posted: 2016-10-22
 tag: "marka profili"
 reread: "no"
