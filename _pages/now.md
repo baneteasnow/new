@@ -6,19 +6,19 @@
 # term
 # : definition
 #
-read: 55
+read: 56
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-12-01
+last_modified_at: 2024-12-14
 published: true
 
 # 1
-booktitle1: "Nexus"
+booktitle1: "Stuff Every Coffee Lover Should Know"
 bookyear1: 2024
-author1: "Yuval Noah Harari"
-sayfa1: 448
-pageread1: 199
+author1: "Candace Rose Rardon"
+sayfa1: 184
+pageread1: 34
 #
 # 2
 booktitle2: "Dinner with Darwin - Food, Drink, and Evolution"

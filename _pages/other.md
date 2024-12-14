@@ -17,6 +17,6 @@ _published: true_
 [bookshelf](/bookshelf.html)  
 [archive](/posts.html)
 
-_published: false_
-
 [antilibrary](/antilibrary.html)
+
+_published: false_
