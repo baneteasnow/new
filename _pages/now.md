@@ -6,13 +6,13 @@
 # term
 # : definition
 #
-read: 56
+read: 57
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-12-14
+last_modified_at: 2024-12-15
 published: true
-
+#
 # 1
 booktitle1: "Stuff Every Coffee Lover Should Know"
 bookyear1: 2024
@@ -21,11 +21,32 @@ sayfa1: 184
 pageread1: 34
 #
 # 2
-booktitle2: "Dinner with Darwin - Food, Drink, and Evolution"
-bookyear2: 2021
-author2: "Jonathan Silvertown"
-sayfa2: 296
-pageread2: 76
+booktitle2: "Think Like a Therapist"
+bookyear2: 2023
+author2: "Stephen Joseph"
+sayfa2: 144
+pageread2: 1
+#
+# 3
+booktitle3: "So Tell Me About the Last Time You Had Sex"
+bookyear3: 2023
+author3: "Ian Kerner"
+sayfa3: 376
+pageread3: 1
+#
+# 4
+booktitle4: "The Men on My Couch"
+bookyear4: 2022
+author4: "Brandy Engler, David Rensin"
+sayfa4: 304
+pageread4: 1
+#
+# 5
+booktitle5: "The Devil You Know"
+bookyear5: 2023
+author5: "Gwen Adshead, Eileen Horne"
+sayfa5: 360
+pageread5: 1
 #
 #
 #
@@ -100,5 +121,76 @@ _by_ {{ page.author2 }}
   <br />
   <div style="clear: both"></div>
 
+⁜ {{ page.read | plus: 3 }}
+
+{{ page.booktitle3 }} ({{ page.bookyear3 }})  
+_by_ {{ page.author3 }}
+
+  <div style="font-size: 50%; font-style: italic;">
+  {{ page.sayfa3 }} sayfa
+  </div>
+
+  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2024">
+  {{ page.pageread3 | times: 100 | divided_by: page.sayfa3 }}%
+  </div>
+
+  <div>
+    <progress title="{{ page.pageread3 }}/{{ page.sayfa3 }}" value="{{ page.pageread3 }}" max="{{ page.sayfa3 }}" style="width: 80%;"></progress>
+      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2024">
+      {{ page.pageread3 }}/{{ page.sayfa3 }}
+      </span>
+  </div>
+
   <br />
+  <div style="clear: both"></div>
+
+⁜ {{ page.read | plus: 4 }}
+
+{{ page.booktitle4 }} ({{ page.bookyear4 }})  
+_by_ {{ page.author4 }}
+
+  <div style="font-size: 50%; font-style: italic;">
+  {{ page.sayfa4 }} sayfa
+  </div>
+
+  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2024">
+  {{ page.pageread4 | times: 100 | divided_by: page.sayfa4 }}%
+  </div>
+
+  <div>
+    <progress title="{{ page.pageread4 }}/{{ page.sayfa4 }}" value="{{ page.pageread4 }}" max="{{ page.sayfa4 }}" style="width: 80%;"></progress>
+      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2024">
+      {{ page.pageread4 }}/{{ page.sayfa4 }}
+      </span>
+  </div>
+
+  <br />
+  <div style="clear: both"></div>
+
+⁜ {{ page.read | plus: 5 }}
+
+{{ page.booktitle5 }} ({{ page.bookyear5 }})  
+_by_ {{ page.author5 }}
+
+  <div style="font-size: 50%; font-style: italic;">
+  {{ page.sayfa5 }} sayfa
+  </div>
+
+  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2024">
+  {{ page.pageread5 | times: 100 | divided_by: page.sayfa5 }}%
+  </div>
+
+  <div>
+    <progress title="{{ page.pageread5 }}/{{ page.sayfa5 }}" value="{{ page.pageread5 }}" max="{{ page.sayfa5 }}" style="width: 80%;"></progress>
+      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2024">
+      {{ page.pageread5 }}/{{ page.sayfa5 }}
+      </span>
+  </div>
+
+  <br />
+  <div style="clear: both"></div>
+
+  <br />
+{% include image-gallery.html folder="/assets/through-the-year" %}
+  <div style="clear: both"></div>
 [🍃](https://www.next52books.com/now.html "şimdi okuduğum kitaplar")

@@ -10,14 +10,14 @@ yil: "2021"
 sayfa: "296"
 goodreads: "https://www.goodreads.com/book/show/43706493-novacene"
 description: ""
-last_modified_at: 2024-11-18
-published: false
-posted: 2024-11-18
+last_modified_at: 2024-12-15
+published: true
+posted: 2024-12-15
 tag: "sosyoloji"
 reread: "no"
-rating: "3"
+rating: "2"
 eng: ""
-num: ""
+num: "455"
 image: "/assets/new/dinner-with-darwin.jpg"
 update: "tobeupdated"
 ---

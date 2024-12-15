@@ -2,17 +2,17 @@
 # to be updated
 layout: post
 category: book
-title: "Candace Rose Rardon| Candace Rose Rardon (Kitap)"
-kitap: "Candace Rose Rardon"
+title: "Stuff Every Coffee Lover Should Know| Candace Rose Rardon (Kitap)"
+kitap: "Stuff Every Coffee Lover Should Know"
 tr: "Kahve Tutkununun El Kitabı"
 yazar: "Candace Rose Rardon"
 yil: "2024"
 sayfa: "183"
 goodreads: "https://www.goodreads.com/book/show/56705787-stuff-every-coffee-lover-should-know"
 description: ""
-last_modified_at: 2024-12-15
+last_modified_at: 2024-12-16
 published: false
-posted: 2024-12-15
+posted: 2024-12-16
 tag: "lifestyle"
 reread: "no"
 rating: "3"
