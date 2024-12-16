@@ -75,6 +75,10 @@ pageread5: 1
 #
 ---
 
+{% include image-gallery.html folder="/assets/now" %}
+
+<div style="clear: both"></div>
+
 ⁜ {{ page.read | plus: 1 }}
 
 {{ page.booktitle1 }} ({{ page.bookyear1 }})  
@@ -191,6 +195,8 @@ _by_ {{ page.author5 }}
   <div style="clear: both"></div>
 
   <br />
+
 {% include image-gallery.html folder="/assets/through-the-year" %}
+
   <div style="clear: both"></div>
 [🍃](https://www.next52books.com/now.html "şimdi okuduğum kitaplar")
