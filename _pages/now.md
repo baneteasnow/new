@@ -195,6 +195,7 @@ _by_ {{ page.author5 }}
   <div style="clear: both"></div>
 
   <br />
+_Through the Year_
 
 {% include image-gallery.html folder="/assets/through-the-year" %}
 
