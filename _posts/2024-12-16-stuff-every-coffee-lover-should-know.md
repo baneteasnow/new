@@ -2,7 +2,7 @@
 # to be updated
 layout: post
 category: book
-title: "Stuff Every Coffee Lover Should Know| Candace Rose Rardon (Kitap)"
+title: "Stuff Every Coffee Lover Should Know | Candace Rose Rardon (Kitap)"
 kitap: "Stuff Every Coffee Lover Should Know"
 tr: "Kahve Tutkununun El Kitabı"
 yazar: "Candace Rose Rardon"

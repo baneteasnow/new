@@ -6,11 +6,11 @@
 # term
 # : definition
 #
-read: 57
+read: 58
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-12-15
+last_modified_at: 2024-12-21
 published: true
 #
 # 1
@@ -28,10 +28,10 @@ sayfa2: 144
 pageread2: 1
 #
 # 3
-booktitle3: "So Tell Me About the Last Time You Had Sex"
-bookyear3: 2023
-author3: "Ian Kerner"
-sayfa3: 376
+booktitle3: "I’m Glad My Mom Died"
+bookyear3: 2022
+author3: "Jennette McCurdy"
+sayfa3: 304
 pageread3: 1
 #
 # 4
