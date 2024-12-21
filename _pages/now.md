@@ -25,14 +25,14 @@ booktitle2: "Think Like a Therapist"
 bookyear2: 2023
 author2: "Stephen Joseph"
 sayfa2: 144
-pageread2: 1
+pageread2: 12
 #
 # 3
 booktitle3: "So Tell Me About the Last Time You Had Sex"
 bookyear3: 2023
 author3: "Ian Kerner"
 sayfa3: 376
-pageread3: 1
+pageread3: 376
 #
 # 4
 booktitle4: "The Men on My Couch"
