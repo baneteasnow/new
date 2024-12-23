@@ -25,7 +25,7 @@ booktitle2: "Think Like a Therapist"
 bookyear2: 2023
 author2: "Stephen Joseph"
 sayfa2: 144
-pageread2: 12
+pageread2: 144
 #
 # 3
 booktitle3: "I’m Glad My Mom Died"
