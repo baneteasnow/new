@@ -6,7 +6,7 @@
 # term
 # : definition
 #
-read: 58
+read: 59
 #
 layout: page
 title: şimdi okuduğum kitaplar
@@ -21,11 +21,11 @@ sayfa1: 184
 pageread1: 34
 #
 # 2
-booktitle2: "Think Like a Therapist"
+booktitle2: "The Devil You Know"
 bookyear2: 2023
-author2: "Stephen Joseph"
-sayfa2: 144
-pageread2: 12
+author2: "Gwen Adshead, Eileen Horne"
+sayfa2: 360
+pageread2: 23
 #
 # 3
 booktitle3: "I’m Glad My Mom Died"
@@ -39,14 +39,7 @@ booktitle4: "The Men on My Couch"
 bookyear4: 2022
 author4: "Brandy Engler, David Rensin"
 sayfa4: 304
-pageread4: 1
-#
-# 5
-booktitle5: "The Devil You Know"
-bookyear5: 2023
-author5: "Gwen Adshead, Eileen Horne"
-sayfa5: 360
-pageread5: 1
+pageread4: 91
 #
 #
 #
@@ -167,30 +160,6 @@ _by_ {{ page.author4 }}
       {{ page.pageread4 }}/{{ page.sayfa4 }}
       </span>
   </div>
-
-  <br />
-  <div style="clear: both"></div>
-
-⁜ {{ page.read | plus: 5 }}
-
-{{ page.booktitle5 }} ({{ page.bookyear5 }})  
-_by_ {{ page.author5 }}
-
-  <div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa5 }} sayfa
-  </div>
-
-  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2024">
-  {{ page.pageread5 | times: 100 | divided_by: page.sayfa5 }}%
-  </div>
-
-  <div>
-    <progress title="{{ page.pageread5 }}/{{ page.sayfa5 }}" value="{{ page.pageread5 }}" max="{{ page.sayfa5 }}" style="width: 80%;"></progress>
-      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2024">
-      {{ page.pageread5 }}/{{ page.sayfa5 }}
-      </span>
-  </div>
-
   <br />
   <div style="clear: both"></div>
 
