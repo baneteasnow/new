@@ -6,11 +6,11 @@
 # term
 # : definition
 #
-read: 59
+read: 60
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-12-25
+last_modified_at: 2024-12-27
 published: true
 #
 # 1
@@ -33,14 +33,6 @@ bookyear3: 2022
 author3: "Jennette McCurdy"
 sayfa3: 304
 pageread3: 1
-#
-# 4
-booktitle4: "The Men on My Couch"
-bookyear4: 2022
-author4: "Brandy Engler, David Rensin"
-sayfa4: 304
-pageread4: 91
-#
 #
 #
 # ⁜ {{ page.read | plus: 2 }}
@@ -138,28 +130,6 @@ _by_ {{ page.author3 }}
       </span>
   </div>
 
-  <br />
-  <div style="clear: both"></div>
-
-⁜ {{ page.read | plus: 4 }}
-
-{{ page.booktitle4 }} ({{ page.bookyear4 }})  
-_by_ {{ page.author4 }}
-
-  <div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa4 }} sayfa
-  </div>
-
-  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2024">
-  {{ page.pageread4 | times: 100 | divided_by: page.sayfa4 }}%
-  </div>
-
-  <div>
-    <progress title="{{ page.pageread4 }}/{{ page.sayfa4 }}" value="{{ page.pageread4 }}" max="{{ page.sayfa4 }}" style="width: 80%;"></progress>
-      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2024">
-      {{ page.pageread4 }}/{{ page.sayfa4 }}
-      </span>
-  </div>
   <br />
   <div style="clear: both"></div>
 

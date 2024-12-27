@@ -10,14 +10,14 @@ yil: "2022"
 sayfa: "304"
 goodreads: "https://www.goodreads.com/book/show/15808772-the-men-on-my-couch"
 description: ""
-last_modified_at: 2024-12-20
-published: false
-posted: 2024-12-20
+last_modified_at: 2024-12-27
+published: true
+posted: 2024-12-27
 tag: "psikoloji"
 reread: "no"
-rating: "3"
+rating: "5"
 eng: ""
-num: ""
+num: "458"
 image: "/assets/new/the-men-on-my-couch.jpg"
 update: "tobeupdated"
 ---
