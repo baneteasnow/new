@@ -10,14 +10,14 @@ yil: "2023"
 sayfa: "360"
 goodreads: "https://www.goodreads.com/book/show/55711611-the-devil-you-know"
 description: ""
-last_modified_at: 2024-12-19
-published: false
-posted: 2024-12-19
+last_modified_at: 2024-12-29
+published: true
+posted: 2024-12-29
 tag: "psikoloji"
 reread: "no"
-rating: "3"
+rating: "5"
 eng: ""
-num: ""
+num: "459"
 image: "/assets/new/the-devil-you-know.jpg"
 update: "tobeupdated"
 ---

@@ -10,9 +10,9 @@ yil: "2022"
 sayfa: "304"
 goodreads: "https://www.goodreads.com/book/show/59366244-i-m-glad-my-mom-died"
 description: ""
-last_modified_at: 2024-12-21
+last_modified_at: 2024-12-31
 published: false
-posted: 2024-12-21
+posted: 2024-12-31
 tag: "profile"
 reread: "no"
 rating: "3"

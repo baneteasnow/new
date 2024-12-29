@@ -6,11 +6,11 @@
 # term
 # : definition
 #
-read: 60
+read: 61
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2024-12-27
+last_modified_at: 2024-12-29
 published: true
 #
 # 1
@@ -21,18 +21,11 @@ sayfa1: 184
 pageread1: 34
 #
 # 2
-booktitle2: "The Devil You Know"
-bookyear2: 2023
-author2: "Gwen Adshead, Eileen Horne"
-sayfa2: 360
-pageread2: 23
-#
-# 3
-booktitle3: "I’m Glad My Mom Died"
-bookyear3: 2022
-author3: "Jennette McCurdy"
-sayfa3: 304
-pageread3: 1
+booktitle2: "I’m Glad My Mom Died"
+bookyear2: 2022
+author2: "Jennette McCurdy"
+sayfa2: 304
+pageread2: 34
 #
 #
 # ⁜ {{ page.read | plus: 2 }}
@@ -104,29 +97,6 @@ _by_ {{ page.author2 }}
     <progress title="{{ page.pageread2 }}/{{ page.sayfa2 }}" value="{{ page.pageread2 }}" max="{{ page.sayfa2 }}" style="width: 80%;"></progress>
       <span style="font-size: 50%; font-style: italic;" title="reading challenge 2024">
       {{ page.pageread2 }}/{{ page.sayfa2 }}
-      </span>
-  </div>
-
-  <br />
-  <div style="clear: both"></div>
-
-⁜ {{ page.read | plus: 3 }}
-
-{{ page.booktitle3 }} ({{ page.bookyear3 }})  
-_by_ {{ page.author3 }}
-
-  <div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa3 }} sayfa
-  </div>
-
-  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2024">
-  {{ page.pageread3 | times: 100 | divided_by: page.sayfa3 }}%
-  </div>
-
-  <div>
-    <progress title="{{ page.pageread3 }}/{{ page.sayfa3 }}" value="{{ page.pageread3 }}" max="{{ page.sayfa3 }}" style="width: 80%;"></progress>
-      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2024">
-      {{ page.pageread3 }}/{{ page.sayfa3 }}
       </span>
   </div>
 
