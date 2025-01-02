@@ -32,7 +32,7 @@ booktitle3: "Empire of Pain"
 bookyear3: 2024
 author3: "Patrick Radden Keefe"
 sayfa3: 632
-pageread3: 1
+pageread3: 30
 #
 #
 # ⁜ {{ page.read | plus: 2 }}
