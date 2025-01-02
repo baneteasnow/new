@@ -237,7 +237,7 @@ a.footnote:after {
 
 blockquote {
 	font-style: italic;
-	border: 2px solid #ffff66;
+	border-left: 2px solid #ffff66;
 	padding: 1rem;
 }
 blockquote p {
