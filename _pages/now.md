@@ -79,8 +79,9 @@ pageread4: 49
 ⁜ {{ page.read | plus: 1 }}
 
 {{ page.booktitle1 }} ({{ page.bookyear1 }})  
-_by_ {{ page.author1 }}  
-{{ page.format1 }}
+_by_ {{ page.author1 }}
+
+<div style="font-size: 50%; font-style: italic;"> {{ page.format1 }} </div>
 
   <div style="font-size: 50%; font-style: italic;">
    {{ page.sayfa1 }} sayfa
@@ -103,8 +104,9 @@ _by_ {{ page.author1 }}
 ⁜ {{ page.read | plus: 2 }}
 
 {{ page.booktitle2 }} ({{ page.bookyear2 }})  
-_by_ {{ page.author2 }}  
-{{ page.format2 }}
+_by_ {{ page.author2 }}
+
+<div style="font-size: 50%; font-style: italic;"> {{ page.format2 }} </div>
 
   <div style="font-size: 50%; font-style: italic;">
   {{ page.sayfa2 }} sayfa
@@ -127,8 +129,9 @@ _by_ {{ page.author2 }}
 ⁜ {{ page.read | plus: 3 }}
 
 {{ page.booktitle3 }} ({{ page.bookyear3 }})  
-_by_ {{ page.author3 }}  
-{{ page.format3 }}
+_by_ {{ page.author3 }}
+
+<div style="font-size: 50%; font-style: italic;"> {{ page.format3 }} </div>
 
   <div style="font-size: 50%; font-style: italic;">
   {{ page.sayfa3 }} sayfa
@@ -151,8 +154,9 @@ _by_ {{ page.author3 }}
 ⁜ {{ page.read | plus: 4 }}
 
 {{ page.booktitle4 }} ({{ page.bookyear4 }})  
-_by_ {{ page.author4 }}  
-{{ page.format4 }}
+_by_ {{ page.author4 }}
+
+<div style="font-size: 50%; font-style: italic;"> {{ page.format4 }} </div>
 
   <div style="font-size: 50%; font-style: italic;">
   {{ page.sayfa4 }} sayfa
