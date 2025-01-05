@@ -11,7 +11,7 @@ read: 0
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-01-04
+last_modified_at: 2025-01-05
 published: true
 #
 # 1
@@ -161,7 +161,7 @@ _by_ {{ page.author4 }}
 <div style="font-size: 50%; font-style: italic;"> {{ page.format4 }} </div>
 
   <div style="font-size: 50%; font-style: italic;">
-  {{ page.suresaat44 }} saat {{ page.suredakika4 }} dakika
+  {{ page.suresaat4 }} saat {{ page.suredakika4 }} dakika
   </div>
 
   <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
