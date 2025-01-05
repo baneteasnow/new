@@ -42,9 +42,11 @@ pageread3: 30
 booktitle4: "The DNA Field and the Law of Resonance"
 bookyear4: 2019
 author4: "Pierre Franckh"
-sayfa4: 206
+suresaat4: 4
+suredakika4: 45
+sayfa4: 285
 format4: listening as an audiobook
-pageread4: 49
+pageread4: 22
 #
 #
 # ⁜ {{ page.read | plus: 2 }}
@@ -159,11 +161,11 @@ _by_ {{ page.author4 }}
 <div style="font-size: 50%; font-style: italic;"> {{ page.format4 }} </div>
 
   <div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa4 }} sayfa
+  {{ page.suresaat44 }} saat {{ page.suredakika4 }} dakika
   </div>
 
   <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-  {{ page.pageread4 | times: 100 | divided_by: page.sayfa3 }}%
+  {{ page.pageread4 | times: 100 | divided_by: page.sayfa4 }}%
   </div>
 
   <div>
