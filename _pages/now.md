@@ -173,7 +173,7 @@ _by_ {{ page.author4 }}
   <div>
     <progress title="{{ page.pageread4 }}/{{ page.sayfa4 }}" value="{{ page.pageread4 }}" max="{{ page.sayfa4 }}" style="width: 80%;"></progress>
       <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-      {{ page.suresaat4 }}"{{ page.suredakika4 }}'/{{ page.pagereadsaat4 }}"{{ page.pagereaddakika4 }}'
+      {{ page.pagereadsaat4 }}"{{ page.pagereaddakika4 }}'/{{ page.suresaat4 }}"{{ page.suredakika4 }}'
       </span>
   </div>
 
