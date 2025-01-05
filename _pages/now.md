@@ -47,6 +47,8 @@ suredakika4: 45
 sayfa4: 285
 format4: listening as an audiobook
 pageread4: 22
+pagereadsaat4: 0
+pagereaddakika4: 22
 #
 #
 # ⁜ {{ page.read | plus: 2 }}
@@ -171,7 +173,7 @@ _by_ {{ page.author4 }}
   <div>
     <progress title="{{ page.pageread4 }}/{{ page.sayfa4 }}" value="{{ page.pageread4 }}" max="{{ page.sayfa4 }}" style="width: 80%;"></progress>
       <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-      {{ page.pageread4 }}/{{ page.sayfa4 }}
+      {{ page.suresaat4 }}"{{ page.suredakika4 }}'/{{ page.pagereadsaat4 }}"{{ page.pagereaddakika4 }}'
       </span>
   </div>
 
