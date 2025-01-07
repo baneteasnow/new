@@ -11,7 +11,7 @@ read: 0
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-01-05
+last_modified_at: 2025-01-06
 published: true
 #
 # 1
@@ -28,7 +28,7 @@ bookyear2: 2024
 author2: "Naomi Klein"
 sayfa2: 416
 format2: reading as a book
-pageread2: 174
+pageread2: 306
 #
 # 3
 booktitle3: "Empire of Pain"
