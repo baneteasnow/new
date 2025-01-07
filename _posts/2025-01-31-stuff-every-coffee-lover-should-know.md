@@ -10,9 +10,9 @@ yil: "2024"
 sayfa: "183"
 goodreads: "https://www.goodreads.com/book/show/56705787-stuff-every-coffee-lover-should-know"
 description: ""
-last_modified_at: 2025-01-01
+last_modified_at: 2025-01-31
 published: false
-posted: 2025-01-01
+posted: 2025-01-31
 tag: "lifestyle"
 reread: "no"
 rating: "3"

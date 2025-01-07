@@ -7,11 +7,11 @@
 # : definition
 #
 # format: book, ebook, audiobook
-read: 0
+read: 1
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-01-06
+last_modified_at: 2025-01-07
 published: true
 #
 # 1
@@ -23,12 +23,12 @@ format1: reading as a book
 pageread1: 34
 #
 # 2
-booktitle2: "Doppelganger"
-bookyear2: 2024
-author2: "Naomi Klein"
-sayfa2: 416
+booktitle2: "The Age of Addiction"
+bookyear2: 2021
+author2: "David T. Courtwright"
+sayfa2: 408
 format2: reading as a book
-pageread2: 306
+pageread2: 0
 #
 # 3
 booktitle3: "Empire of Pain"

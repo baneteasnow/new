@@ -10,14 +10,14 @@ yil: "2024"
 sayfa: "416"
 goodreads: "https://www.goodreads.com/book/show/138505710-doppelganger"
 description: ""
-last_modified_at: 2025-01-01
-published: false
-posted: 2025-01-01
-tag: ""
+last_modified_at: 2025-01-07
+published: true
+posted: 2025-01-07
+tag: "sosyoloji"
 reread: "no"
-rating: "3"
+rating: "4"
 eng: ""
-num: ""
+num: "461"
 image: "/assets/new/doppelganger.jpg"
 update: "tobeupdated"
 ---
