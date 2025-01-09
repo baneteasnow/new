@@ -7,11 +7,11 @@
 # : definition
 #
 # format: book, ebook, audiobook
-read: 1
+read: 2
 #
 layout: page
 title: şimdi okuduğum kitaplar
-last_modified_at: 2025-01-07
+last_modified_at: 2025-01-08
 published: true
 #
 # 1
@@ -23,12 +23,12 @@ format1: reading as a book
 pageread1: 34
 #
 # 2
-booktitle2: "The Age of Addiction"
-bookyear2: 2021
-author2: "David T. Courtwright"
-sayfa2: 408
+booktitle2: "Ultra-Processed People - The Science Behind Food That Isn't Food"
+bookyear2: 2024
+author2: "Chris van Tulleken"
+sayfa2: 432
 format2: reading as a book
-pageread2: 0
+pageread2: 9
 #
 # 3
 booktitle3: "Empire of Pain"

@@ -10,9 +10,9 @@ yil: "2024"
 sayfa: "632"
 goodreads: "https://www.goodreads.com/book/show/138505710-doppelganger"
 description: ""
-last_modified_at: 2025-01-01
+last_modified_at: 2025-01-31
 published: false
-posted: 2025-01-01
+posted: 2025-01-31
 tag: ""
 reread: "no"
 rating: "3"
