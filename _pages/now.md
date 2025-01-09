@@ -28,7 +28,7 @@ bookyear2: 2024
 author2: "Chris van Tulleken"
 sayfa2: 432
 format2: reading as a book
-pageread2: 9
+pageread2: 20
 #
 # 3
 booktitle3: "Empire of Pain"
