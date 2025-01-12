@@ -7,7 +7,7 @@
 # : definition
 #
 # format: book, ebook, audiobook
-read: 3
+read: 4
 #
 layout: page
 title: şimdi okuduğum kitaplar
@@ -49,14 +49,6 @@ format4: listening as an audiobook
 pageread4: 22
 pagereadsaat4: 0
 pagereaddakika4: 22
-#
-# 5
-booktitle5: "Evet, Psikanaliz İyileştirir!"
-bookyear5: 2019
-author5: "J. D. Nasio"
-sayfa5: 96
-format5: reading as a book
-pageread2: 1
 #
 #
 # ⁜ {{ page.read | plus: 2 }}
@@ -182,31 +174,6 @@ _by_ {{ page.author4 }}
     <progress title="{{ page.pageread4 }}/{{ page.sayfa4 }}" value="{{ page.pageread4 }}" max="{{ page.sayfa4 }}" style="width: 80%;"></progress>
       <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
       {{ page.pagereadsaat4 }}"{{ page.pagereaddakika4 }}'/{{ page.suresaat4 }}"{{ page.suredakika4 }}'
-      </span>
-  </div>
-
-  <br />
-  <div style="clear: both"></div>
-
-⁜ {{ page.read | plus: 5 }}
-
-{{ page.booktitle5 }} ({{ page.bookyear5 }})  
-_by_ {{ page.author5 }}
-
-<div style="font-size: 50%; font-style: italic;"> {{ page.format5 }} </div>
-
-  <div style="font-size: 50%; font-style: italic;">
-  {{ page.sayfa5 }} sayfa
-  </div>
-
-  <div style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-  {{ page.pageread5 | times: 100 | divided_by: page.sayfa5 }}%
-  </div>
-
-  <div>
-    <progress title="{{ page.pageread5 }}/{{ page.sayfa5 }}" value="{{ page.pageread5 }}" max="{{ page.sayfa5 }}" style="width: 80%;"></progress>
-      <span style="font-size: 50%; font-style: italic;" title="reading challenge 2025">
-      {{ page.pageread5 }}/{{ page.sayfa5 }}
       </span>
   </div>
 

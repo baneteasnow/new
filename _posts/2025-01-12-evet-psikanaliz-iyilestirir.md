@@ -10,11 +10,11 @@ yil: "2019"
 sayfa: "96"
 goodreads: "https://www.goodreads.com/book/show/49963480-evet-psikanaliz-i-yile-tirir"
 description: ""
-last_modified_at: 2025-01-31
-published: false
-posted: 2025-01-31
+last_modified_at: 2025-01-12
+published: true
+posted: 2025-01-12
 tag: ""
-reread: "no"
+reread: "yes"
 rating: "3"
 eng: ""
 num: ""
